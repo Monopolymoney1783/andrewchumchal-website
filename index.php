@@ -1,22 +1,3 @@
-<?php
-include_once 'includes/db_connect.php';
-include_once 'includes/functions.php';
-sec_session_start();
-?>
-<?php
-if (!isset($_SERVER['HTTPS']) || $_SERVER['HTTPS'] !== 'on') {
-    if(!headers_sent()) {
-        header("Status: 301 Moved Permanently");
-        header(sprintf(
-            'Location: https://%s%s',
-            $_SERVER['HTTP_HOST'],
-            $_SERVER['REQUEST_URI']
-        ));
-        exit();
-    }
-}
-?>
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -68,21 +49,6 @@ if (!isset($_SERVER['HTTPS']) || $_SERVER['HTTPS'] !== 'on') {
               <li ><a href="/about/"><i class="fa fa-android"></i> About</a></li>
               <li ><a href="portfolio/"><i class="fa fa-laptop"></i> Portfolio</a></li>
               <!-- <li ><a href="/blog/"><i class="fa fa-terminal"></i> Blog</a></li> -->
-            </ul>
-            <ul class="nav navbar-nav navbar-right">
-              <?php if (login_check($mysqli) == true) : ?>
-                <li class="dropdown">
-                  <a class="dropdown-toggle" data-toggle="dropdown" href="#">  Welcome <?php echo htmlentities($_SESSION['username']); ?> <span class="caret"></span></a>
-                  <ul class="dropdown-menu">
-                    <li><a href="/user/profile.php?username=<?php echo $_SESSION['username'];?>"><i class="fa fa-user"></i> Profile</a></li>
-                    <li><a href="/user/edit-profile.php"> Edit Profile</a></li>
-                    <li><a href="/includes/logout.php/"><i class="fa fa-sign-out"></i> Logout</a></li>
-                  </ul>
-                </li> 
-              <?php else : ?>
-              <li><a href="/register/"><i class="fa fa-user"></i> Sign Up</a></li>
-              <li><a href="/login/"><i class="fa fa-sign-in"></i> Login</a></li>
-              <?php endif; ?>
             </ul>
           </div>
         </div>
@@ -208,31 +174,7 @@ if (!isset($_SERVER['HTTPS']) || $_SERVER['HTTPS'] !== 'on') {
 <script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/2.4.1/lodash.min.js" defer"></script>
 
 
-<script defer="defer"  src="/scripts/email.js"></script><script defer="defer"  src="/scripts/instagram.js"></script><script defer="defer"  src="/scripts/github.js"></script><script defer="defer"  src="/scripts/addlink.js"></script>
-    
-
-<!-- Matomo -->
-<script type="text/javascript">
-  var _paq = _paq || [];
-  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
-  _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
-  _paq.push(["setCookieDomain", "*.andrewchumchal.com"]);
-  _paq.push(["setDomains", ["*.andrewchumchal.com"]]);
-  _paq.push(['trackPageView']);
-  _paq.push(['enableLinkTracking']);
-  (function() {
-    var u="//owa.ahost4all.com/";
-    _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', '3']);
-    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-  })();
-</script>
-<noscript><p><img src="//owa.ahost4all.com/piwik.php?idsite=3&amp;rec=1" style="border:0;" alt="" /></p></noscript>
-<!-- End Matomo Code -->
-
-
-    
+<script defer="defer"  src="/scripts/email.js"></script><script defer="defer"  src="/scripts/instagram.js"></script><script defer="defer"  src="/scripts/github.js"></script><script defer="defer"  src="/scripts/addlink.js"></script>    
     <script src="https://cdn.logrocket.io/LogRocket.min.js" crossorigin="anonymous"></script>
     <script>window.LogRocket && window.LogRocket.init('l73nzi/andrew-chumchal');</script>
     </body>
