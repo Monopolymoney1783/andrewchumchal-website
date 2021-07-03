@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/andrewchumchal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.andrewchumchal.com
+  * I am andrewchumchal (https://keybase.io/andrewchumchal) on keybase.
+  * I have a public key with fingerprint B593 7DD5 E280 DEB5 7712  6BC5 1285 160C C58F 4D16
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010144ebfdd12a1a988cabcd83249d676f9d4f590bd3cd998d06cf69a96b76eadade0a",
+            "fingerprint": "b5937dd5e280deb577126bc51285160cc58f4d16",
+            "host": "keybase.io",
+            "key_id": "1285160cc58f4d16",
+            "kid": "010144ebfdd12a1a988cabcd83249d676f9d4f590bd3cd998d06cf69a96b76eadade0a",
+            "uid": "391c37443bb5caf07ffa12124991bd19",
+            "username": "andrewchumchal"
+        },
+        "service": {
+            "hostname": "www.andrewchumchal.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1499408887,
+    "expire_in": 157680000,
+    "prev": "4011cd8936e8587a61e71f79e3914d59b85891265ef32d00108c266f62914d3b",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMIuAnicrZJdSBVBFMevmUVmYt+iD+WWoGa3nf2Y3bk9RJgVSRmVUiJdZnZmdUt3
+r/fu9fpJGFFJgREFRdRLkkQPaRRlRB9aUASJEhraB5WXoiKqhwoTbFbsIeixeRnm
+nP/5zf+cmftzEn3JCamb67Ky+7dfTnh8ryPq2xXM/dEoEIfWC4FGYS+b3FgVZRE3
+uNeiQkAQgQgUhRGTUiBhgJGuG5gYVJclBVGoQRNRxVSRSKhsUIR0KkLDhAgjSDTI
+MMWUiVjIF0zLrmDhUNiyXY4lKpI1SlUm6SJlRNU0IEFiqEDSVQBFw1B1U6EA8sJK
+J+JVcHMER5jfcniMH4KT9v6h/8++o5M4GQFD1hRFJkQ1sClqpomBBDgLAUIB8oQR
+FrZxNeNqbNMwixmV0WqjElcJzfkCz9VaBvPG6/UzpYvFYv6/tX7DqeasUNhxHcOp
+4ppK1w1FAh7DrQ9NFjESnMIFiWVTPldeUcvCEcuxhQDgSsO1PD7g7hRR13UtX2B1
+ISvMgpanUDWoi3x597BajlREAPhokAyZruoahoBpwNQQ420rVEWERxF/IJWZskRF
+PlvdkCA0oeTlZSJ4DdbYjhCQuU1cwZERq8LGbjTMhOaeu+XTfQnJvhlJ07z/5kue
+lfbnF54unDnhjJS0+tvfHpDKDi3fn9uL03t3xT/0D3yDheNity9DLfk5fbmwIbFu
+dt/hHSdf5R2DD7fmdLRlzBxp3fMiYcOW3vTA2KpP6xrNiaep3WldKefXzmu5kfmy
+tGr+Ud/gl60SuJQVi9289e75x5yvr7731I18W+ZE8/yd1841ZZW1n1rRME6j8vCJ
+/tULj6zZtlEZahnovH2vIF7etrRv9Oqd0cyC5zUHd25KLd69yFJPNFzsedB4t+HX
+m7KUJT0XfowFtKahsfvx3Imzc8GC7FI2erzLWlnUR86y4PuVj17HnYkVyvrh63PP
+LLaeuMXF5XdquxcV7au5Eh/caSehZ9nVaWmffwM37UU2
+=ZMPo
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andrewchumchal
+
+==================================================================
