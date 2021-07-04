@@ -1,21 +1,3 @@
-<?php
-include_once '../includes/db_connect.php';
-include_once '../includes/functions.php';
-sec_session_start();
-?>
-<?php 
-if (!isset($_SERVER['HTTPS']) || $_SERVER['HTTPS'] !== 'on') {
-    if(!headers_sent()) {
-        header("Status: 301 Moved Permanently");
-        header(sprintf(
-            'Location: https://%s%s',
-            $_SERVER['HTTP_HOST'],
-            $_SERVER['REQUEST_URI']
-        ));
-        exit();
-    }
-}	
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
