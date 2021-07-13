@@ -79,7 +79,7 @@ function loadBackupCSS(url) {
 		<ul class="links">
 		    <li><a href="https://github.com/andrewchumchal"><i class="fa fa-github"></i>GitHub</a></li>
 		    <li><a href="https://www.linkedin.com/in/andrewchumchal"><i class="fa fa-linkedin"></i>LinkedIn</a></li>
-		    <li><a href="http://www.andrewchumchal.com/portfolio/Resume.pdf" rel="nofollow noindex"><i class="fa fa-file-text"></i>Resum&eacute;</a></li>
+		    <li><a href="http://andrewchumchal.com/portfolio/Resume.pdf" rel="nofollow noindex"><i class="fa fa-file-text"></i>Resum&eacute;</a></li>
 		</ul>
 	</div>
 </div>
