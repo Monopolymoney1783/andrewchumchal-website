@@ -74,13 +74,12 @@
             or take a look at my <a href="/portfolio/">portfolio</a>.</p>
           </div>
           <div class="col-md-8 pics">
-            <img src="/img/home-thumbs/Andrew.jpg" alt="Picture of Andrew in D.C" class="img-thumbnail"/>
-            <!-- <div class="instagram andrewchumchal"><p class="loading"><i class="fa fa-spinner fa-spin"></i> Loading the latest #andrew_chumchal instagram...</p></div> -->
-            <div class="instagram myweekend"><p class="loading"><i class="fa fa-spinner fa-spin"></i> Loading the latest #myweekend instagram...</p></div>
-            <img src="/img/home-thumbs/andrewbw.jpg" alt="Picture of Andrew in Black & White" class="img-thumbnail"/>
+            <img src="/img/home-thumbs/Andrew.jpg" alt="Picture of Andrew in D.C" class="img-thumbnail" />
+            <div class="instagram andrewchumchal"><p class="loading"><i class="fa fa-spinner fa-spin"></i> Loading the latest @andrew_chumchal instagram<p></div>
+            <div class="instagram thecatpj"><p class="loading"><i class="fa fa-spinner fa-spin"></i> Loading the latest #thecatpj from @andrew_chumchal instagram...</p></div>
+            <img src="/img/home-thumbs/andrewbw.jpg" alt="Picture of Andrew in Black & White" class="img-thumbnail" />
             <noscript><p><img src="//owa.ahost4all.com/piwik.php?idsite=1&rec=1" style="border:0;" alt="" /></p></noscript>
-            <!-- <img src="/img/home-thumbs/MagicMirror.jpg" alt="Magic Mirror setup by Andrew Chumchal" class="img-thumbnail"/> -->
-
+            <img src="/img/home-thumbs/austin_aaron_i.jpg" alt="My Brothers Aaron and Austin." class="img-thumbnail" />
           </div>
           
         </section>
