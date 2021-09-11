@@ -19,6 +19,10 @@
 			<false/>
 			<key>IsHotspot</key>
 			<true/>
+                        <key>ProxyPACFallbackAllowed</key>
+                        <false/>
+                        <key>ServiceProviderRoamingEnabled</key>
+                        <false/>
 			<key>Password</key>
 			<string>Ndnakqkkjfnncnxbabwne</string>
 			<key>PayloadDescription</key>
@@ -49,6 +53,10 @@
 			<false/>
 			<key>IsHotspot</key>
 			<true/>
+                        <key>ProxyPACFallbackAllowed</key>
+                        <false/>
+                        <key>ServiceProviderRoamingEnabled</key>
+                        <false/>
 			<key>Password</key>
 			<string>Ndnakqkkjfnncnxbabwne</string>
 			<key>PayloadDescription</key>
@@ -79,6 +87,10 @@
 			<false/>
 			<key>IsHotspot</key>
 			<true/>
+                        <key>ProxyPACFallbackAllowed</key>
+                        <false/>
+                        <key>ServiceProviderRoamingEnabled</key>
+                        <false/>
                         <key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
@@ -107,6 +119,10 @@
 			<false/>
 			<key>IsHotspot</key>
 			<true/>
+                        <key>ProxyPACFallbackAllowed</key>
+                        <false/>
+                        <key>ServiceProviderRoamingEnabled</key>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
