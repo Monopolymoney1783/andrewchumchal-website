@@ -2,10 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>DurationUntilRemoval</key>
-	<integer>2592000</integer>
 	<key>HasRemovalPasscode</key>
-	<false/>
+	<true/>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -15,22 +13,20 @@
 			<true/>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
+			<key>IsHotspot</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<true/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 			<key>NAIRealmNames</key>
                                <array>
-			              <string>shaw.ca</string>
+			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
                                </array>
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
-                        <key>AcceptEAPTypes</key>
-                               <array>
-                                      <integer>23</integer>
-                               </array>
 			<key>DisplayedOperatorName</key>
 			<string>ShawPasspoint</string>
 			<key>Password</key>
@@ -61,23 +57,20 @@
 			<true/>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
+			<key>IsHotspot</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<true/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 			<key>NAIRealmNames</key>
                                <array>
-			              <string>shaw.ca</string>
+			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
                                </array>
-
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
-                        <key>AcceptEAPTypes</key>
-                               <array>
-                                      <integer>23</integer>
-                               </array>
 			<key>DisplayedOperatorName</key>
 			<string>ShawMobileHotspot</string>
 			<key>Password</key>
@@ -116,6 +109,10 @@
 			<true/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
+                        <key>QoSMarkingEnabled</key>
+                        <false/>
+                        <key>QoSMarkingAppleAudioVideoCalls</key>
+                        <false/>
                         <key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
@@ -147,6 +144,10 @@
 			<key>DisableAssociationMACRandomization</key>
 			<true/>                        
                         <key>ServiceProviderRoamingEnabled</key>
+                        <false/>
+                        <key>QoSMarkingEnabled</key>
+                        <false/>
+                        <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
