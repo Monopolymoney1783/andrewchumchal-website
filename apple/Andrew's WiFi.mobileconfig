@@ -19,6 +19,18 @@
 			<false/>
 			<key>IsHotspot</key>
 			<true/>
+                        <key>DisplayedOperatorName</key>
+                        <string>bdjnamjnsn<string>
+                        <key>MCCAndMNCs</key>
+                        <string>938819</string>
+                        <key>HESSID</key>
+                        <string>1K:6J:46:DD:10:EB</string>
+                        <key>NAIRealmNames</key>
+                        <string>null</string>
+                        <key>ProxyPACFallbackAllowed</key>
+                        <false/>
+                        <key>ServiceProviderRoamingEnabled</key>
+                        <false/>
 			<key>Password</key>
 			<string>Ndnakqkkjfnncnxbabwne</string>
 			<key>PayloadDescription</key>
@@ -49,6 +61,18 @@
 			<false/>
 			<key>IsHotspot</key>
 			<true/>
+                        <key>DisplayedOperatorName</key>
+                        <string>bdjnamjnsn<string>
+                        <key>MCCAndMNCs</key>
+                        <string>938819</string>
+                        <key>HESSID</key>
+                        <string>1K:6J:46:DD:10:EB</string>
+                        <key>NAIRealmNames</key>
+                        <string>null</string>
+                        <key>ProxyPACFallbackAllowed</key>
+                        <false/>
+                        <key>ServiceProviderRoamingEnabled</key>
+                        <false/>
 			<key>Password</key>
 			<string>Ndnakqkkjfnncnxbabwne</string>
 			<key>PayloadDescription</key>
@@ -79,6 +103,18 @@
 			<false/>
 			<key>IsHotspot</key>
 			<true/>
+                        <key>DisplayedOperatorName</key>
+                        <string>bdjnamjnsn<string>
+                        <key>MCCAndMNCs</key>
+                        <string>938819</string>
+                        <key>HESSID</key>
+                        <string>1K:6J:46:DD:10:EB</string>
+                        <key>NAIRealmNames</key>
+                        <string>null</string>
+                        <key>ProxyPACFallbackAllowed</key>
+                        <false/>
+                        <key>ServiceProviderRoamingEnabled</key>
+                        <false/>
                         <key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
@@ -107,6 +143,18 @@
 			<false/>
 			<key>IsHotspot</key>
 			<true/>
+                        <key>DisplayedOperatorName</key>
+                        <string>bdjnamjnsn<string>
+                        <key>MCCAndMNCs</key>
+                        <string>938819</string>
+                        <key>HESSID</key>
+                        <string>1K:6J:46:DD:10:EB</string>
+                        <key>NAIRealmNames</key>
+                        <string>null</string>
+                        <key>ProxyPACFallbackAllowed</key>
+                        <false/>
+                        <key>ServiceProviderRoamingEnabled</key>
+                        <false/>
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
