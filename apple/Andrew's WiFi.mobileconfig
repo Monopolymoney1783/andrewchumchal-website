@@ -12,23 +12,23 @@
 			<key>AutoJoin</key>
 			<true/>
 			<key>CaptiveBypass</key>
-			<false/>
+			<true/>
 			<key>EncryptionType</key>
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
-			<true/>
-			<key>IsHotspot</key>
 			<false/>
+			<key>IsHotspot</key>
+			<true/>
 			<key>Password</key>
-			<string>E3meKfjcf*mT8069wk!7</string>
+			<string>Ndnakqkkjfnncnxbabwne</string>
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
-			<string>Wi-Fi</string>
+			<string>ShawPasspoint</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.C4B21A04-CAC1-401E-891B-2C19148C11D0</string>
+			<string>hotspot.wifi.shaw.ca</string>
 			<key>PayloadType</key>
-			<string>com.apple.wifi.managed</string>
+			<string>hotspot.wifi.shaw.ca</string>
 			<key>PayloadUUID</key>
 			<string>C4B21A04-CAC1-401E-891B-2C19148C11D0</string>
 			<key>PayloadVersion</key>
@@ -36,15 +36,15 @@
 			<key>ProxyType</key>
 			<string>None</string>
 			<key>SSID_STR</key>
-			<string>Prohibited Area</string>
+			<string>ShawPasspoint</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>Andrew's WiFi</string>
+	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
-	<string>ARenfroes-MacBook-Pro.EB6841E5-8153-4EF5-A41D-796C649051ED</string>
+	<string>hotspot.wifi.shaw.ca</string>
 	<key>PayloadOrganization</key>
-	<string>Andrew Chumchal</string>
+	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
