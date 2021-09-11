@@ -38,8 +38,6 @@
 			<key>SSID_STR</key>
 			<string>ShawPasspoint</string>
 		</dict>
-	</array>
-        <array>
 		<dict>
 			<key>AutoJoin</key>
 			<false/>
@@ -70,8 +68,6 @@
 			<key>SSID_STR</key>
 			<string>ShawMobileHotspot</string>
 		</dict>
-	</array>
-        <array>
 		<dict>
 			<key>AutoJoin</key>
 			<false/>
@@ -100,8 +96,6 @@
 			<key>SSID_STR</key>
 			<string>ShawGo</string>
 		</dict>
-	</array>
-        <array>
 		<dict>
 			<key>AutoJoin</key>
 			<false/>
