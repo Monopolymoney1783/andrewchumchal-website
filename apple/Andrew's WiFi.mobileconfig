@@ -22,7 +22,7 @@
 			<key>NAIRealmNames</key>
                                <array>
 			              <string>shaw.ca</string>
-                               <array/>
+                               </array>
 			<key>DisplayedOperatorName</key>
 			<string>ShawPasspoint</string>
 			<key>Password</key>
@@ -60,7 +60,7 @@
 			<key>NAIRealmNames</key>
                                <array>
 			              <string>shaw.ca</string>
-                               <array/>
+                               </array>
 			<key>DisplayedOperatorName</key>
 			<string>ShawMobileHotspot</string>
 			<key>Password</key>
