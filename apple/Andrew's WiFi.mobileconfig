@@ -20,7 +20,9 @@
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 			<key>NAIRealmNames</key>
-			<string>shaw.ca</string>
+                               <array>
+			              <string>shaw.ca</string>
+                               <array/>
 			<key>DisplayedOperatorName</key>
 			<string>ShawPasspoint</string>
 			<key>Password</key>
@@ -56,7 +58,9 @@
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 			<key>NAIRealmNames</key>
-			<string>shaw.ca</string>
+                               <array>
+			              <string>shaw.ca</string>
+                               <array/>
 			<key>DisplayedOperatorName</key>
 			<string>ShawMobileHotspot</string>
 			<key>Password</key>
