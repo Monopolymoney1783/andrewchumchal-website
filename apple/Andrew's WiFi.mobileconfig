@@ -10,7 +10,39 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
+			<false/>
+			<key>CaptiveBypass</key>
 			<true/>
+			<key>EncryptionType</key>
+			<string>WPA2</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>Password</key>
+			<string>Ndnakqkkjfnncnxbabwne</string>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>ShawPasspoint</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.C4B21A07-CAC1-401E-891C-2C19148C11D8</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>C4B21A07-CAC1-401E-891C-2C19148C11D8</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>ShawPasspoint</string>
+		</dict>
+	</array>
+        <array>
+		<dict>
+			<key>AutoJoin</key>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>EncryptionType</key>
@@ -26,11 +58,11 @@
 			<key>PayloadDisplayName</key>
 			<string>ShawMobileHotspot</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.C4B21A07-CAC1-401E-891C-2C19148C11D8</string>
+			<string>com.apple.wifi.managed.C4B21A03-CAC2-401E-891B-2C19148C11D8</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>C4B21A07-CAC1-401E-891C-2C19148C11D8</string>
+			<string>C4B21A03-CAC2-401E-891B-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyType</key>
@@ -39,8 +71,68 @@
 			<string>ShawMobileHotspot</string>
 		</dict>
 	</array>
+        <array>
+		<dict>
+			<key>AutoJoin</key>
+			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
+			<key>EncryptionType</key>
+			<string>None</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+                        <key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>ShawGo</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.C4B21A06-CAC7-401E-891D-2C19148C11D8</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>C4B21A06-CAC7-401E-891D-2C19148C11D2</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>ShawGo</string>
+		</dict>
+	</array>
+        <array>
+		<dict>
+			<key>AutoJoin</key>
+			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
+			<key>EncryptionType</key>
+			<string>None</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<true/>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>ShawMobileHotspot</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.C4B21B17-CAB2-401F-451C-3C19148C11D9</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>C4B21B17-CAB2-401F-451C-3C19148C11D9</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>SSID_STR</key>
+			<string>ShawOpen</string>
+		</dict>
+	</array>
 	<key>PayloadDisplayName</key>
-	<string>ShawMobileHotspo</string>
+	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
 	<string>hotspot.wifi.shaw.ca</string>
 	<key>PayloadOrganization</key>
