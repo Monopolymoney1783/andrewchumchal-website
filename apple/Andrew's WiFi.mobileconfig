@@ -23,6 +23,14 @@
                                <array>
 			              <string>shaw.ca</string>
                                </array>
+                        <key>QoSMarkingEnabled</key>
+                        <false/>
+                        <key>QoSMarkingAppleAudioVideoCalls</key>
+                        <false/>
+                        <key>AcceptEAPTypes</key>
+                               <array>
+                                      <integer>23</integer>
+                               </array>
 			<key>DisplayedOperatorName</key>
 			<string>ShawPasspoint</string>
 			<key>Password</key>
@@ -60,6 +68,15 @@
 			<key>NAIRealmNames</key>
                                <array>
 			              <string>shaw.ca</string>
+                               </array>
+
+                        <key>QoSMarkingEnabled</key>
+                        <false/>
+                        <key>QoSMarkingAppleAudioVideoCalls</key>
+                        <false/>
+                        <key>AcceptEAPTypes</key>
+                               <array>
+                                      <integer>23</integer>
                                </array>
 			<key>DisplayedOperatorName</key>
 			<string>ShawMobileHotspot</string>
