@@ -14,7 +14,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>EncryptionType</key>
-			<string>WPA</string>
+			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -24,7 +24,7 @@
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
-			<string>ShawPasspoint</string>
+			<string>ShawGo</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.wifi.managed.C4B21A04-CAC1-401E-891B-2C19148C11D0</string>
 			<key>PayloadType</key>
@@ -36,11 +36,11 @@
 			<key>ProxyType</key>
 			<string>None</string>
 			<key>SSID_STR</key>
-			<string>ShawPasspoint</string>
+			<string>ShawGo</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
-	<string>ShawPasspoint</string>
+	<string>ShawGo</string>
 	<key>PayloadIdentifier</key>
 	<string>hotspot.wifi.shaw.ca</string>
 	<key>PayloadOrganization</key>
