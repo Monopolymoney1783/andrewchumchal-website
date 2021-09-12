@@ -14,7 +14,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 			<key>NAIRealmNames</key>
@@ -73,7 +73,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>
+			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 			<key>NAIRealmNames</key>
@@ -134,9 +134,9 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-			<false/>
-			<key>DisableAssociationMACRandomization</key>
 			<true/>
+			<key>DisableAssociationMACRandomization</key>
+			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
                         <key>QoSMarkingEnabled</key>
@@ -182,9 +182,9 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<true/>                        
+			<false/>                        
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
                         <key>QoSMarkingEnabled</key>
