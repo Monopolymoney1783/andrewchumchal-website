@@ -206,7 +206,7 @@
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
-			<string>ShawMobileHotspot</string>
+			<string>ShawOpen</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.wifi.managed.C4B21B17-CAB2-401F-451C-3C19148C11D9</string>
 			<key>PayloadType</key>
