@@ -8,13 +8,11 @@
 	<array>
 		<dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
-			<key>IsHotspot</key>
-			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<true/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -27,6 +25,23 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+                        <key>TLSAllowTrustExceptions</key>
+                        <false/>
+                        <key>PayloadCertificateAnchorUUID</key>
+                        <array>
+                        <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
+                        </array>
+                        <key>TLSTrustedServerNames</key>
+                        <array>
+                        <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
+                        </array>
+                        <key>OuterIdentity</key>
+                        <string>AnonymousssssMothafuck</string>
+                        <key>RoamingConsortiumOIs</key>
+                        <array>
+                        <string>Djjahahhnnwnwnhxhuubbssnsn</string>
+                        <string>Djjahahhnnwnwnhxhusnmwjqjjuck</string>
+                        </array>
 			<key>DisplayedOperatorName</key>
 			<string>ShawPasspoint</string>
 			<key>Password</key>
@@ -52,13 +67,11 @@
 		</dict>
 		<dict>
 			<key>AutoJoin</key>
-			<true/>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
-			<key>IsHotspot</key>
-			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<true/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -71,6 +84,23 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+                        <key>TLSAllowTrustExceptions</key>
+                        <false/>
+                        <key>PayloadCertificateAnchorUUID</key>
+                        <array>
+                        <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
+                        </array>
+                        <key>TLSTrustedServerNames</key>
+                        <array>
+                        <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
+                        </array>
+                        <key>OuterIdentity</key>
+                        <string>AnonymousssssMothafuck2771</string>
+                        <key>RoamingConsortiumOIs</key>
+                        <array>
+                        <string>Djjahahhnnwnwnhxhuubbssnsn</string>
+                        <string>Djjahahhnnwnwnhxhusnmwjqjjuck</string>
+                        </array>
 			<key>DisplayedOperatorName</key>
 			<string>ShawMobileHotspot</string>
 			<key>Password</key>
@@ -104,7 +134,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<true/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -113,6 +143,18 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+                        <key>TLSAllowTrustExceptions</key>
+                        <false/>
+                        <key>PayloadCertificateAnchorUUID</key>
+                        <array>
+                        <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
+                        </array>
+                        <key>TLSTrustedServerNames</key>
+                        <array>
+                        <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
+                        </array>
+                        <key>OuterIdentity</key>
+                        <string>AnonymousssssMothafuck8181939</string>
                         <key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
@@ -140,7 +182,7 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<true/>                        
                         <key>ServiceProviderRoamingEnabled</key>
@@ -149,6 +191,18 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+                        <key>TLSAllowTrustExceptions</key>
+                        <false/>
+                        <key>PayloadCertificateAnchorUUID</key>
+                        <array>
+                        <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
+                        </array>
+                        <key>TLSTrustedServerNames</key>
+                        <array>
+                        <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
+                        </array>
+                        <key>OuterIdentity</key>
+                        <string>AnonymousssssMothafuck81281919983</string>
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
