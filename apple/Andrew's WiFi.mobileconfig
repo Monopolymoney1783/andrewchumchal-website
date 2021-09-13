@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>HasRemovalPasscode</key>
-	<true/>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -35,6 +33,8 @@
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
                         </array>
+			<key>IsHotspot</key>
+			<true/>
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck</string>
                         <key>RoamingConsortiumOIs</key>
@@ -76,6 +76,8 @@
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
+			<key>IsHotspot</key>
+			<true/>
 			<key>NAIRealmNames</key>
                                <array>
 			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
@@ -84,6 +86,10 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+			<key>NAIRealmNames</key>
+                               <array>
+			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
+                               </array>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>PayloadCertificateAnchorUUID</key>
@@ -143,6 +149,10 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+			<key>NAIRealmNames</key>
+                               <array>
+			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
+                               </array>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>PayloadCertificateAnchorUUID</key>
@@ -155,6 +165,11 @@
                         </array>
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck8181939</string>
+                        <key>RoamingConsortiumOIs</key>
+                        <array>
+                        <string>Djjahahhnnwnwnhxhuubbssnsn</string>
+                        <string>Djjahahhnnwnwnhxhusnmwjqjjuck</string>
+                        </array>
                         <key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
@@ -191,6 +206,10 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+			<key>NAIRealmNames</key>
+                               <array>
+			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
+                               </array>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>PayloadCertificateAnchorUUID</key>
@@ -203,6 +222,11 @@
                         </array>
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck81281919983</string>
+                        <key>RoamingConsortiumOIs</key>
+                        <array>
+                        <string>Djjahahhnnwnwnhxhuubbssnsn</string>
+                        <string>Djjahahhnnwnwnhxhusnmwjqjjuck</string>
+                        </array>
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
