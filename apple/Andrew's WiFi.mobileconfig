@@ -33,8 +33,6 @@
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
                         </array>
-			<key>IsHotspot</key>
-			<true/>
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck</string>
                         <key>RoamingConsortiumOIs</key>
@@ -76,8 +74,6 @@
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
-			<key>IsHotspot</key>
-			<true/>
 			<key>NAIRealmNames</key>
                                <array>
 			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
@@ -139,8 +135,6 @@
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
-			<key>IsHotspot</key>
-			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -196,8 +190,6 @@
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
-			<key>IsHotspot</key>
-			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>                        
                         <key>ServiceProviderRoamingEnabled</key>
