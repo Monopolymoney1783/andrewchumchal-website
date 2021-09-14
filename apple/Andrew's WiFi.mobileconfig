@@ -82,10 +82,6 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
-			<key>NAIRealmNames</key>
-                               <array>
-			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
-                               </array>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>PayloadCertificateAnchorUUID</key>
@@ -244,13 +240,16 @@
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
-	<false/>
+	<true/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
+
 	<string>3D6FEC8D-5CCD-4A26-82B9-1CBC89048A1D</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+	<key>PayloadEnabled</key>
+        <true/>
 	<key>RemovalPassword</key>
         <string>FuckShawWifi</string>
 </dict>
