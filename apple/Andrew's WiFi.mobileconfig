@@ -60,8 +60,6 @@
 			<string>C4B21A07-CAC1-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>PayloadEnabled</key>
-			<true/>
 			<key>ProxyType</key>
 			<string>None</string>
 			<key>SSID_STR</key>
@@ -121,8 +119,6 @@
 			<string>C4B21A03-CAC2-401E-891B-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>PayloadEnabled</key>
-			<true/>
 			<key>ProxyType</key>
 			<string>None</string>
 			<key>SSID_STR</key>
@@ -178,8 +174,6 @@
 			<string>C4B21A06-CAC7-401E-891D-2C19148C11D2</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>PayloadEnabled</key>
-			<true/>
 			<key>ProxyType</key>
 			<string>None</string>
 			<key>SSID_STR</key>
@@ -235,8 +229,6 @@
 			<string>C4B21B17-CAB2-401F-451C-3C19148C11D9</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-			<key>PayloadEnabled</key>
-			<true/>
 			<key>ProxyType</key>
 			<string>None</string>
 			<key>SSID_STR</key>
