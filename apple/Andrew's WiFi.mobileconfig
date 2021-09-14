@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+        <key>HasRemovalPasscode</key>
+        <true/>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -82,10 +84,6 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
-			<key>NAIRealmNames</key>
-                               <array>
-			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
-                               </array>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>PayloadCertificateAnchorUUID</key>
