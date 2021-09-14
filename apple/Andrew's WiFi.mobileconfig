@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-        <key>HasRemovalPasscode</key>
-        <true/>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
@@ -60,6 +58,8 @@
 			<string>C4B21A07-CAC1-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>PayloadEnabled</key>
+			<true/>
 			<key>ProxyType</key>
 			<string>None</string>
 			<key>SSID_STR</key>
@@ -119,6 +119,8 @@
 			<string>C4B21A03-CAC2-401E-891B-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>PayloadEnabled</key>
+			<true/>
 			<key>ProxyType</key>
 			<string>None</string>
 			<key>SSID_STR</key>
@@ -174,6 +176,8 @@
 			<string>C4B21A06-CAC7-401E-891D-2C19148C11D2</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>PayloadEnabled</key>
+			<true/>
 			<key>ProxyType</key>
 			<string>None</string>
 			<key>SSID_STR</key>
@@ -229,25 +233,12 @@
 			<string>C4B21B17-CAB2-401F-451C-3C19148C11D9</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>PayloadEnabled</key>
+			<true/>
 			<key>ProxyType</key>
 			<string>None</string>
 			<key>SSID_STR</key>
 			<string>ShawOpen</string>
-		</dict>
-
-                <dict>
-			<key>Description</key>
-			<string>Enter the password in the RemovalPassword key to remove this profile</string>
-			<key>PayloadType</key>
-			<string>com.apple.profileRemovalPassword</string>
-			<key>PayloadUUID</key>
-			<string>5933EF14-6BB8-4BD4-BCF4-0C20B25B52CB</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>PayloadEnabled</key>
-			<true/>
-			<key>RemovalPassword</key>
-			<string>FuckShawWifi</string>
 		</dict>
 
 	</array>
