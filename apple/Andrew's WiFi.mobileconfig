@@ -5,16 +5,15 @@
 	<key>PayloadContent</key>
 	<array>
 
-                <dict>
+		<dict>
 			<key>AutoJoin</key>
+			<false/>
+			<key>OneTimeUserPassword</key>
 			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
-			<key>DisplayedOperatorName</key>
-			<string>ShawMobileHotspot</string>
-			<key>DomainName</key>
-			<string>ShawMobileHotspot</string>
-			<key>EAPClientConfiguration</key>
+
+                        <key>EAPClientConfiguration</key>
 			<dict>
 				<key>AcceptEAPTypes</key>
 				<array>
@@ -34,11 +33,9 @@
 				<string></string>
 				<key>PayloadCertificateAnchorUUID</key>
 				<array>
-					<string></string>
+					<string>7faf659b-3c4a-4e5a-bd8d-a9096ecf8c2b</string>
 				</array>
-				<key>SystemModeCredentialsSource</key>
-				<string>ActiveDirectory</string>
-				<key>TLSAllowTrustExceptions</key>
+			        <key>TLSAllowTrustExceptions</key>
 				<false/>
 				<key>TLSTrustedServerNames</key>
 				<array>
@@ -51,84 +48,6 @@
 				<key>UserPassword</key>
 				<string>Jdjsjajajajajjajjajjccksjaj</string>
 			</dict>
-			<key>EncryptionType</key>
-			<string>Any</string>
-			<key>HIDDEN_NETWORK</key>
-			<false/>
-			<key>IsHotspot</key>
-			<false/>
-			<key>MCCAndMNCs</key>
-			<array>
-				<string></string>
-			</array>
-			<key>NAIRealmNames</key>
-			<array>
-				<string></string>
-			</array>
-			<key>NONEXISTENT</key>
-			<string></string>
-			<key>Password</key>
-			<string>:$2&1&1&8;88;8,81&1&1&&:&8;</string>
-			<key>PayloadCertificateUUID</key>
-			<string></string>
-			<key>PayloadDescription</key>
-			<string>Configures Wi-Fi settings</string>
-			<key>PayloadDisplayName</key>
-			<string>Wi-Fi</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.C4B21A07-CAC1-401E-891C-2C19148C11D8</string>
-			<key>PayloadOrganization</key>
-			<string>hotspot.wifi.shaw.ca</string>
-			<key>PayloadType</key>
-			<string>com.apple.wifi.managed</string>
-			<key>PayloadUUID</key>
-			<string>C4B21A07-CAC1-401E-891C-2C19148C11D8</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-			<key>ProxyPACFallbackAllowed</key>
-			<false/>
-			<key>ProxyPACURL</key>
-			<string></string>
-			<key>ProxyPassword</key>
-			<string></string>
-			<key>ProxyServer</key>
-			<string></string>
-			<key>ProxyServerPort</key>
-			<integer>0</integer>
-			<key>ProxyType</key>
-			<string>None</string>
-			<key>ProxyUsername</key>
-			<string></string>
-			<key>QoSMarkingPolicy</key>
-			<dict>
-				<key>QoSMarkingAppleAudioVideoCalls</key>
-				<false/>
-				<key>QoSMarkingEnabled</key>
-				<false/>
-				<key>QoSMarkingWhitelistedAppIdentifiers</key>
-				<array>
-					<string></string>
-				</array>
-			</dict>
-			<key>RoamingConsortiumOIs</key>
-			<array>
-				<string>28181828848838194484888282281919</string>
-			</array>
-			<key>SSID_STR</key>
-			<string>ShawMobileHotspot</string>
-			<key>ServiceProviderRoamingEnabled</key>
-			<false/>
-			<key>SetupModes</key>
-			<string>System</string>
-			<key>TLSCertificateRequired</key>
-			<true/>
-		</dict>
-
-		<dict>
-			<key>AutoJoin</key>
-			<false/>
-			<key>CaptiveBypass</key>
-			<true/>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
@@ -143,6 +62,8 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+			<key>TLSCertificateRequired</key>
+			<true/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>PayloadCertificateAnchorUUID</key>
@@ -186,6 +107,8 @@
 		<dict>
 			<key>AutoJoin</key>
 			<false/>
+			<key>OneTimeUserPassword</key>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>HIDDEN_NETWORK</key>
@@ -202,6 +125,8 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+			<key>TLSCertificateRequired</key>
+			<true/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>PayloadCertificateAnchorUUID</key>
@@ -245,6 +170,8 @@
 		<dict>
 			<key>AutoJoin</key>
 			<false/>
+			<key>OneTimeUserPassword</key>
+			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>EncryptionType</key>
@@ -269,6 +196,8 @@
                         <array>
                         <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
                         </array>
+			<key>TLSCertificateRequired</key>
+			<true/>
                         <key>TLSTrustedServerNames</key>
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
@@ -302,6 +231,8 @@
 			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
+			<key>OneTimeUserPassword</key>
+			<false/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
@@ -324,6 +255,8 @@
                         <array>
                         <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
                         </array>
+			<key>TLSCertificateRequired</key>
+			<true/>
                         <key>TLSTrustedServerNames</key>
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
