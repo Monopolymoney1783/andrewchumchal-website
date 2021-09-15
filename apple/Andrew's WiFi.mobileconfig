@@ -17,7 +17,13 @@
 			<dict>
 				<key>AcceptEAPTypes</key>
 				<array>
-					<integer>13</integer>
+					<integer>17</integer>
+                                        <integer>18</integer>
+					<integer>21</integer>
+                                        <integer>23</integer>
+                                        <integer>25</integer>
+					<integer>43</integer>
+
 				</array>
 				<key>EAPFASTProvisionPAC</key>
 				<false/>
@@ -50,6 +56,8 @@
 			</dict>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
+			<key>IsHotspot</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -115,7 +123,12 @@
 			<dict>
 				<key>AcceptEAPTypes</key>
 				<array>
-					<integer>13</integer>
+					<integer>17</integer>
+                                        <integer>18</integer>
+					<integer>21</integer>
+                                        <integer>23</integer>
+                                        <integer>25</integer>
+					<integer>43</integer>
 				</array>
 				<key>EAPFASTProvisionPAC</key>
 				<false/>
@@ -148,6 +161,8 @@
 			</dict>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
+			<key>IsHotspot</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -214,7 +229,12 @@
 			<dict>
 				<key>AcceptEAPTypes</key>
 				<array>
-					<integer>13</integer>
+					<integer>17</integer>
+                                        <integer>18</integer>
+					<integer>21</integer>
+                                        <integer>23</integer>
+                                        <integer>25</integer>
+					<integer>43</integer>
 				</array>
 				<key>EAPFASTProvisionPAC</key>
 				<false/>
@@ -247,6 +267,8 @@
 			</dict>
 			<key>EncryptionType</key>
 			<string>None</string>
+			<key>IsHotspot</key>
+			<true/>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
@@ -306,7 +328,12 @@
 			<dict>
 				<key>AcceptEAPTypes</key>
 				<array>
-					<integer>13</integer>
+					<integer>17</integer>
+                                        <integer>18</integer>
+					<integer>21</integer>
+                                        <integer>23</integer>
+                                        <integer>25</integer>
+					<integer>43</integer>
 				</array>
 				<key>EAPFASTProvisionPAC</key>
 				<false/>
@@ -339,6 +366,8 @@
 			</dict>
 			<key>OneTimeUserPassword</key>
 			<false/>
+			<key>IsHotspot</key>
+			<true/>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
@@ -399,7 +428,7 @@
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
-	<true/>
+	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
@@ -407,9 +436,5 @@
 	<string>3D6FEC8D-5CCD-4A26-82B9-1CBC89048A1D</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
-	<key>PayloadEnabled</key>
-        <true/>
-	<key>RemovalPassword</key>
-        <string>FuckShawWifi</string>
 </dict>
 </plist>
