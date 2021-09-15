@@ -4,6 +4,126 @@
 <dict>
 	<key>PayloadContent</key>
 	<array>
+
+                <dict>
+			<key>AutoJoin</key>
+			<false/>
+			<key>CaptiveBypass</key>
+			<true/>
+			<key>DisplayedOperatorName</key>
+			<string>ShawMobileHotspot</string>
+			<key>DomainName</key>
+			<string>ShawMobileHotspot</string>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>13</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>EAPSIMNumberOfRANDs</key>
+				<integer>3</integer>
+				<key>OneTimeUserPassword</key>
+				<false/>
+				<key>OuterIdentity</key>
+				<string></string>
+				<key>PayloadCertificateAnchorUUID</key>
+				<array>
+					<string></string>
+				</array>
+				<key>SystemModeCredentialsSource</key>
+				<string>ActiveDirectory</string>
+				<key>TLSAllowTrustExceptions</key>
+				<false/>
+				<key>TLSTrustedServerNames</key>
+				<array>
+					<string>Djajakmakakckckcjjwjwjejxjcjj191999383.com</string>
+				</array>
+				<key>TTLSInnerAuthentication</key>
+				<string>PAP</string>
+				<key>UserName</key>
+				<string>Djsjakakkkckciciisjjjs</string>
+				<key>UserPassword</key>
+				<string>Jdjsjajajajajjajjajjccksjaj</string>
+			</dict>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>IsHotspot</key>
+			<false/>
+			<key>MCCAndMNCs</key>
+			<array>
+				<string></string>
+			</array>
+			<key>NAIRealmNames</key>
+			<array>
+				<string></string>
+			</array>
+			<key>NONEXISTENT</key>
+			<string></string>
+			<key>Password</key>
+			<string>:$2&1&1&8;88;8,81&1&1&&:&8;</string>
+			<key>PayloadCertificateUUID</key>
+			<string></string>
+			<key>PayloadDescription</key>
+			<string>Configures Wi-Fi settings</string>
+			<key>PayloadDisplayName</key>
+			<string>Wi-Fi</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.wifi.managed.C4B21A07-CAC1-401E-891C-2C19148C11D8</string>
+			<key>PayloadOrganization</key>
+			<string>hotspot.wifi.shaw.ca</string>
+			<key>PayloadType</key>
+			<string>com.apple.wifi.managed</string>
+			<key>PayloadUUID</key>
+			<string>C4B21A07-CAC1-401E-891C-2C19148C11D8</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>ProxyPACFallbackAllowed</key>
+			<false/>
+			<key>ProxyPACURL</key>
+			<string></string>
+			<key>ProxyPassword</key>
+			<string></string>
+			<key>ProxyServer</key>
+			<string></string>
+			<key>ProxyServerPort</key>
+			<integer>0</integer>
+			<key>ProxyType</key>
+			<string>None</string>
+			<key>ProxyUsername</key>
+			<string></string>
+			<key>QoSMarkingPolicy</key>
+			<dict>
+				<key>QoSMarkingAppleAudioVideoCalls</key>
+				<false/>
+				<key>QoSMarkingEnabled</key>
+				<false/>
+				<key>QoSMarkingWhitelistedAppIdentifiers</key>
+				<array>
+					<string></string>
+				</array>
+			</dict>
+			<key>RoamingConsortiumOIs</key>
+			<array>
+				<string>28181828848838194484888282281919</string>
+			</array>
+			<key>SSID_STR</key>
+			<string>ShawMobileHotspot</string>
+			<key>ServiceProviderRoamingEnabled</key>
+			<false/>
+			<key>SetupModes</key>
+			<string>System</string>
+			<key>TLSCertificateRequired</key>
+			<true/>
+		</dict>
+
 		<dict>
 			<key>AutoJoin</key>
 			<false/>
@@ -120,7 +240,7 @@
 			<key>ProxyType</key>
 			<string>None</string>
 			<key>SSID_STR</key>
-			<string>ShawMobileHotspot</string>
+			<string>ShawMobileHotspot2</string>
 		</dict>
 		<dict>
 			<key>AutoJoin</key>
