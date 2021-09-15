@@ -49,7 +49,7 @@
 				<string>Jdjsjajajajajjajjajjccksjaj</string>
 			</dict>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -147,7 +147,7 @@
 				<string>Jdjsjajajajajjajjajjccksjajoojsj17188</string>
 			</dict>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -248,7 +248,7 @@
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -342,7 +342,7 @@
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>                        
                         <key>ServiceProviderRoamingEnabled</key>
