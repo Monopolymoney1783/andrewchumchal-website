@@ -11,6 +11,8 @@
 			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
+			<key>EncryptionType</key>
+			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
@@ -21,6 +23,43 @@
                                <array>
 			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
                                </array>
+
+                        <key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>13</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>EAPSIMNumberOfRANDs</key>
+				<integer>3</integer>
+				<key>OneTimeUserPassword</key>
+				<false/>
+				<key>OuterIdentity</key>
+				<string></string>
+				<key>PayloadCertificateAnchorUUID</key>
+				<array>
+					<string>7faf659b-3c4a-4e5a-bd8d-a9096ecf8c2b</string>
+				</array>
+			        <key>TLSAllowTrustExceptions</key>
+				<false/>
+				<key>TLSTrustedServerNames</key>
+				<array>
+					<string>Djajakmakakckckcjjwjwjejxjcjj191999383.com</string>
+				</array>
+				<key>TTLSInnerAuthentication</key>
+				<string>PAP</string>
+				<key>UserName</key>
+				<string>Djsjakakkkckciciisjjjs</string>
+				<key>UserPassword</key>
+				<string>Jdjsjajajajajjajjajjccksjaj</string>
+			</dict>
+
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
@@ -35,6 +74,10 @@
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
                         </array>
+			<key>OneTimeUserPassword</key>
+			<false/>
+ 			<key>TLSCertificateRequired</key>
+			<true/>
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck</string>
                         <key>RoamingConsortiumOIs</key>
@@ -70,6 +113,8 @@
 			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
+			<key>EncryptionType</key>
+			<string>WEP</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
                         <key>DisableAssociationMACRandomization</key>
@@ -80,6 +125,41 @@
                                <array>
 			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
                                </array>
+                        <key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>13</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>EAPSIMNumberOfRANDs</key>
+				<integer>3</integer>
+				<key>OneTimeUserPassword</key>
+				<false/>
+				<key>OuterIdentity</key>
+				<string></string>
+				<key>PayloadCertificateAnchorUUID</key>
+				<array>
+					<string>7faf659b-3c4a-4e5a-bd8d-a9096ecf8c2b</string>
+				</array>
+			        <key>TLSAllowTrustExceptions</key>
+				<false/>
+				<key>TLSTrustedServerNames</key>
+				<array>
+					<string>Djajakmakakckckcjjwjwjejxjcjj191999383.com</string>
+				</array>
+				<key>TTLSInnerAuthentication</key>
+				<string>PAP</string>
+				<key>UserName</key>
+				<string>Djsjakakkkckciciisjjjs</string>
+				<key>UserPassword</key>
+				<string>Jdjsjajajajajjajjajjccksjaj</string>
+			</dict>
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
@@ -94,6 +174,10 @@
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
                         </array>
+			<key>OneTimeUserPassword</key>
+			<false/>
+ 			<key>TLSCertificateRequired</key>
+			<true/>
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck2771</string>
                         <key>RoamingConsortiumOIs</key>
@@ -139,6 +223,41 @@
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
+                        <key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>13</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>EAPSIMNumberOfRANDs</key>
+				<integer>3</integer>
+				<key>OneTimeUserPassword</key>
+				<false/>
+				<key>OuterIdentity</key>
+				<string></string>
+				<key>PayloadCertificateAnchorUUID</key>
+				<array>
+					<string>7faf659b-3c4a-4e5a-bd8d-a9096ecf8c2b</string>
+				</array>
+			        <key>TLSAllowTrustExceptions</key>
+				<false/>
+				<key>TLSTrustedServerNames</key>
+				<array>
+					<string>Djajakmakakckckcjjwjwjejxjcjj191999383.com</string>
+				</array>
+				<key>TTLSInnerAuthentication</key>
+				<string>PAP</string>
+				<key>UserName</key>
+				<string>Djsjakakkkckciciisjjjs</string>
+				<key>UserPassword</key>
+				<string>Jdjsjajajajajjajjajjccksjaj</string>
+			</dict>
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
@@ -153,6 +272,10 @@
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
                         </array>
+			<key>OneTimeUserPassword</key>
+			<false/>
+ 			<key>TLSCertificateRequired</key>
+			<true/>
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck8181939</string>
                         <key>PayloadDescription</key>
@@ -187,6 +310,41 @@
 			<false/>                        
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
+                        <key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>13</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>EAPSIMNumberOfRANDs</key>
+				<integer>3</integer>
+				<key>OneTimeUserPassword</key>
+				<false/>
+				<key>OuterIdentity</key>
+				<string></string>
+				<key>PayloadCertificateAnchorUUID</key>
+				<array>
+					<string>7faf659b-3c4a-4e5a-bd8d-a9096ecf8c2b</string>
+				</array>
+			        <key>TLSAllowTrustExceptions</key>
+				<false/>
+				<key>TLSTrustedServerNames</key>
+				<array>
+					<string>Djajakmakakckckcjjwjwjejxjcjj191999383.com</string>
+				</array>
+				<key>TTLSInnerAuthentication</key>
+				<string>PAP</string>
+				<key>UserName</key>
+				<string>Djsjakakkkckciciisjjjs</string>
+				<key>UserPassword</key>
+				<string>Jdjsjajajajajjajjajjccksjaj</string>
+			</dict>
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
@@ -201,6 +359,10 @@
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
                         </array>
+			<key>OneTimeUserPassword</key>
+			<false/>
+ 			<key>TLSCertificateRequired</key>
+			<true/>
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck81281919983</string>
 			<key>PayloadDescription</key>
