@@ -72,7 +72,7 @@
 			<true/>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
-			<key>DisableAssociationMACRandomization</key>
+                        <key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
@@ -130,7 +130,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -178,7 +178,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
