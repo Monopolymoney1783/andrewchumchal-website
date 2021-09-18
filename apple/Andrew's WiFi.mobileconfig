@@ -13,8 +13,10 @@
 			<true/>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
+			<key>IsHotspot</key>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
                         <key>TLSMinimumVersion</key>
@@ -76,8 +78,10 @@
 			<true/>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
+			<key>IsHotspot</key>
+			<true/>
                         <key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
                         <key>TLSMinimumVersion</key>
@@ -144,7 +148,7 @@
 			<key>IsHotspot</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>
+			<true/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
                         <key>TLSMinimumVersion</key>
@@ -194,7 +198,7 @@
 			<key>IsHotspot</key>
 			<true/>
 			<key>DisableAssociationMACRandomization</key>
-			<false/>                        
+			<true/>                        
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
                         <key>TLSMinimumVersion</key>
