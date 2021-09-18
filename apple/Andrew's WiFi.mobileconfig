@@ -46,6 +46,12 @@
 				<array>
 					<string>Djajakmakakckckcjjwjwjejxjcjj1919993837278hhs.com</string>
 				</array>
+
+                                <key>PayloadCertificateAnchorUUID</key>
+                                <array>
+                                <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
+                                </array>
+
 				<key>TTLSInnerAuthentication</key>
 				<string>CHAP</string>
 			</dict>
@@ -135,6 +141,10 @@
 				<array>
 					<string>Djajakmakakckckcjjwjwjejxjcjj1919993837278hhs.com</string>
 				</array>
+                                <key>PayloadCertificateAnchorUUID</key>
+                                <array>
+                                <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
+                                </array>
 				<key>TTLSInnerAuthentication</key>
 				<string>CHAP</string>
 			</dict>
@@ -221,6 +231,10 @@
 				<array>
 					<string>Djajakmakakckckcjjwjwjejxjcjj1919993837278hhs.com</string>
 				</array>
+                                <key>PayloadCertificateAnchorUUID</key>
+                                <array>
+                                <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
+                                </array>
 				<key>TTLSInnerAuthentication</key>
 				<string>CHAP</string>
 			</dict>
@@ -295,6 +309,10 @@
 				<array>
 					<string>Djajakmakakckckcjjwjwjejxjcjj1919993837278hhs.com</string>
 				</array>
+                                <key>PayloadCertificateAnchorUUID</key>
+                                <array>
+                                <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
+                                </array>
 				<key>TTLSInnerAuthentication</key>
 				<string>CHAP</string>
 			</dict>
