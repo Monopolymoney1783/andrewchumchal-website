@@ -17,6 +17,8 @@
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.3</string>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>NAIRealmNames</key>
@@ -78,6 +80,8 @@
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.3</string>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>NAIRealmNames</key>
@@ -143,6 +147,8 @@
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.3</string>
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
@@ -191,6 +197,8 @@
 			<false/>                        
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.3</string>
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
