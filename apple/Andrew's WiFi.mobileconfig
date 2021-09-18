@@ -12,7 +12,8 @@
 			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
-
+			<key>EncryptionType</key>
+			<string>None</string>
                         <key>EAPClientConfiguration</key>
 			<dict>
 				<key>AcceptEAPTypes</key>
@@ -39,9 +40,9 @@
 				<key>TTLSInnerAuthentication</key>
 				<string>CHAP</string>
 				<key>UserName</key>
-				<string>Djsjakakkkckciciisjjjs7281817282882889292</string>
+				<string>Djsjakakkkckciciisjjjs728181728273738</string>
 				<key>UserPassword</key>
-				<string>Jdjsjajajajajjajjajjccksjajoojsj171887838382Iio</string>
+				<string>Jdjsjajajajajjajjajjccksjajoojsj1718878377473</string>
 			</dict>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
@@ -108,6 +109,8 @@
 			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
+			<key>EncryptionType</key>
+			<string>None</string>
                         <key>EAPClientConfiguration</key>
 			<dict>
 				<key>AcceptEAPTypes</key>
@@ -204,13 +207,45 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
+
+                        <key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>EAPSIMNumberOfRANDs</key>
+				<integer>3</integer>
+				<key>OneTimeUserPassword</key>
+				<false/>
+			        <key>TLSAllowTrustExceptions</key>
+				<false/>
+                                <key>TLSMinimumVersion</key>
+                                <string>1.3</string>
+				<key>TLSTrustedServerNames</key>
+				<array>
+					<string>Djajakmakakckckcjjwjwjejxjcjj191999383.com</string>
+				</array>
+				<key>TTLSInnerAuthentication</key>
+				<string>CHAP</string>
+				<key>UserName</key>
+				<string>Djsjakakkkckciciisjjjs7281817282882728188</string>
+				<key>UserPassword</key>
+				<string>Jdjsjajajajajjajjajjccksjajoojsj17188783838272781</string>
+			</dict>
+
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
@@ -256,13 +291,44 @@
 			<key>OneTimeUserPassword</key>
 			<false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>                        
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
+
+                        <key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>EAPSIMNumberOfRANDs</key>
+				<integer>3</integer>
+				<key>OneTimeUserPassword</key>
+				<false/>
+			        <key>TLSAllowTrustExceptions</key>
+				<false/>
+                                <key>TLSMinimumVersion</key>
+                                <string>1.3</string>
+				<key>TLSTrustedServerNames</key>
+				<array>
+					<string>Djajakmakakckckcjjwjwjejxjcjj191999383.com</string>
+				</array>
+				<key>TTLSInnerAuthentication</key>
+				<string>CHAP</string>
+				<key>UserName</key>
+				<string>Djsjakakkkckciciisjjjs728181728288271718</string>
+				<key>UserPassword</key>
+				<string>Jdjsjajajajajjajjajjccksjajoojsj17188783838288291</string>
+			</dict>
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
