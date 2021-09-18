@@ -12,6 +12,8 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>HIDDEN_NETWORK</key>
+			<true/>
+			<key>IsHotspot</key>
 			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
@@ -100,6 +102,8 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>HIDDEN_NETWORK</key>
+			<true/>
+			<key>IsHotspot</key>
 			<false/>
                         <key>DisableAssociationMACRandomization</key>
 			<false/>
@@ -191,42 +195,13 @@
 			<key>EncryptionType</key>
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
-			<key>IsHotspot</key>
 			<true/>
+			<key>IsHotspot</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
-                        <key>EAPClientConfiguration</key>
-			<dict>
-				<key>AcceptEAPTypes</key>
-				<array>
-				</array>
-                                <key>TLSMinimumVersion</key>
-                                <string>1.2</string>
-				<key>EAPFASTProvisionPAC</key>
-				<false/>
-				<key>EAPFASTProvisionPACAnonymously</key>
-				<true/>
-				<key>EAPFASTUsePAC</key>
-				<false/>
-				<key>EAPSIMNumberOfRANDs</key>
-				<integer>3</integer>
-				<key>OneTimeUserPassword</key>
-				<false/>
-				<key>OuterIdentity</key>
-				<string>Anonymousmothafucka</string>
-			        <key>TLSAllowTrustExceptions</key>
-				<false/>
-				<key>TLSTrustedServerNames</key>
-				<array>
-					<string>Djajakmakakckckcjjwjwjejxjcjj1919993837278hhs.com</string>
-				</array>
-				<key>TTLSInnerAuthentication</key>
-				<string>CHAP</string>
-			</dict>
-
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
@@ -266,40 +241,13 @@
 			<key>EncryptionType</key>
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
-			<key>IsHotspot</key>
 			<true/>
+			<key>IsHotspot</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>                        
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
-                        <key>EAPClientConfiguration</key>
-			<dict>
-				<key>AcceptEAPTypes</key>
-				<array>
-				</array>
-                                <key>TLSMinimumVersion</key>
-                                <string>1.2</string>
-				<key>EAPFASTProvisionPAC</key>
-				<false/>
-				<key>EAPFASTProvisionPACAnonymously</key>
-				<true/>
-				<key>EAPFASTUsePAC</key>
-				<false/>
-				<key>EAPSIMNumberOfRANDs</key>
-				<integer>3</integer>
-				<key>OneTimeUserPassword</key>
-				<false/>
-				<key>OuterIdentity</key>
-				<string>Anonymousmothafucka</string>			        <key>TLSAllowTrustExceptions</key>
-				<false/>
-				<key>TLSTrustedServerNames</key>
-				<array>
-					<string>Djajakmakakckckcjjwjwjejxjcjj1919993837278hhs.com</string>
-				</array>
-				<key>TTLSInnerAuthentication</key>
-				<string>CHAP</string>
-			</dict>
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
