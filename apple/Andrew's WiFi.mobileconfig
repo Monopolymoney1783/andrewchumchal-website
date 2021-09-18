@@ -41,7 +41,7 @@
 				<key>UserName</key>
 				<string>Djsjakakkkckciciisjjjs7281817282882889292</string>
 				<key>UserPassword</key>
-				<string>Jdjsjajajajajjajjajjccksjajoojsj171887838382Iio&$</string>
+				<string>Jdjsjajajajajjajjajjccksjajoojsj171887838382Iio</string>
 			</dict>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
@@ -206,7 +206,7 @@
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -258,7 +258,7 @@
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>                        
                         <key>ServiceProviderRoamingEnabled</key>
