@@ -27,6 +27,8 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.2</string>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>PayloadCertificateAnchorUUID</key>
@@ -88,6 +90,8 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.2</string>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>PayloadCertificateAnchorUUID</key>
@@ -147,6 +151,8 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.2</string>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>PayloadCertificateAnchorUUID</key>
@@ -195,6 +201,8 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.2</string>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>PayloadCertificateAnchorUUID</key>
