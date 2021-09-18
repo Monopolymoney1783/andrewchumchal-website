@@ -58,6 +58,8 @@
                         <false/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.2</string>
                         <key>TLSTrustedServerNames</key>
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
@@ -145,6 +147,8 @@
                         <false/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.2</string>
                         <key>TLSTrustedServerNames</key>
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
@@ -229,6 +233,8 @@
                         <false/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.2</string>
                         <key>TLSTrustedServerNames</key>
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
@@ -300,6 +306,8 @@
                         <false/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.2</string>
                         <key>TLSTrustedServerNames</key>
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
