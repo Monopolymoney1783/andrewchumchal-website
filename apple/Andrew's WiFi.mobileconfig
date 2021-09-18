@@ -17,6 +17,8 @@
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.3</string>
 			<key>NAIRealmNames</key>
                                <array>
 			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
@@ -76,6 +78,8 @@
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.3</string>
 			<key>NAIRealmNames</key>
                                <array>
 			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
@@ -130,7 +134,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -139,6 +143,8 @@
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.3</string>
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
@@ -178,7 +184,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 			<key>IsHotspot</key>
@@ -187,6 +193,8 @@
 			<false/>                        
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.3</string>
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
