@@ -18,33 +18,28 @@
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>NAIRealmNames</key>
                                <array>
 			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
                                </array>
-
                         <key>EAPClientConfiguration</key>
 			<dict>
 				<key>AcceptEAPTypes</key>
 				<array>
 				</array>
 				<key>EAPFASTProvisionPAC</key>
-				<false/>
+				<true/>
 				<key>EAPFASTProvisionPACAnonymously</key>
-				<false/>
+				<true/>
 				<key>EAPFASTUsePAC</key>
-				<false/>
+				<true/>
 				<key>EAPSIMNumberOfRANDs</key>
 				<integer>3</integer>
 				<key>OneTimeUserPassword</key>
 				<false/>
 				<key>OuterIdentity</key>
 				<string>Anonymousmothafucka</string>
-				<key>PayloadCertificateAnchorUUID</key>
-				<array>
-					<string>7faf659b-3c4a-4e5a-bd8d-a9096ecf8c2b</string>
-				</array>
 			        <key>TLSAllowTrustExceptions</key>
 				<false/>
 				<key>TLSTrustedServerNames</key>
@@ -111,7 +106,7 @@
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 			<key>EncryptionType</key>
-			<string>None</string>
+			<string>WPA</string>
 			<key>NAIRealmNames</key>
                                <array>
 			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
@@ -123,21 +118,17 @@
 				<array>
 				</array>
 				<key>EAPFASTProvisionPAC</key>
-				<false/>
+				<true/>
 				<key>EAPFASTProvisionPACAnonymously</key>
-				<false/>
+				<true/>
 				<key>EAPFASTUsePAC</key>
-				<false/>
+				<true/>
 				<key>EAPSIMNumberOfRANDs</key>
 				<integer>3</integer>
 				<key>OneTimeUserPassword</key>
 				<false/>
 				<key>OuterIdentity</key>
 				<string>Anonymousmothafucka</string>
-				<key>PayloadCertificateAnchorUUID</key>
-				<array>
-					<string>7faf659b-3c4a-4e5a-bd8d-a9096ecf8c2b</string>
-				</array>
 			        <key>TLSAllowTrustExceptions</key>
 				<false/>
 				<key>TLSTrustedServerNames</key>
@@ -213,21 +204,17 @@
 				<array>
 				</array>
 				<key>EAPFASTProvisionPAC</key>
-				<false/>
+				<true/>
 				<key>EAPFASTProvisionPACAnonymously</key>
-				<false/>
+				<true/>
 				<key>EAPFASTUsePAC</key>
-				<false/>
+				<true/>
 				<key>EAPSIMNumberOfRANDs</key>
 				<integer>3</integer>
 				<key>OneTimeUserPassword</key>
 				<false/>
 				<key>OuterIdentity</key>
 				<string>Anonymousmothafucka</string>
-				<key>PayloadCertificateAnchorUUID</key>
-				<array>
-					<string>7faf659b-3c4a-4e5a-bd8d-a9096ecf8c2b</string>
-				</array>
 			        <key>TLSAllowTrustExceptions</key>
 				<false/>
 				<key>TLSTrustedServerNames</key>
@@ -292,22 +279,17 @@
 				<array>
 				</array>
 				<key>EAPFASTProvisionPAC</key>
-				<false/>
+				<true/>
 				<key>EAPFASTProvisionPACAnonymously</key>
-				<false/>
+				<true/>
 				<key>EAPFASTUsePAC</key>
-				<false/>
+				<true/>
 				<key>EAPSIMNumberOfRANDs</key>
 				<integer>3</integer>
 				<key>OneTimeUserPassword</key>
 				<false/>
 				<key>OuterIdentity</key>
-				<string>Anonymousmothafucka</string>
-				<key>PayloadCertificateAnchorUUID</key>
-				<array>
-					<string>7faf659b-3c4a-4e5a-bd8d-a9096ecf8c2b</string>
-				</array>
-			        <key>TLSAllowTrustExceptions</key>
+				<string>Anonymousmothafucka</string>			        <key>TLSAllowTrustExceptions</key>
 				<false/>
 				<key>TLSTrustedServerNames</key>
 				<array>
