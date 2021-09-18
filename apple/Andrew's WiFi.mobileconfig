@@ -17,7 +17,6 @@
 			<dict>
 				<key>AcceptEAPTypes</key>
 				<array>
-					<integer>13</integer>
 				</array>
 				<key>EAPFASTProvisionPAC</key>
 				<false/>
@@ -29,24 +28,20 @@
 				<integer>3</integer>
 				<key>OneTimeUserPassword</key>
 				<false/>
-				<key>OuterIdentity</key>
-				<string></string>
-				<key>PayloadCertificateAnchorUUID</key>
-				<array>
-					<string>7faf659b-3c4a-4e5a-bd8d-a9096ecf8c2b</string>
-				</array>
 			        <key>TLSAllowTrustExceptions</key>
 				<false/>
+                                <key>TLSMinimumVersion</key>
+                                <string>1.2</string>
 				<key>TLSTrustedServerNames</key>
 				<array>
 					<string>Djajakmakakckckcjjwjwjejxjcjj191999383.com</string>
 				</array>
 				<key>TTLSInnerAuthentication</key>
-				<string>PAP</string>
+				<string>CHAP</string>
 				<key>UserName</key>
-				<string>Djsjakakkkckciciisjjjs</string>
+				<string>Djsjakakkkckciciisjjjs7281817282882889292</string>
 				<key>UserPassword</key>
-				<string>Jdjsjajajajajjajjajjccksjaj</string>
+				<string>Jdjsjajajajajjajjajjccksjajoojsj171887838382Iio&$</string>
 			</dict>
 			<key>HIDDEN_NETWORK</key>
 			<true/>
@@ -70,6 +65,8 @@
                         <array>
                         <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
                         </array>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.2</string>
                         <key>TLSTrustedServerNames</key>
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
@@ -115,7 +112,6 @@
 			<dict>
 				<key>AcceptEAPTypes</key>
 				<array>
-					<integer>13</integer>
 				</array>
 				<key>EAPFASTProvisionPAC</key>
 				<false/>
@@ -127,27 +123,23 @@
 				<integer>3</integer>
 				<key>OneTimeUserPassword</key>
 				<false/>
-				<key>OuterIdentity</key>
-				<string></string>
-				<key>PayloadCertificateAnchorUUID</key>
-				<array>
-					<string>7faf659b-3c4a-4e5a-bd8d-a9096ecf8c2b</string>
-				</array>
 			        <key>TLSAllowTrustExceptions</key>
 				<false/>
+                                <key>TLSMinimumVersion</key>
+                                <string>1.2</string>
 				<key>TLSTrustedServerNames</key>
 				<array>
 					<string>Djajakmakakckckcjjwjwjejxjcjj191999383.com</string>
 				</array>
 				<key>TTLSInnerAuthentication</key>
-				<string>PAP</string>
+				<string>CHAP</string>
 				<key>UserName</key>
-				<string>Djsjakakkkckciciisjjjs728181</string>
+				<string>Djsjakakkkckciciisjjjs7281817282882</string>
 				<key>UserPassword</key>
-				<string>Jdjsjajajajajjajjajjccksjajoojsj17188</string>
+				<string>Jdjsjajajajajjajjajjccksjajoojsj171887838382</string>
 			</dict>
 			<key>HIDDEN_NETWORK</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -160,6 +152,8 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.2</string>
 			<key>TLSCertificateRequired</key>
 			<true/>
                         <key>TLSAllowTrustExceptions</key>
@@ -209,42 +203,6 @@
 			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
-
-                        <key>EAPClientConfiguration</key>
-			<dict>
-				<key>AcceptEAPTypes</key>
-				<array>
-					<integer>13</integer>
-				</array>
-				<key>EAPFASTProvisionPAC</key>
-				<false/>
-				<key>EAPFASTProvisionPACAnonymously</key>
-				<false/>
-				<key>EAPFASTUsePAC</key>
-				<false/>
-				<key>EAPSIMNumberOfRANDs</key>
-				<integer>3</integer>
-				<key>OneTimeUserPassword</key>
-				<false/>
-				<key>OuterIdentity</key>
-				<string></string>
-				<key>PayloadCertificateAnchorUUID</key>
-				<array>
-					<string>7faf659b-3c4a-4e5a-bd8d-a9096ecf8c2b</string>
-				</array>
-			        <key>TLSAllowTrustExceptions</key>
-				<false/>
-				<key>TLSTrustedServerNames</key>
-				<array>
-					<string>Djajakmakakckckcjjwjwjejxjcjj191999383.com</string>
-				</array>
-				<key>TTLSInnerAuthentication</key>
-				<string>PAP</string>
-				<key>UserName</key>
-				<string>Djsjakakkkckciciisjjjs811991</string>
-				<key>UserPassword</key>
-				<string>Jdjsjajajajajjajjajjccksjajiiriri8281</string>
-			</dict>
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>HIDDEN_NETWORK</key>
@@ -257,16 +215,14 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
-			<key>NAIRealmNames</key>
-                               <array>
-			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
-                               </array>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>PayloadCertificateAnchorUUID</key>
                         <array>
                         <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
                         </array>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.2</string>
 			<key>TLSCertificateRequired</key>
 			<true/>
                         <key>TLSTrustedServerNames</key>
@@ -275,11 +231,6 @@
                         </array>
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck8181939</string>
-                        <key>RoamingConsortiumOIs</key>
-                        <array>
-                        <string>Djjahahhnnwnwnhxhuubbssnsn</string>
-                        <string>Djjahahhnnwnwnhxhusnmwjqjjuck</string>
-                        </array>
                         <key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
@@ -302,41 +253,6 @@
 			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
-                        <key>EAPClientConfiguration</key>
-			<dict>
-				<key>AcceptEAPTypes</key>
-				<array>
-					<integer>13</integer>
-				</array>
-				<key>EAPFASTProvisionPAC</key>
-				<false/>
-				<key>EAPFASTProvisionPACAnonymously</key>
-				<false/>
-				<key>EAPFASTUsePAC</key>
-				<false/>
-				<key>EAPSIMNumberOfRANDs</key>
-				<integer>3</integer>
-				<key>OneTimeUserPassword</key>
-				<false/>
-				<key>OuterIdentity</key>
-				<string></string>
-				<key>PayloadCertificateAnchorUUID</key>
-				<array>
-					<string>7faf659b-3c4a-4e5a-bd8d-a9096ecf8c2b</string>
-				</array>
-			        <key>TLSAllowTrustExceptions</key>
-				<false/>
-				<key>TLSTrustedServerNames</key>
-				<array>
-					<string>Djajakmakakckckcjjwjwjejxjcjj191999383.com</string>
-				</array>
-				<key>TTLSInnerAuthentication</key>
-				<string>PAP</string>
-				<key>UserName</key>
-				<string>Djsjakakkkckciciisjjjs939484</string>
-				<key>UserPassword</key>
-				<string>Jdjsjajajajajjajjajjccksjajqiqiiii88</string>
-			</dict>
 			<key>OneTimeUserPassword</key>
 			<false/>
 			<key>EncryptionType</key>
@@ -351,10 +267,8 @@
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
-			<key>NAIRealmNames</key>
-                               <array>
-			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
-                               </array>
+                        <key>TLSMinimumVersion</key>
+                        <string>1.2</string>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>PayloadCertificateAnchorUUID</key>
@@ -369,11 +283,6 @@
                         </array>
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck81281919983</string>
-                        <key>RoamingConsortiumOIs</key>
-                        <array>
-                        <string>Djjahahhnnwnwnhxhuubbssnsn</string>
-                        <string>Djjahahhnnwnwnhxhusnmwjqjjuck</string>
-                        </array>
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
@@ -399,7 +308,7 @@
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
-	<true/>
+	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
@@ -409,7 +318,5 @@
 	<integer>1</integer>
 	<key>PayloadEnabled</key>
         <true/>
-	<key>RemovalPassword</key>
-        <string>FuckShawWifi</string>
 </dict>
 </plist>
