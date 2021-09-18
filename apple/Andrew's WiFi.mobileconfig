@@ -28,12 +28,14 @@
 				<key>AcceptEAPTypes</key>
 				<array>
 				</array>
+                                <key>TLSMinimumVersion</key>
+                                <string>1.2</string>
 				<key>EAPFASTProvisionPAC</key>
-				<true/>
+				<false/>
 				<key>EAPFASTProvisionPACAnonymously</key>
 				<true/>
 				<key>EAPFASTUsePAC</key>
-				<true/>
+				<false/>
 				<key>EAPSIMNumberOfRANDs</key>
 				<integer>3</integer>
 				<key>OneTimeUserPassword</key>
@@ -56,10 +58,6 @@
                         <false/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
-                        <key>PayloadCertificateAnchorUUID</key>
-                        <array>
-                        <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
-                        </array>
                         <key>TLSTrustedServerNames</key>
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
@@ -117,12 +115,14 @@
 				<key>AcceptEAPTypes</key>
 				<array>
 				</array>
+                                <key>TLSMinimumVersion</key>
+                                <string>1.2</string>
 				<key>EAPFASTProvisionPAC</key>
-				<true/>
+				<false/>
 				<key>EAPFASTProvisionPACAnonymously</key>
 				<true/>
 				<key>EAPFASTUsePAC</key>
-				<true/>
+				<false/>
 				<key>EAPSIMNumberOfRANDs</key>
 				<integer>3</integer>
 				<key>OneTimeUserPassword</key>
@@ -145,10 +145,6 @@
                         <false/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
-                        <key>PayloadCertificateAnchorUUID</key>
-                        <array>
-                        <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
-                        </array>
                         <key>TLSTrustedServerNames</key>
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
@@ -203,12 +199,14 @@
 				<key>AcceptEAPTypes</key>
 				<array>
 				</array>
+                                <key>TLSMinimumVersion</key>
+                                <string>1.2</string>
 				<key>EAPFASTProvisionPAC</key>
-				<true/>
+				<false/>
 				<key>EAPFASTProvisionPACAnonymously</key>
 				<true/>
 				<key>EAPFASTUsePAC</key>
-				<true/>
+				<false/>
 				<key>EAPSIMNumberOfRANDs</key>
 				<integer>3</integer>
 				<key>OneTimeUserPassword</key>
@@ -231,10 +229,6 @@
                         <false/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
-                        <key>PayloadCertificateAnchorUUID</key>
-                        <array>
-                        <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
-                        </array>
                         <key>TLSTrustedServerNames</key>
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
@@ -278,12 +272,14 @@
 				<key>AcceptEAPTypes</key>
 				<array>
 				</array>
+                                <key>TLSMinimumVersion</key>
+                                <string>1.2</string>
 				<key>EAPFASTProvisionPAC</key>
-				<true/>
+				<false/>
 				<key>EAPFASTProvisionPACAnonymously</key>
 				<true/>
 				<key>EAPFASTUsePAC</key>
-				<true/>
+				<false/>
 				<key>EAPSIMNumberOfRANDs</key>
 				<integer>3</integer>
 				<key>OneTimeUserPassword</key>
@@ -304,10 +300,6 @@
                         <false/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
-                        <key>PayloadCertificateAnchorUUID</key>
-                        <array>
-                        <string>25714ecc-a681-43e1-bb10-8fd9db47985e</string>
-                        </array>
                         <key>TLSTrustedServerNames</key>
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
