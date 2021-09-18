@@ -28,7 +28,6 @@
 			<dict>
 				<key>AcceptEAPTypes</key>
 				<array>
-					<integer>13</integer>
 				</array>
 				<key>EAPFASTProvisionPAC</key>
 				<false/>
@@ -50,14 +49,10 @@
 				<false/>
 				<key>TLSTrustedServerNames</key>
 				<array>
-					<string>Djajakmakakckckcjjwjwjejxjcjj191999383.com</string>
+					<string>Djajakmakakckckcjjwjwjejxjcjj1919993837278hhs.com</string>
 				</array>
 				<key>TTLSInnerAuthentication</key>
 				<string>CHAP</string>
-				<key>UserName</key>
-				<string>Djsjakakkkckciciisjjjsjdjdjdjuyyuw77829199283</string>
-				<key>UserPassword</key>
-				<string>Jdjsjajajajajjajjajjccksjajiiu6678188$:</string>
 			</dict>
 
                         <key>QoSMarkingEnabled</key>
@@ -126,7 +121,6 @@
 			<dict>
 				<key>AcceptEAPTypes</key>
 				<array>
-					<integer>13</integer>
 				</array>
 				<key>EAPFASTProvisionPAC</key>
 				<false/>
@@ -148,14 +142,10 @@
 				<false/>
 				<key>TLSTrustedServerNames</key>
 				<array>
-					<string>Djajakmakakckckcjjwjwjejxjcjj191999383.com</string>
+					<string>Djajakmakakckckcjjwjwjejxjcjj1919993837278hhs.com</string>
 				</array>
 				<key>TTLSInnerAuthentication</key>
 				<string>CHAP</string>
-				<key>UserName</key>
-				<string>Djsjakakkkckciciisjjjs677727</string>
-				<key>UserPassword</key>
-				<string>Jdjsjajajajajjajjajjccksjajtrtwioqiqj</string>
 			</dict>
 
                         <key>QoSMarkingEnabled</key>
@@ -221,7 +211,6 @@
 			<dict>
 				<key>AcceptEAPTypes</key>
 				<array>
-					<integer>13</integer>
 				</array>
 				<key>EAPFASTProvisionPAC</key>
 				<false/>
@@ -243,14 +232,10 @@
 				<false/>
 				<key>TLSTrustedServerNames</key>
 				<array>
-					<string>Djajakmakakckckcjjwjwjejxjcjj191999383.com</string>
+					<string>Djajakmakakckckcjjwjwjejxjcjj1919993837278hhs.com</string>
 				</array>
 				<key>TTLSInnerAuthentication</key>
 				<string>CHAP</string>
-				<key>UserName</key>
-				<string>Djsjakakkkckciciisjjjsjhy7672881Hhhyy</string>
-				<key>UserPassword</key>
-				<string>Jdjsjajajajajjajjajjccksjaj75567677178929</string>
 			</dict>
 
                         <key>QoSMarkingEnabled</key>
@@ -305,7 +290,6 @@
 			<dict>
 				<key>AcceptEAPTypes</key>
 				<array>
-					<integer>13</integer>
 				</array>
 				<key>EAPFASTProvisionPAC</key>
 				<false/>
@@ -327,16 +311,11 @@
 				<false/>
 				<key>TLSTrustedServerNames</key>
 				<array>
-					<string>Djajakmakakckckcjjwjwjejxjcjj191999383.com</string>
+					<string>Djajakmakakckckcjjwjwjejxjcjj1919993837278hhs.com</string>
 				</array>
 				<key>TTLSInnerAuthentication</key>
 				<string>CHAP</string>
-				<key>UserName</key>
-				<string>Djsjakakkkckciciisjjjs66728191957uuwJutte</string>
-				<key>UserPassword</key>
-				<string>Jdjsjajajajajjajjajjccksjajj765uiwoHjsji</string>
 			</dict>
-
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
