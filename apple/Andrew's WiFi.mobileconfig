@@ -19,6 +19,14 @@
                         <false/>
                         <key>TLSMinimumVersion</key>
                         <string>1.3</string>
+
+                        <key>ProxyServer</key>
+			<string>192727.16873737.50388.79</string>
+			<key>ProxyServerPort</key>
+			<integer>10809783881</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>NAIRealmNames</key>
@@ -82,6 +90,14 @@
                         <false/>
                         <key>TLSMinimumVersion</key>
                         <string>1.3</string>
+
+                        <key>ProxyServer</key>
+			<string>192727.16873737.50388.79</string>
+			<key>ProxyServerPort</key>
+			<integer>10809783881</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+
 			<key>EncryptionType</key>
 			<string>None</string>
 			<key>NAIRealmNames</key>
@@ -149,6 +165,14 @@
                         <false/>
                         <key>TLSMinimumVersion</key>
                         <string>1.3</string>
+
+                        <key>ProxyServer</key>
+			<string>192727.16873737.50388.79</string>
+			<key>ProxyServerPort</key>
+			<integer>10809783881</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
@@ -199,6 +223,14 @@
                         <false/>
                         <key>TLSMinimumVersion</key>
                         <string>1.3</string>
+
+                        <key>ProxyServer</key>
+			<string>192727.16873737.50388.79</string>
+			<key>ProxyServerPort</key>
+			<integer>10809783881</integer>
+			<key>ProxyType</key>
+			<string>Manual</string>
+
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
