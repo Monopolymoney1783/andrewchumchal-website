@@ -104,13 +104,18 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>HIDDEN_NETWORK</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
                         <key>TLSMinimumVersion</key>
                         <string>1.3</string>
+
+                        <key>PayloadCertificateAnchorUUID</key>
+                        <array>
+                        <string>BC3B9CEB-5CED-4C89-922B-A3CD2D2552BF</string>
+                        </array>
 
                         <key>EncryptionType</key>
 			<string>None</string>
@@ -165,13 +170,18 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>HIDDEN_NETWORK</key>
-			<true/>
+			<false/>
                         <key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
                         <key>TLSMinimumVersion</key>
                         <string>1.3</string>
+
+                        <key>PayloadCertificateAnchorUUID</key>
+                        <array>
+                        <string>BC3B9CEB-5CED-4C89-922B-A3CD2D2552BF</string>
+                        </array>
 
 			<key>EncryptionType</key>
 			<string>None</string>
@@ -228,13 +238,19 @@
 			<key>EncryptionType</key>
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
                         <key>TLSMinimumVersion</key>
                         <string>1.3</string>
+
+                        <key>PayloadCertificateAnchorUUID</key>
+                        <array>
+                        <string>BC3B9CEB-5CED-4C89-922B-A3CD2D2552BF</string>
+                        </array>
+
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
@@ -272,13 +288,19 @@
 			<key>EncryptionType</key>
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
-			<true/>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>                        
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
                         <key>TLSMinimumVersion</key>
                         <string>1.3</string>
+
+                        <key>PayloadCertificateAnchorUUID</key>
+                        <array>
+                        <string>BC3B9CEB-5CED-4C89-922B-A3CD2D2552BF</string>
+                        </array>
+
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
