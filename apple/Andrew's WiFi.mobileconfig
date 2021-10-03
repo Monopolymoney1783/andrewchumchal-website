@@ -129,17 +129,6 @@
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
                         </array>
 
-                        <key>ProxyServer</key>
- 			<string>192727.16873737.50388.79</string>
- 			<key>ProxyServerPort</key>
- 			<integer>10809783881</integer>
- 			<key>ProxyType</key>
- 			<string>Manual</string>
-                        <key>ProxyUsername</key>
-                        <string>hdhdhdjjdj7278283838383jjdjdjdhdh727</string>
-                        <key>ProxyPassword</key>
-                        <string>hdjdjdjdj727727273hdjdjdjdj2727373hdhdhd2727</string>
-
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck</string>
                         <key>RoamingConsortiumOIs</key>
@@ -201,17 +190,6 @@
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
                         </array>
 
-                        <key>ProxyServer</key>
- 			<string>192727.16873737.50388.79</string>
- 			<key>ProxyServerPort</key>
- 			<integer>10809783881</integer>
- 			<key>ProxyType</key>
- 			<string>Manual</string>
-                        <key>ProxyUsername</key>
-                        <string>hdhdhdjjdj7278283838383jjdjdjdhdh727</string>
-                        <key>ProxyPassword</key>
-                        <string>hdjdjdjdj727727273hdjdjdjdj2727373hdhdhd2727</string>
-
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck2771</string>
                         <key>RoamingConsortiumOIs</key>
@@ -267,17 +245,6 @@
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
                         </array>
-
-                        <key>ProxyServer</key>
- 			<string>192727.16873737.50388.79</string>
- 			<key>ProxyServerPort</key>
- 			<integer>10809783881</integer>
- 			<key>ProxyType</key>
- 			<string>Manual</string>
-                        <key>ProxyUsername</key>
-                        <string>hdhdhdjjdj7278283838383jjdjdjdhdh727</string>
-                        <key>ProxyPassword</key>
-                        <string>hdjdjdjdj727727273hdjdjdjdj2727373hdhdhd2727</string>
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck8181939</string>
                         <key>PayloadDescription</key>
@@ -323,16 +290,6 @@
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
                         </array>
 
-                        <key>ProxyServer</key>
- 			<string>192727.16873737.50388.79</string>
- 			<key>ProxyServerPort</key>
- 			<integer>10809783881</integer>
- 			<key>ProxyType</key>
- 			<string>Manual</string>
-                        <key>ProxyUsername</key>
-                        <string>hdhdhdjjdj7278283838383jjdjdjdhdh727</string>
-                        <key>ProxyPassword</key>
-                        <string>hdjdjdjdj727727273hdjdjdjdj2727373hdhdhd2727</string>
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck81281919983</string>
 			<key>PayloadDescription</key>
