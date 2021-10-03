@@ -6,105 +6,13 @@
 	<true/>
 	<key>PayloadContent</key>
 	<array>
-
-		<dict>
-
-                        <key>PayloadCertificateFileName</key>
-			<string>GeoTrustDbejejuuwu7727.crt</string>
-			<key>PayloadContent</key>
-			<data>MIID6TCCAtGgAwIBAgIQQ8e8FvrCHZnQ/pclta2MJDANBgkqhkiG9w0BAQUF
-			ADA8MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMVGhhd3RlLCBJbmMuMRYwFAYD
-			VQQDEw1UaGF3dGUgU1NMIENBMB4XDTExMDcyMTAwMDAwMFoXDTE0MDgxMzIz
-			NTk1OVowgYExCzAJBgNVBAYTAlVTMRAwDgYDVQQIEwdJbmRpYW5hMRQwEgYD
-			VQQHFAtCbG9vbWluZ3RvbjEbMBkGA1UEChQSSW5kaWFuYSBVbml2ZXJzaXR5
-			MQ0wCwYDVQQLFARVSVRTMR4wHAYDVQQDFBVuZXQtYXV0aC0xLm5vYy5pdS5l
-			ZHUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDc+etm8wsSseFr
-			GEtlR8yTUTbSX4MV5HSvxFN/nPabHD3KUpu40aeaCO8iMpyHpQkb2TPyvbxL
-			ANA1TmTMPRkrI0G/txViM9jRHKyMxHHy2MAzI+ljRBVNd1QMz9M3+5DIjV4E
-			ilFeVtA/kVMNP83WiVhu5hUxjZyWChWnNLh4qxqpje/G1HCDBB1LXQzYros4
-			xC0ArYbQH4P4kbfisbh6p7IF4jx9d2a1Fg+Ymc6SkARkgJCVm0OgnQYLLSOz
-			dvNoLGvmpTcs4RAx4o7I5RlLHCPflvp3vyVmhe4pir7J1a5JkxhcVsT+s2BN
-			2rMcAE+9eBSIJWT00Dk7Gnnlq5b/AgMBAAGjgaAwgZ0wDAYDVR0TAQH/BAIw
-			ADA6BgNVHR8EMzAxMC+gLaArhilodHRwOi8vc3ZyLW92LWNybC50aGF3dGUu
-			Y29tL1RoYXd0ZU9WLmNybDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
-			AwIwMgYIKwYBBQUHAQEEJjAkMCIGCCsGAQUFBzABhhZodHRwOi8vb2NzcC50
-			aGF3dGUuY29tMA0GCSqGSIb3DQEBBQUAA4IBAQBBpDEbMhqNTXSWbAdtuE6L
-			y5Wt1RzmR8Gv5jNXo+R9BvsGSV1IRvXn/cZK0N8jakyzcIL6RZAyD2apSiDf
-			GkrB6EKBwhZbhdZN42hBi+OBWBObaWK20T0RO0Z52+UIST45enucRMFPB3N1
-			erlNqkhyusO6X3Z+Q8t/5bOBK8OhZZsBgu6TmiRGbbOk6mLOGNgWWuzevFIZ
-			TcUes8vzjHYcopWdbPgbevUXPqgY+GWoMF2XAasFTl78MBm9ArohrwYarqJv
-			6yVzSBoBiHt+4/hGN5KzpHDkQnU3pEb+vgDE1DPA1o8fnlTD7KTYYJrQS6nh
-			RCYBYrz9Zx92Kc+aGuSI
-			</data>
-			<key>PayloadDisplayName</key>
-			<string>IU WiFi Certificate</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.mdm.bl-uits-jag-x8s.ads.iu.edu.6f5c6650-f12a-012f-6c5c-0023df9d1eb4.alacarte.certificate.0D5A03D7-D734-4F35-88C6-80476D818A6A</string>
-			<key>PayloadType</key>
-			<string>com.apple.security.pkcs1</string>
-			<key>PayloadUUID</key>
-			<string>0D5A03D7-D734-4F35-88C6-80476D818A6A</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-
-                <dict>
-			<key>PayloadCertificateFileName</key>
-			<string>GeoTrustghsjjwjj67277728.crt</string>
-			<key>PayloadContent</key>
-			<data>
-			MIIEizCCA3OgAwIBAgIQBUb+GCP34ZQdo5/OFMRhczANBgkqhkiG
-			9w0BAQsFADBhMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNl
-			cnQgSW5jMRkwFwYDVQQLExB3d3cuZGlnaWNlcnQuY29tMSAwHgYD
-			VQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBDQTAeFw0xNzExMDYx
-			MjIzNDVaFw0yNzExMDYxMjIzNDVaMF4xCzAJBgNVBAYTAlVTMRUw
-			EwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdp
-			Y2VydC5jb20xHTAbBgNVBAMTFEdlb1RydXN0IFJTQSBDQSAyMDE4
-			MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv4rRY03h
-			GOqHXegWPI9/tr6HFzekDPgxP59FVEAh150Hm8oDI0q9m+2FAmM/
-			n4W57Cjv8oYi2/hNVEHFtEJ/zzMXAQ6CkFLTxzSkwaEB2jKgQK0f
-			WeQz/KDDlqxobNPomXOMJhB3y7c/OTLo0lko7geG4gk7hfiqafap
-			a59YrXLIW4dmrgjgdPstU0Nigz2PhUwRl9we/FAwuIMIMl5cXMTh
-			dSBK66XWdS3cLX184ND+fHWhTkAChJrZDVouoKzzNYoq6tZaWmyO
-			LKv23v14RyZ5eqoi6qnmcRID0/i6U9J5nL1krPYbY7tNjzgC+PBX
-			XcWqJVoMXcUw/iBTGWzpwwIDAQABo4IBQDCCATwwHQYDVR0OBBYE
-			FJBY/7CcdahRVHex7fKjQxY4nmzFMB8GA1UdIwQYMBaAFAPeUDVW
-			0Uy7ZvCj4hsbw5eyPdFVMA4GA1UdDwEB/wQEAwIBhjAdBgNVHSUE
-			FjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwEgYDVR0TAQH/BAgwBgEB
-			/wIBADA0BggrBgEFBQcBAQQoMCYwJAYIKwYBBQUHMAGGGGh0dHA6
-			Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBCBgNVHR8EOzA5MDegNaAzhjFo
-			dHRwOi8vY3JsMy5kaWdpY2VydC5jb20vRGlnaUNlcnRHbG9iYWxS
-			b290Q0EuY3JsMD0GA1UdIAQ2MDQwMgYEVR0gADAqMCgGCCsGAQUF
-			BwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMA0GCSqG
-			SIb3DQEBCwUAA4IBAQAw8YdVPYQI/C5earp80s3VLOO+AtpdiXft
-			9OlWwJLwKlUtRfccKj8QW/Pp4b7h6QAlufejwQMb455OjpIbCZVS
-			+awY/R8pAYsXCnM09GcSVe4ivMswyoCZP/vPEn/LPRhHhdgUPk8M
-			lD979RGoUWz7qGAwqJChi28uRds3thx+vRZZIbEyZ62No0tJPzsS
-			GSz8nQ//jP8BIwrzBAUH5WcBAbmvgWfrKcuv+PyGPqRcc4T55Tlz
-			rBnzAzZ3oClo9fTvO9PuiHMKrC6V6mgi0s2sa/gbXlPCD9Z24XUM
-			xJElwIVTDuKB0Q4YMMlnpN/QChJ4B0AFsQ+DU0NCO+f78Xf7
-			</data>
-			<key>PayloadDescription</key>
-			<string>Adds a PKCS#1-formatted certificate</string>
-			<key>PayloadDisplayName</key>
-			<string>GeoTrust RSA CA 2018</string>
-			<key>PayloadIdentifier</key>
-			<string>com.apple.security.pkcs1.BC3B9CEB-5CED-4C89-922B-A3CD2D2552BF</string>
-			<key>PayloadType</key>
-			<string>com.apple.security.pkcs1</string>
-			<key>PayloadUUID</key>
-			<string>BC3B9CEB-5CED-4C89-922B-A3CD2D2552BF</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-
 		<dict>
 			<key>AutoJoin</key>
 			<false/>
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -170,7 +78,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
                         <key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -238,7 +146,7 @@
 			<key>EncryptionType</key>
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -288,7 +196,7 @@
 			<key>EncryptionType</key>
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>                        
                         <key>ServiceProviderRoamingEnabled</key>
