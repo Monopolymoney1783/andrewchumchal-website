@@ -6,6 +6,45 @@
 	<true/>
 	<key>PayloadContent</key>
 	<array>
+
+		<dict>
+			<key>PayloadContent</key>
+			<data>MIID6TCCAtGgAwIBAgIQQ8e8FvrCHZnQ/pclta2MJDANBgkqhkiG9w0BAQUF
+			ADA8MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMVGhhd3RlLCBJbmMuMRYwFAYD
+			VQQDEw1UaGF3dGUgU1NMIENBMB4XDTExMDcyMTAwMDAwMFoXDTE0MDgxMzIz
+			NTk1OVowgYExCzAJBgNVBAYTAlVTMRAwDgYDVQQIEwdJbmRpYW5hMRQwEgYD
+			VQQHFAtCbG9vbWluZ3RvbjEbMBkGA1UEChQSSW5kaWFuYSBVbml2ZXJzaXR5
+			MQ0wCwYDVQQLFARVSVRTMR4wHAYDVQQDFBVuZXQtYXV0aC0xLm5vYy5pdS5l
+			ZHUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDc+etm8wsSseFr
+			GEtlR8yTUTbSX4MV5HSvxFN/nPabHD3KUpu40aeaCO8iMpyHpQkb2TPyvbxL
+			ANA1TmTMPRkrI0G/txViM9jRHKyMxHHy2MAzI+ljRBVNd1QMz9M3+5DIjV4E
+			ilFeVtA/kVMNP83WiVhu5hUxjZyWChWnNLh4qxqpje/G1HCDBB1LXQzYros4
+			xC0ArYbQH4P4kbfisbh6p7IF4jx9d2a1Fg+Ymc6SkARkgJCVm0OgnQYLLSOz
+			dvNoLGvmpTcs4RAx4o7I5RlLHCPflvp3vyVmhe4pir7J1a5JkxhcVsT+s2BN
+			2rMcAE+9eBSIJWT00Dk7Gnnlq5b/AgMBAAGjgaAwgZ0wDAYDVR0TAQH/BAIw
+			ADA6BgNVHR8EMzAxMC+gLaArhilodHRwOi8vc3ZyLW92LWNybC50aGF3dGUu
+			Y29tL1RoYXd0ZU9WLmNybDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUH
+			AwIwMgYIKwYBBQUHAQEEJjAkMCIGCCsGAQUFBzABhhZodHRwOi8vb2NzcC50
+			aGF3dGUuY29tMA0GCSqGSIb3DQEBBQUAA4IBAQBBpDEbMhqNTXSWbAdtuE6L
+			y5Wt1RzmR8Gv5jNXo+R9BvsGSV1IRvXn/cZK0N8jakyzcIL6RZAyD2apSiDf
+			GkrB6EKBwhZbhdZN42hBi+OBWBObaWK20T0RO0Z52+UIST45enucRMFPB3N1
+			erlNqkhyusO6X3Z+Q8t/5bOBK8OhZZsBgu6TmiRGbbOk6mLOGNgWWuzevFIZ
+			TcUes8vzjHYcopWdbPgbevUXPqgY+GWoMF2XAasFTl78MBm9ArohrwYarqJv
+			6yVzSBoBiHt+4/hGN5KzpHDkQnU3pEb+vgDE1DPA1o8fnlTD7KTYYJrQS6nh
+			RCYBYrz9Zx92Kc+aGuSI
+			</data>
+			<key>PayloadDisplayName</key>
+			<string>IU WiFi Certificate</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.bl-uits-jag-x8s.ads.iu.edu.6f5c6650-f12a-012f-6c5c-0023df9d1eb4.alacarte.certificate.0D5A03D7-D734-4F35-88C6-80476D818A6A</string>
+			<key>PayloadType</key>
+			<string>com.apple.security.pkcs1</string>
+			<key>PayloadUUID</key>
+			<string>0D5A03D7-D734-4F35-88C6-80476D818A6A</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+
 		<dict>
 			<key>AutoJoin</key>
 			<false/>
