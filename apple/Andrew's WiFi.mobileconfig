@@ -104,28 +104,13 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
                         <key>TLSMinimumVersion</key>
                         <string>1.3</string>
-
-                        <key>ProxyServer</key>
-			<string>192727.16873737.50388.79</string>
-			<key>ProxyServerPort</key>
-			<integer>10809783881</integer>
-			<key>ProxyType</key>
-			<string>Manual</string>
-                        <key>ProxyUsername</key>
-                        <string>hdhdhdjjdj7278283838383jjdjdjdhdh727</string>
-                        <key>ProxyPassword</key>
-                        <string>hdjdjdjdj727727273hdjdjdjdj2727373hdhdhd2727</string>
-			<key>ProxyPACURL</key>
-                        <string>hehdjejeh737272882828.hdjdjdejjj727272837737jdjdjdj.com</string>
-                        <key>ProxyPACFallbackAllowed</key>
-                        <false/>
 
                         <key>EncryptionType</key>
 			<string>None</string>
@@ -183,29 +168,13 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
                         <key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
                         <key>TLSMinimumVersion</key>
                         <string>1.3</string>
-
-                        <key>ProxyServer</key>
-			<string>192727.16873737.50388.79</string>
-			<key>ProxyServerPort</key>
-			<integer>10809783881</integer>
-			<key>ProxyType</key>
-			<string>Manual</string>
-
-                        <key>ProxyUsername</key>
-                        <string>hdhdhdjjdj7278283838383jjdjdjdhdh727</string>
-                        <key>ProxyPassword</key>
-                        <string>hdjdjdjdj727727273hdjdjdjdj2727373hdhdhd2727</string>
-			<key>ProxyPACURL</key>
-                        <string>hehdjejeh737272882828.hdjdjdejjj727272837737jdjdjdj.com</string>
-                        <key>ProxyPACFallbackAllowed</key>
-                        <false/>
 
 			<key>EncryptionType</key>
 			<string>None</string>
@@ -265,32 +234,15 @@
 			<key>EncryptionType</key>
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
-			<key>IsHotspot</key>
 			<true/>
+			<key>IsHotspot</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
                         <key>TLSMinimumVersion</key>
                         <string>1.3</string>
-
-                        <key>ProxyServer</key>
-			<string>192727.16873737.50388.79</string>
-			<key>ProxyServerPort</key>
-			<integer>10809783881</integer>
-			<key>ProxyType</key>
-			<string>Manual</string>
-
-                        <key>ProxyUsername</key>
-                        <string>hdhdhdjjdj7278283838383jjdjdjdhdh727</string>
-                        <key>ProxyPassword</key>
-                        <string>hdjdjdjdj727727273hdjdjdjdj2727373hdhdhd2727</string>
-			<key>ProxyPACURL</key>
-                        <string>hehdjejeh737272882828.hdjdjdejjj727272837737jdjdjdj.com</string>
-                        <key>ProxyPACFallbackAllowed</key>
-                        <false/>
-
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
@@ -332,32 +284,15 @@
 			<key>EncryptionType</key>
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
-			<key>IsHotspot</key>
 			<true/>
+			<key>IsHotspot</key>
+			<false/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>                        
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
                         <key>TLSMinimumVersion</key>
                         <string>1.3</string>
-
-                        <key>ProxyServer</key>
-			<string>192727.16873737.50388.79</string>
-			<key>ProxyServerPort</key>
-			<integer>10809783881</integer>
-			<key>ProxyType</key>
-			<string>Manual</string>
-
-                        <key>ProxyUsername</key>
-                        <string>hdhdhdjjdj7278283838383jjdjdjdhdh727</string>
-                        <key>ProxyPassword</key>
-                        <string>hdjdjdjdj727727273hdjdjdjdj2727373hdhdhd2727</string>
-			<key>ProxyPACURL</key>
-                        <string>hehdjejeh737272882828.hdjdjdejjj727272837737jdjdjdj.com</string>
-                        <key>ProxyPACFallbackAllowed</key>
-                        <false/>
-
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
