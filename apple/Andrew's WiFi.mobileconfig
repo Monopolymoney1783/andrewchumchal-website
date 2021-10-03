@@ -169,7 +169,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyType</key>
-			<string>Auto</string>
+			<string>None</string>
 			<key>SSID_STR</key>
 			<string>ShawGo</string>
 		</dict>
@@ -215,7 +215,7 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyType</key>
-			<string>Auto</string>
+			<string>None</string>
 			<key>SSID_STR</key>
 			<string>ShawOpen</string>
 		</dict>
