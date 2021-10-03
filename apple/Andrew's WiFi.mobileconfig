@@ -104,7 +104,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -124,10 +124,6 @@
                         <false/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
-                        <key>PayloadCertificateAnchorUUID</key>
-                        <array>
-                        <string>BC3B9CEB-5CED-4C89-922B-A3CD2D2552BF</string>
-                        </array>
                         <key>TLSTrustedServerNames</key>
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
@@ -143,10 +139,6 @@
                         <string>hdhdhdjjdj7278283838383jjdjdjdhdh727</string>
                         <key>ProxyPassword</key>
                         <string>hdjdjdjdj727727273hdjdjdjdj2727373hdhdhd2727</string>
- 			<key>ProxyPACURL</key>
-                        <string>hehdjejeh737272882828.hdjdjdejjj727272837737jdjdjdj.com</string>
-                        <key>ProxyPACFallbackAllowed</key>
-                        <false/>
 
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck</string>
@@ -184,7 +176,7 @@
 			<key>CaptiveBypass</key>
 			<true/>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
                         <key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -204,10 +196,6 @@
                         <false/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
-                        <key>PayloadCertificateAnchorUUID</key>
-                        <array>
-                        <string>BC3B9CEB-5CED-4C89-922B-A3CD2D2552BF</string>
-                        </array>
                         <key>TLSTrustedServerNames</key>
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
@@ -223,10 +211,6 @@
                         <string>hdhdhdjjdj7278283838383jjdjdjdhdh727</string>
                         <key>ProxyPassword</key>
                         <string>hdjdjdjdj727727273hdjdjdjdj2727373hdhdhd2727</string>
- 			<key>ProxyPACURL</key>
-                        <string>hehdjejeh737272882828.hdjdjdejjj727272837737jdjdjdj.com</string>
-                        <key>ProxyPACFallbackAllowed</key>
-                        <false/>
 
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck2771</string>
@@ -266,7 +250,7 @@
 			<key>EncryptionType</key>
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>
                         <key>ServiceProviderRoamingEnabled</key>
@@ -279,10 +263,6 @@
                         <false/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
-                        <key>PayloadCertificateAnchorUUID</key>
-                        <array>
-                        <string>BC3B9CEB-5CED-4C89-922B-A3CD2D2552BF</string>
-                        </array>
                         <key>TLSTrustedServerNames</key>
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
@@ -298,10 +278,6 @@
                         <string>hdhdhdjjdj7278283838383jjdjdjdhdh727</string>
                         <key>ProxyPassword</key>
                         <string>hdjdjdjdj727727273hdjdjdjdj2727373hdhdhd2727</string>
- 			<key>ProxyPACURL</key>
-                        <string>hehdjejeh737272882828.hdjdjdejjj727272837737jdjdjdj.com</string>
-                        <key>ProxyPACFallbackAllowed</key>
-                        <false/>
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck8181939</string>
                         <key>PayloadDescription</key>
@@ -329,7 +305,7 @@
 			<key>EncryptionType</key>
 			<string>WPA</string>
 			<key>HIDDEN_NETWORK</key>
-			<false/>
+			<true/>
 			<key>DisableAssociationMACRandomization</key>
 			<false/>                        
                         <key>ServiceProviderRoamingEnabled</key>
@@ -342,10 +318,6 @@
                         <false/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
-                        <key>PayloadCertificateAnchorUUID</key>
-                        <array>
-                        <string>BC3B9CEB-5CED-4C89-922B-A3CD2D2552BF</string>
-                        </array>
                         <key>TLSTrustedServerNames</key>
                         <array>
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
@@ -361,10 +333,6 @@
                         <string>hdhdhdjjdj7278283838383jjdjdjdhdh727</string>
                         <key>ProxyPassword</key>
                         <string>hdjdjdjdj727727273hdjdjdjdj2727373hdhdhd2727</string>
- 			<key>ProxyPACURL</key>
-                        <string>hehdjejeh737272882828.hdjdjdejjj727272837737jdjdjdj.com</string>
-                        <key>ProxyPACFallbackAllowed</key>
-                        <false/>
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck81281919983</string>
 			<key>PayloadDescription</key>
