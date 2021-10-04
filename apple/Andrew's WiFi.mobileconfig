@@ -63,7 +63,15 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyType</key>
-			<string>Auto</string>
+			<string>Manual</string>
+
+            <key>ProxyCaptiveLoginAllowed</key>
+            <false/>
+            <key>ProxyServer</key>
+            <string>1727728383.738383838.7272828.18288282</string>
+            <key>ProxyServerPort</key>
+            <integer>31287</integer>
+
 			<key>SSID_STR</key>
 			<string>ShawPasspoint</string>
 		</dict>
@@ -124,7 +132,15 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyType</key>
-			<string>Auto</string>
+			<string>Manual</string>
+
+            <key>ProxyCaptiveLoginAllowed</key>
+            <false/>
+            <key>ProxyServer</key>
+            <string>1727728383.738383838.7272828.18288282</string>
+            <key>ProxyServerPort</key>
+            <integer>31287</integer>
+
 			<key>SSID_STR</key>
 			<string>ShawMobileHotspot</string>
 		</dict>
@@ -169,7 +185,15 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyType</key>
-			<string>None</string>
+			<string>Manual</string>
+
+            <key>ProxyCaptiveLoginAllowed</key>
+            <false/>
+            <key>ProxyServer</key>
+            <string>1727728383.738383838.7272828.18288282</string>
+            <key>ProxyServerPort</key>
+            <integer>31287</integer>
+
 			<key>SSID_STR</key>
 			<string>ShawGo</string>
 		</dict>
@@ -215,7 +239,15 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProxyType</key>
-			<string>None</string>
+			<string>Manual</string>
+
+            <key>ProxyCaptiveLoginAllowed</key>
+            <false/>
+            <key>ProxyServer</key>
+            <string>1727728383.738383838.7272828.18288282</string>
+            <key>ProxyServerPort</key>
+            <integer>31287</integer>
+
 			<key>SSID_STR</key>
 			<string>ShawOpen</string>
 		</dict>
