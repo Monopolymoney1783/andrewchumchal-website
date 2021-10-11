@@ -12,9 +12,6 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 
-                        <key>IsHotspot</key>
-                        <true/>
-
                         <key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
@@ -46,8 +43,6 @@
 			<key>HIDDEN_NETWORK</key>
 			<false/>
 
-                        <key>IsHotspot</key>
-                        <true/>
 
                         <key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
