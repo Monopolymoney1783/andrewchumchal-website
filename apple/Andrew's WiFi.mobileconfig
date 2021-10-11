@@ -46,8 +46,7 @@
 
         <key>PayloadEnabled</key>
         <false/>
-        <key>PayloadExpirationDate</key>
-        <date>2099-06-16T08:15:09Z</date>
+
 
 </dict>
 </plist>
