@@ -40,8 +40,8 @@
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 
-	<key>deleted</key>
-	<true/>
+        <key>PayloadEnabled</key>
+        <false/>
 
 </dict>
 </plist>
