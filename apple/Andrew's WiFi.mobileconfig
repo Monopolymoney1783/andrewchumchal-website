@@ -39,5 +39,9 @@
 	<string>3D6FEC8G-5CCJ-4A26-82B9-1CBC89048A1D</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+
+	<key>deleted</key>
+	<true/>
+
 </dict>
 </plist>
