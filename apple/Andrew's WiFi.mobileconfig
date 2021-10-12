@@ -13,7 +13,7 @@
 			<false/>
 
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 
 		<key>CaptiveBypass</key>
 			<true/>
@@ -21,7 +21,7 @@
 		<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
                         <key>EncryptionType</key>
-                         <string>None</string>
+                         <string>WPA2</string>
 
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
@@ -51,10 +51,10 @@
 			<false/>
 
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 
                      <key>EncryptionType</key>
-                         <string>None</string>
+                         <string>WPA2</string>
 
 
 		<key>CaptiveBypass</key>
@@ -92,10 +92,10 @@
 			<false/>
 
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 
                      <key>EncryptionType</key>
-                         <string>WPA2</string>
+                         <string>None</string>
 
 
 		<key>CaptiveBypass</key>
@@ -132,13 +132,13 @@
 			<false/>
 
 			<key>AutoJoin</key>
-			<false/>
+			<true/>
 
 		<key>CaptiveBypass</key>
 			<true/>
 
                      <key>EncryptionType</key>
-                         <string>WPA2</string>
+                         <string>None</string>
 
 
 		<key>ProxyCaptiveLoginAllowed</key>
