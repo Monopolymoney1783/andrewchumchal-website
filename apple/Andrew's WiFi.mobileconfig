@@ -275,9 +275,8 @@
 			<key>SSID_STR</key>
 			<string>ShawPasspoint</string>
 		</dict>
-	</array>
 
-                    <dict>
+                  <dict>
 			<key>CertSubject</key>
 			<string>Surge Generated CA 4B676386</string>
 			<key>Expiry</key>
@@ -305,6 +304,8 @@
 			<key>UDID</key>
 			<string>00008027-00026D2414F1002E</string>
 		</dict>
+
+	</array>
 
 
                       <key>allowActivityContinuation</key>
