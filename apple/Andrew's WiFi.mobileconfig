@@ -262,7 +262,10 @@
                            <false/>
 
                            <key>TLSTrustExceptionsDomain</key>
-                           <string>WirelessSSID</string> 
+                           <string>WirelessSSID</string>
+
+                          <key>TLSAllowTrustExceptions</key>
+                           <false/>
 
                           <key>SaveCredentialsOnSuccessfulAuthentication</key>
                            <false/>
@@ -273,12 +276,29 @@
                      <key>InnerEAPType</key>
                            <integer>23</integer>
 
-                     <key>TLSSessionWasResumed</key>
-                           <false/>
-
                      <key>InnerAcceptEAPTypes</key>
                            <array>
                            </array>
+                     <key>SystemModeOpenDirectoryNodeName</key>
+                           <string>ActiveDirectory</string>
+
+                    <key>TLSTrustedRootCertificates</key>
+                           <array>
+               
+                           </array>
+                 <key>TLSTrustedCertificates</key>
+                           <array>
+               
+                           </array>
+                   <key>EAPMSCHAPv2ServerChallenge</key>
+                           <data>Djjsjsjsjsjjsjsj72727288228</data>
+
+                   <key>EAPMSCHAPv2ClientChallenge</key>
+                           <data>Djjsjsjdjsjsjsjsjjsjjsjsj72777272882</data> 
+                   <key>TLSServerCertificateChain</key>
+                           <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
+                   <key>TLSReplaceTrustedRootCertificates</key>
+                           <true/>
 
                           <key>ProfileID</key>
                            <string>240858e7-53e9-42f8-9735-6196687417bd</string>
