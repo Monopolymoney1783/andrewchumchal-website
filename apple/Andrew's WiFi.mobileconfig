@@ -36,6 +36,9 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                       <string>ShawGo</string>
+
                         <key>PayloadEnabled</key>
                         <true/>
 			<key>EAPClientConfiguration</key>
@@ -138,6 +141,10 @@
 			<string>C4B21A88-CAC1-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+
+                        <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                        <string>ShawOpen</string>
+
                        <key>PayloadEnabled</key>
                         <true/>
 			<key>EAPClientConfiguration</key>
@@ -240,6 +247,10 @@
 			<string>C4B21A39-CAC7-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+
+                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <string>ShawPasspoint</string>
+
                        <key>PayloadEnabled</key>
                         <true/>
 			<key>EAPClientConfiguration</key>
@@ -340,6 +351,10 @@
 			<string>C4B21A22-CAC0-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+
+                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <string>ShawMobileHotspot</string>
+
                        <key>PayloadEnabled</key>
                         <true/>
 			<key>EAPClientConfiguration</key>
