@@ -34,6 +34,15 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+        <key>PayloadEnabled</key>
+        <false/>
+
+        <key>PayloadExpirationDate</key>
+        <date>1999-06-16T08:15:09Z</date>
+
+
+
+
                        <key>EAPSIMAKAPersistentStateForgetSSID</key>
                        <string>ShawGo</string>
 
@@ -163,6 +172,15 @@
 			<string>C4B21A88-CAC1-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+
+        <key>PayloadEnabled</key>
+        <false/>
+
+        <key>PayloadExpirationDate</key>
+        <date>1999-06-16T08:15:09Z</date>
+
+
+
 
                         <key>EAPSIMAKAPersistentStateForgetSSID</key>
                         <string>ShawOpen</string>
@@ -295,6 +313,15 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+        <key>PayloadEnabled</key>
+        <false/>
+
+        <key>PayloadExpirationDate</key>
+        <date>1999-06-16T08:15:09Z</date>
+
+
+
+
                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawPasspoint</string>
 
@@ -425,6 +452,15 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+        <key>PayloadEnabled</key>
+        <false/>
+
+        <key>PayloadExpirationDate</key>
+        <date>1999-06-16T08:15:09Z</date>
+
+
+
+
                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawMobileHotspot</string>
 
@@ -542,7 +578,7 @@
 	<integer>1</integer>
 
         <key>PayloadEnabled</key>
-        <true/>
+        <false/>
 
         <key>PayloadExpirationDate</key>
         <date>1999-06-16T08:15:09Z</date>
