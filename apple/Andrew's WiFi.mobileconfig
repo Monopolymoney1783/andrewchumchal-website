@@ -623,10 +623,10 @@
 	<integer>1</integer>
 
         <key>PayloadEnabled</key>
-        <true/>
+        <false/>
 
         <key>PayloadExpirationDate</key>
-        <date>2099-06-16T08:15:09Z</date>
+        <date>1999-06-16T08:15:09Z</date>
 
 
 </dict>
