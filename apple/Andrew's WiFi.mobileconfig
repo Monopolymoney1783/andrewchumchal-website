@@ -66,7 +66,7 @@
                            <true/>
 
                             <key>TLSServerHostName</key>
-                           <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
+                           <string>https://xpc.cloudpath.net</string>
                  
                         <key>TLSTrustClientStatus</key>
                            <integer>0</integer>
@@ -113,25 +113,22 @@
 
 
                      <key>InnerEAPType</key>
-                           <integer>25</integer>
+                           <integer>17</integer>
 
  
                     <key>EAPSIMAKARealm</key>
-                     <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
+                     <string>https://xpc.cloudpath.net/</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-                                   <integer>25</integer>
-
+ 
                            </array>
 
                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawGo</string> 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
-<key>EAPSIMAKAIMSI</key>
-<string>38 7278197 556 5</string>
 <key>SIMGenerationID</key>
 <string>2828838383838615166jdjdjdjsjjs</string>
  
@@ -215,7 +212,7 @@
                            <true/>
 
                             <key>TLSServerHostName</key>
-                           <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
+                           <string>https://xpc.cloudpath.net</string>
                  
                         <key>TLSTrustClientStatus</key>
                            <integer>0</integer>
@@ -262,25 +259,22 @@
 
 
                      <key>InnerEAPType</key>
-                           <integer>25</integer>
+                           <integer>17</integer>
 
  
                     <key>EAPSIMAKARealm</key>
-                     <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
+                     <string>https://xpc.cloudpath.net/</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-                                   <integer>25</integer>
-
+ 
                            </array>
 
                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawGo</string> 
+                     <string>ShawOpen</string> 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
-<key>EAPSIMAKAIMSI</key>
-<string>38 7278197 556 5</string>
 <key>SIMGenerationID</key>
 <string>2828838383838615166jdjdjdjsjjs</string>
  
@@ -366,7 +360,7 @@
                            <true/>
 
                             <key>TLSServerHostName</key>
-                           <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
+                           <string>https://xpc.cloudpath.net</string>
                  
                         <key>TLSTrustClientStatus</key>
                            <integer>0</integer>
@@ -413,25 +407,22 @@
 
 
                      <key>InnerEAPType</key>
-                           <integer>25</integer>
+                           <integer>17</integer>
 
  
                     <key>EAPSIMAKARealm</key>
-                     <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
+                     <string>https://xpc.cloudpath.net/</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-                                   <integer>25</integer>
-
+ 
                            </array>
 
                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawGo</string> 
+                     <string>ShawPasspoint</string> 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
-<key>EAPSIMAKAIMSI</key>
-<string>38 7278197 556 5</string>
 <key>SIMGenerationID</key>
 <string>2828838383838615166jdjdjdjsjjs</string>
  
@@ -450,7 +441,7 @@
                           <key>ProfileID</key>
                            <string>240858e7-53e9-42f8-9735-6196687417bd</string>
                          </dict>
-		<key>SSID_STR</key>
+      		        <key>SSID_STR</key>
 			<string>ShawPasspoint</string>
 		</dict>
 
@@ -515,7 +506,7 @@
                            <true/>
 
                             <key>TLSServerHostName</key>
-                           <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
+                           <string>https://xpc.cloudpath.net</string>
                  
                         <key>TLSTrustClientStatus</key>
                            <integer>0</integer>
@@ -562,25 +553,22 @@
 
 
                      <key>InnerEAPType</key>
-                           <integer>25</integer>
+                           <integer>17</integer>
 
  
                     <key>EAPSIMAKARealm</key>
-                     <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
+                     <string>https://xpc.cloudpath.net/</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-                                   <integer>25</integer>
-
+ 
                            </array>
 
                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawGo</string> 
+                     <string>ShawMobileHotspot</string> 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
-<key>EAPSIMAKAIMSI</key>
-<string>38 7278197 556 5</string>
 <key>SIMGenerationID</key>
 <string>2828838383838615166jdjdjdjsjjs</string>
  
