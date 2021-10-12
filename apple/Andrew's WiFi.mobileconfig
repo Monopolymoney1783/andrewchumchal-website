@@ -274,7 +274,13 @@
                            <false/>
 
                      <key>InnerEAPType</key>
-                           <integer>23</integer>
+                           <integer>43</integer>
+ 
+                    <key>EAPSIMAKARealm</key>
+                     <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
+
+                    <key>EAPSIMAKAIMSI</key>
+                    <string>35 238020 116141 1</string>
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
