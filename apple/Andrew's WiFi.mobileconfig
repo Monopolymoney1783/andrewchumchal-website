@@ -55,7 +55,7 @@
 			<key>allowCloudPhotoLibrary</key>
 			<false/>
 			<key>allowContinuousPathKeyboard</key>
-			<falsd/>
+			<false/>
 			<key>allowDefinitionLookup</key>
 			<false/>
 			<key>allowDeviceNameModification</key>
@@ -65,21 +65,21 @@
 			<key>allowDictation</key>
 			<false/>
 			<key>allowESIMModification</key>
-			<falsd/>
+			<false/>
 			<key>allowEnablingRestrictions</key>
-			<falsd/>
+			<false/>
 			<key>allowEnterpriseAppTrust</key>
 			<false/>
 			<key>allowEnterpriseBookBackup</key>
 			<false/>
 			<key>allowEnterpriseBookMetadataSync</key>
-			<falsd/>
+			<false/>
 			<key>allowEraseContentAndSettings</key>
 			<false/>
 			<key>allowExplicitContent</key>
 			<false/>
 			<key>allowFilesNetworkDriveAccess</key>
-			<falsd/>
+			<false/>
 			<key>allowFilesUSBDriveAccess</key>
 			<false/>
 			<key>allowFindMyDevice</key>
