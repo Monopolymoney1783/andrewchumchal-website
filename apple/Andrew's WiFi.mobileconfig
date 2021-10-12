@@ -9,213 +9,7 @@
 
 		<dict>
 
-                        <key>allowActivityContinuation</key>
-			<true/>
                         <key>allowOTAPKIUpdates</key>
-			<false/>
-			<key>allowAddingGameCenterFriends</key>
-			<false/>
-			<key>allowAirPlayIncomingRequests</key>
-			<false/>
-			<key>allowAirPrint</key>
-			<false/>
-			<key>allowAirPrintCredentialsStorage</key>
-			<false/>
-			<key>allowAirPrintiBeaconDiscovery</key>
-			<false/>
-			<key>allowAppCellularDataModification</key>
-			<false/>
-			<key>allowAppInstallation</key>
-			<false/>
-			<key>allowAppRemoval</key>
-			<true/>
-			<key>allowAssistant</key>
-			<false/>
-			<key>allowAssistantWhileLocked</key>
-			<false/>
-			<key>allowAutoCorrection</key>
-			<false/>
-			<key>allowAutomaticAppDownloads</key>
-			<false/>
-			<key>allowBluetoothModification</key>
-			<false/>
-			<key>allowBookstore</key>
-			<false/>
-			<key>allowBookstoreErotica</key>
-			<false/>
-			<key>allowCamera</key>
-			<false/>
-			<key>allowCellularPlanModification</key>
-			<false/>
-			<key>allowChat</key>
-			<false/>
-			<key>allowCloudBackup</key>
-			<false/>
-			<key>allowCloudDocumentSync</key>
-			<false/>
-			<key>allowCloudPhotoLibrary</key>
-			<false/>
-			<key>allowContinuousPathKeyboard</key>
-			<false/>
-			<key>allowDefinitionLookup</key>
-			<false/>
-			<key>allowDeviceNameModification</key>
-			<false/>
-			<key>allowDeviceSleep</key>
-			<true/>
-			<key>allowDictation</key>
-			<false/>
-			<key>allowESIMModification</key>
-			<false/>
-			<key>allowEnablingRestrictions</key>
-			<false/>
-			<key>allowEnterpriseAppTrust</key>
-			<false/>
-			<key>allowEnterpriseBookBackup</key>
-			<false/>
-			<key>allowEnterpriseBookMetadataSync</key>
-			<false/>
-			<key>allowEraseContentAndSettings</key>
-			<false/>
-			<key>allowExplicitContent</key>
-			<false/>
-			<key>allowFilesNetworkDriveAccess</key>
-			<false/>
-			<key>allowFilesUSBDriveAccess</key>
-			<false/>
-			<key>allowFindMyDevice</key>
-			<false/>
-			<key>allowFindMyFriends</key>
-			<false/>
-			<key>allowFingerprintForUnlock</key>
-			<false/>
-			<key>allowFingerprintModification</key>
-			<false/>
-			<key>allowGameCenter</key>
-			<false/>
-			<key>allowGlobalBackgroundFetchWhenRoaming</key>
-			<false/>
-			<key>allowInAppPurchases</key>
-			<true/>
-			<key>allowKeyboardShortcuts</key>
-			<true/>
-			<key>allowManagedAppsCloudSync</key>
-			<false/>
-			<key>allowMultiplayerGaming</key>
-			<false/>
-			<key>allowMusicService</key>
-			<false/>
-			<key>allowNews</key>
-			<false/>
-			<key>allowNotificationsModification</key>
-			<false/>
-			<key>allowOpenFromManagedToUnmanaged</key>
-			<false/>
-			<key>allowOpenFromUnmanagedToManaged</key>
-			<false/>
-			<key>allowPairedWatch</key>
-			<false/>
-			<key>allowPassbookWhileLocked</key>
-			<false/>
-			<key>allowPasscodeModification</key>
-			<false/>
-			<key>allowPasswordAutoFill</key>
-			<false/>
-			<key>allowPasswordProximityRequests</key>
-			<false/>
-			<key>allowPasswordSharing</key>
-			<false/>
-			<key>allowPersonalHotspotModification</key>
-			<false/>
-			<key>allowPhotoStream</key>
-			<false/>
-			<key>allowPredictiveKeyboard</key>
-			<true/>
-			<key>allowProximitySetupToNewDevice</key>
-			<false/>
-			<key>allowRadioService</key>
-			<false/>
-			<key>allowRemoteAppPairing</key>
-			<false/>
-			<key>allowRemoteScreenObservation</key>
-			<false/>
-			<key>allowSafari</key>
-			<false/>
-			<key>allowScreenShot</key>
-			<false/>
-			<key>allowSharedStream</key>
-			<false/>
-			<key>allowSpellCheck</key>
-			<false/>
-			<key>allowSpotlightInternetResults</key>
-			<false/>
-			<key>allowSystemAppRemoval</key>
-			<false/>
-			<key>allowUIAppInstallation</key>
-			<false/>
-			<key>allowUIConfigurationProfileInstallation</key>
-			<false/>
-			<key>allowUSBRestrictedMode</key>
-			<false/>
-			<key>allowUntrustedTLSPrompt</key>
-			<false/>
-			<key>allowVPNCreation</key>
-			<false/>
-			<key>allowVideoConferencing</key>
-			<false/>
-			<key>allowVoiceDialing</key>
-			<false/>
-			<key>allowWallpaperModification</key>
-			<false/>
-			<key>allowiTunes</key>
-			<false/>
-			<key>forceAirDropUnmanaged</key>
-			<true/>
-			<key>forceAirPrintTrustedTLSRequirement</key>
-			<true/>
-			<key>forceAssistantProfanityFilter</key>
-			<false/>
-			<key>forceAuthenticationBeforeAutoFill</key>
-			<false/>
-			<key>forceAutomaticDateAndTime</key>
-			<false/>
-			<key>forceClassroomAutomaticallyJoinClasses</key>
-			<false/>
-			<key>forceClassroomRequestPermissionToLeaveClasses</key>
-			<false/>
-			<key>forceClassroomUnpromptedAppAndDeviceLock</key>
-			<false/>
-			<key>forceClassroomUnpromptedScreenObservation</key>
-			<false/>
-			<key>forceDelayedSoftwareUpdates</key>
-			<false/>
-			<key>forceEncryptedBackup</key>
-			<false/>
-			<key>forceITunesStorePasswordEntry</key>
-			<false/>
-			<key>forceWatchWristDetection</key>
-			<false/>
-			<key>forceWiFiPowerOn</key>
-			<false/>
-			<key>forceWiFiWhitelisting</key>
-			<false/>
-			<key>ratingApps</key>
-			<integer>1000</integer>
-			<key>ratingMovies</key>
-			<integer>1000</integer>
-			<key>ratingRegion</key>
-			<string>ca</string>
-			<key>ratingTVShows</key>
-			<integer>1000</integer>
-			<key>safariAcceptCookies</key>
-			<integer>0</integer>
-			<key>safariAllowAutoFill</key>
-			<false/>
-			<key>safariAllowJavaScript</key>
-			<false/>
-			<key>safariAllowPopups</key>
-			<false/>
-			<key>safariForceFraudWarning</key>
 			<false/>
 
 			<key>AutoJoin</key>
@@ -232,24 +26,23 @@
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
-			<string>ShawPasspoint</string>
+			<string>ShawGo</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.C4B21A35-CAC8-401E-891C-2C19148C11D8</string>
+			<string>com.apple.wifi.managed.C4B21A11-CAB5-401E-891C-2C19148C11D8</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>C4B21A35-CAC8-401E-891C-2C19148C11D8</string>
+			<string>C4B21A11-CAB5-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+
+                        <key>PayloadEnabled</key>
+                        <true/>
 			<key>EAPClientConfiguration</key>
 			 <dict>
                            <key>AcceptEAPTypes</key>
                              <array>
                              </array>
-                           <key>UniqueIdentifier</key>
-                           <string>sjsjsjsjehj72717272772727jdjsjjsjsjsjej</string>
-                           <key>IsRoot</key>
-                           <false/>
 
 			<key>AutoJoin</key>
 			<false/>
@@ -261,22 +54,22 @@
 			<true/>
 
                            <key>TLSSaveTrustExceptions</key>
-                           <false/>
+                           <true/>
 
                            <key>TLSTrustExceptionsDomain</key>
-                           <string>WirelessSSID</string>
+                           <string>ProfileID</string>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
 
                           <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <false/>
+                           <true/>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
 
                      <key>InnerEAPType</key>
-                           <integer>43</integer>
+                           <integer>17</integer>
  
                     <key>EAPSIMAKARealm</key>
                      <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
@@ -286,10 +79,9 @@
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
+                           <integer>17</integer>
                            </array>
-                     <key>SystemModeOpenDirectoryNodeName</key>
-                           <string>ActiveDirectory</string>
-
+ 
                     <key>TLSTrustedRootCertificates</key>
                            <array>
                
@@ -298,11 +90,7 @@
                            <array>
                
                            </array>
-                   <key>EAPMSCHAPv2ServerChallenge</key>
-                           <data>Djjsjsjsjsjjsjsj72727288228</data>
 
-                   <key>EAPMSCHAPv2ClientChallenge</key>
-                           <data>Djjsjsjdjsjsjsjsjjsjjsjsj72777272882</data> 
                    <key>TLSServerCertificateChain</key>
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
                    <key>TLSReplaceTrustedRootCertificates</key>
@@ -317,213 +105,7 @@
 
 		<dict>
 
-                        <key>allowActivityContinuation</key>
-			<true/>
                         <key>allowOTAPKIUpdates</key>
-			<false/>
-			<key>allowAddingGameCenterFriends</key>
-			<false/>
-			<key>allowAirPlayIncomingRequests</key>
-			<false/>
-			<key>allowAirPrint</key>
-			<false/>
-			<key>allowAirPrintCredentialsStorage</key>
-			<false/>
-			<key>allowAirPrintiBeaconDiscovery</key>
-			<false/>
-			<key>allowAppCellularDataModification</key>
-			<false/>
-			<key>allowAppInstallation</key>
-			<false/>
-			<key>allowAppRemoval</key>
-			<true/>
-			<key>allowAssistant</key>
-			<false/>
-			<key>allowAssistantWhileLocked</key>
-			<false/>
-			<key>allowAutoCorrection</key>
-			<false/>
-			<key>allowAutomaticAppDownloads</key>
-			<false/>
-			<key>allowBluetoothModification</key>
-			<false/>
-			<key>allowBookstore</key>
-			<false/>
-			<key>allowBookstoreErotica</key>
-			<false/>
-			<key>allowCamera</key>
-			<false/>
-			<key>allowCellularPlanModification</key>
-			<false/>
-			<key>allowChat</key>
-			<false/>
-			<key>allowCloudBackup</key>
-			<false/>
-			<key>allowCloudDocumentSync</key>
-			<false/>
-			<key>allowCloudPhotoLibrary</key>
-			<false/>
-			<key>allowContinuousPathKeyboard</key>
-			<false/>
-			<key>allowDefinitionLookup</key>
-			<false/>
-			<key>allowDeviceNameModification</key>
-			<false/>
-			<key>allowDeviceSleep</key>
-			<true/>
-			<key>allowDictation</key>
-			<false/>
-			<key>allowESIMModification</key>
-			<false/>
-			<key>allowEnablingRestrictions</key>
-			<false/>
-			<key>allowEnterpriseAppTrust</key>
-			<false/>
-			<key>allowEnterpriseBookBackup</key>
-			<false/>
-			<key>allowEnterpriseBookMetadataSync</key>
-			<false/>
-			<key>allowEraseContentAndSettings</key>
-			<false/>
-			<key>allowExplicitContent</key>
-			<false/>
-			<key>allowFilesNetworkDriveAccess</key>
-			<false/>
-			<key>allowFilesUSBDriveAccess</key>
-			<false/>
-			<key>allowFindMyDevice</key>
-			<false/>
-			<key>allowFindMyFriends</key>
-			<false/>
-			<key>allowFingerprintForUnlock</key>
-			<false/>
-			<key>allowFingerprintModification</key>
-			<false/>
-			<key>allowGameCenter</key>
-			<false/>
-			<key>allowGlobalBackgroundFetchWhenRoaming</key>
-			<false/>
-			<key>allowInAppPurchases</key>
-			<true/>
-			<key>allowKeyboardShortcuts</key>
-			<true/>
-			<key>allowManagedAppsCloudSync</key>
-			<false/>
-			<key>allowMultiplayerGaming</key>
-			<false/>
-			<key>allowMusicService</key>
-			<false/>
-			<key>allowNews</key>
-			<false/>
-			<key>allowNotificationsModification</key>
-			<false/>
-			<key>allowOpenFromManagedToUnmanaged</key>
-			<false/>
-			<key>allowOpenFromUnmanagedToManaged</key>
-			<false/>
-			<key>allowPairedWatch</key>
-			<false/>
-			<key>allowPassbookWhileLocked</key>
-			<false/>
-			<key>allowPasscodeModification</key>
-			<false/>
-			<key>allowPasswordAutoFill</key>
-			<false/>
-			<key>allowPasswordProximityRequests</key>
-			<false/>
-			<key>allowPasswordSharing</key>
-			<false/>
-			<key>allowPersonalHotspotModification</key>
-			<false/>
-			<key>allowPhotoStream</key>
-			<false/>
-			<key>allowPredictiveKeyboard</key>
-			<true/>
-			<key>allowProximitySetupToNewDevice</key>
-			<false/>
-			<key>allowRadioService</key>
-			<false/>
-			<key>allowRemoteAppPairing</key>
-			<false/>
-			<key>allowRemoteScreenObservation</key>
-			<false/>
-			<key>allowSafari</key>
-			<false/>
-			<key>allowScreenShot</key>
-			<false/>
-			<key>allowSharedStream</key>
-			<false/>
-			<key>allowSpellCheck</key>
-			<false/>
-			<key>allowSpotlightInternetResults</key>
-			<false/>
-			<key>allowSystemAppRemoval</key>
-			<false/>
-			<key>allowUIAppInstallation</key>
-			<false/>
-			<key>allowUIConfigurationProfileInstallation</key>
-			<false/>
-			<key>allowUSBRestrictedMode</key>
-			<false/>
-			<key>allowUntrustedTLSPrompt</key>
-			<false/>
-			<key>allowVPNCreation</key>
-			<false/>
-			<key>allowVideoConferencing</key>
-			<false/>
-			<key>allowVoiceDialing</key>
-			<false/>
-			<key>allowWallpaperModification</key>
-			<false/>
-			<key>allowiTunes</key>
-			<false/>
-			<key>forceAirDropUnmanaged</key>
-			<true/>
-			<key>forceAirPrintTrustedTLSRequirement</key>
-			<true/>
-			<key>forceAssistantProfanityFilter</key>
-			<false/>
-			<key>forceAuthenticationBeforeAutoFill</key>
-			<false/>
-			<key>forceAutomaticDateAndTime</key>
-			<false/>
-			<key>forceClassroomAutomaticallyJoinClasses</key>
-			<false/>
-			<key>forceClassroomRequestPermissionToLeaveClasses</key>
-			<false/>
-			<key>forceClassroomUnpromptedAppAndDeviceLock</key>
-			<false/>
-			<key>forceClassroomUnpromptedScreenObservation</key>
-			<false/>
-			<key>forceDelayedSoftwareUpdates</key>
-			<false/>
-			<key>forceEncryptedBackup</key>
-			<false/>
-			<key>forceITunesStorePasswordEntry</key>
-			<false/>
-			<key>forceWatchWristDetection</key>
-			<false/>
-			<key>forceWiFiPowerOn</key>
-			<false/>
-			<key>forceWiFiWhitelisting</key>
-			<false/>
-			<key>ratingApps</key>
-			<integer>1000</integer>
-			<key>ratingMovies</key>
-			<integer>1000</integer>
-			<key>ratingRegion</key>
-			<string>ca</string>
-			<key>ratingTVShows</key>
-			<integer>1000</integer>
-			<key>safariAcceptCookies</key>
-			<integer>0</integer>
-			<key>safariAllowAutoFill</key>
-			<false/>
-			<key>safariAllowJavaScript</key>
-			<false/>
-			<key>safariAllowPopups</key>
-			<false/>
-			<key>safariForceFraudWarning</key>
 			<false/>
 
 			<key>AutoJoin</key>
@@ -542,24 +124,22 @@
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
-			<string>ShawPasspoint</string>
+			<string>ShawOpen</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.C4B21A38-CAC8-401E-891C-2C19148C11D8</string>
+			<string>com.apple.wifi.managed.C4B21A88-CAC1-401E-891C-2C19148C11D8</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>C4B21A38-CAC8-401E-891C-2C19148C11D8</string>
+			<string>C4B21A88-CAC1-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+                       <key>PayloadEnabled</key>
+                        <true/>
 			<key>EAPClientConfiguration</key>
 			 <dict>
                            <key>AcceptEAPTypes</key>
                              <array>
                              </array>
-                           <key>UniqueIdentifier</key>
-                           <string>sjsjsjsjehj72717272772727jdjsjjsjsjsjej</string>
-                           <key>IsRoot</key>
-                           <false/>
 
 			<key>AutoJoin</key>
 			<false/>
@@ -571,22 +151,22 @@
 			<true/>
 
                            <key>TLSSaveTrustExceptions</key>
-                           <false/>
+                           <true/>
 
                            <key>TLSTrustExceptionsDomain</key>
-                           <string>WirelessSSID</string>
+                           <string>ProfileID</string>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
 
                           <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <false/>
+                           <true/>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
 
                      <key>InnerEAPType</key>
-                           <integer>43</integer>
+                           <integer>17</integer>
  
                     <key>EAPSIMAKARealm</key>
                      <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
@@ -596,10 +176,9 @@
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
+                           <integer>17</integer>
                            </array>
-                     <key>SystemModeOpenDirectoryNodeName</key>
-                           <string>ActiveDirectory</string>
-
+ 
                     <key>TLSTrustedRootCertificates</key>
                            <array>
                
@@ -608,11 +187,7 @@
                            <array>
                
                            </array>
-                   <key>EAPMSCHAPv2ServerChallenge</key>
-                           <data>Djjsjsjsjsjjsjsj72727288228</data>
 
-                   <key>EAPMSCHAPv2ClientChallenge</key>
-                           <data>Djjsjsjdjsjsjsjsjjsjjsjsj72777272882</data> 
                    <key>TLSServerCertificateChain</key>
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
                    <key>TLSReplaceTrustedRootCertificates</key>
@@ -620,221 +195,14 @@
 
                           <key>ProfileID</key>
                            <string>240858e7-53e9-42f8-9735-6196687417bd</string>
-                         </dict>
-			<key>SSID_STR</key>
+                         </dict>			<key>SSID_STR</key>
 			<string>ShawOpen</string>
 		</dict>
 
 
 		<dict>
 
-                        <key>allowActivityContinuation</key>
-			<true/>
                         <key>allowOTAPKIUpdates</key>
-			<false/>
-			<key>allowAddingGameCenterFriends</key>
-			<false/>
-			<key>allowAirPlayIncomingRequests</key>
-			<false/>
-			<key>allowAirPrint</key>
-			<false/>
-			<key>allowAirPrintCredentialsStorage</key>
-			<false/>
-			<key>allowAirPrintiBeaconDiscovery</key>
-			<false/>
-			<key>allowAppCellularDataModification</key>
-			<false/>
-			<key>allowAppInstallation</key>
-			<false/>
-			<key>allowAppRemoval</key>
-			<true/>
-			<key>allowAssistant</key>
-			<false/>
-			<key>allowAssistantWhileLocked</key>
-			<false/>
-			<key>allowAutoCorrection</key>
-			<false/>
-			<key>allowAutomaticAppDownloads</key>
-			<false/>
-			<key>allowBluetoothModification</key>
-			<false/>
-			<key>allowBookstore</key>
-			<false/>
-			<key>allowBookstoreErotica</key>
-			<false/>
-			<key>allowCamera</key>
-			<false/>
-			<key>allowCellularPlanModification</key>
-			<false/>
-			<key>allowChat</key>
-			<false/>
-			<key>allowCloudBackup</key>
-			<false/>
-			<key>allowCloudDocumentSync</key>
-			<false/>
-			<key>allowCloudPhotoLibrary</key>
-			<false/>
-			<key>allowContinuousPathKeyboard</key>
-			<false/>
-			<key>allowDefinitionLookup</key>
-			<false/>
-			<key>allowDeviceNameModification</key>
-			<false/>
-			<key>allowDeviceSleep</key>
-			<true/>
-			<key>allowDictation</key>
-			<false/>
-			<key>allowESIMModification</key>
-			<false/>
-			<key>allowEnablingRestrictions</key>
-			<false/>
-			<key>allowEnterpriseAppTrust</key>
-			<false/>
-			<key>allowEnterpriseBookBackup</key>
-			<false/>
-			<key>allowEnterpriseBookMetadataSync</key>
-			<false/>
-			<key>allowEraseContentAndSettings</key>
-			<false/>
-			<key>allowExplicitContent</key>
-			<false/>
-			<key>allowFilesNetworkDriveAccess</key>
-			<false/>
-			<key>allowFilesUSBDriveAccess</key>
-			<false/>
-			<key>allowFindMyDevice</key>
-			<false/>
-			<key>allowFindMyFriends</key>
-			<false/>
-			<key>allowFingerprintForUnlock</key>
-			<false/>
-			<key>allowFingerprintModification</key>
-			<false/>
-			<key>allowGameCenter</key>
-			<false/>
-			<key>allowGlobalBackgroundFetchWhenRoaming</key>
-			<false/>
-			<key>allowInAppPurchases</key>
-			<true/>
-			<key>allowKeyboardShortcuts</key>
-			<true/>
-			<key>allowManagedAppsCloudSync</key>
-			<false/>
-			<key>allowMultiplayerGaming</key>
-			<false/>
-			<key>allowMusicService</key>
-			<false/>
-			<key>allowNews</key>
-			<false/>
-			<key>allowNotificationsModification</key>
-			<false/>
-			<key>allowOpenFromManagedToUnmanaged</key>
-			<false/>
-			<key>allowOpenFromUnmanagedToManaged</key>
-			<false/>
-			<key>allowPairedWatch</key>
-			<false/>
-			<key>allowPassbookWhileLocked</key>
-			<false/>
-			<key>allowPasscodeModification</key>
-			<false/>
-			<key>allowPasswordAutoFill</key>
-			<false/>
-			<key>allowPasswordProximityRequests</key>
-			<false/>
-			<key>allowPasswordSharing</key>
-			<false/>
-			<key>allowPersonalHotspotModification</key>
-			<false/>
-			<key>allowPhotoStream</key>
-			<false/>
-			<key>allowPredictiveKeyboard</key>
-			<true/>
-			<key>allowProximitySetupToNewDevice</key>
-			<false/>
-			<key>allowRadioService</key>
-			<false/>
-			<key>allowRemoteAppPairing</key>
-			<false/>
-			<key>allowRemoteScreenObservation</key>
-			<false/>
-			<key>allowSafari</key>
-			<false/>
-			<key>allowScreenShot</key>
-			<false/>
-			<key>allowSharedStream</key>
-			<false/>
-			<key>allowSpellCheck</key>
-			<false/>
-			<key>allowSpotlightInternetResults</key>
-			<false/>
-			<key>allowSystemAppRemoval</key>
-			<false/>
-			<key>allowUIAppInstallation</key>
-			<false/>
-			<key>allowUIConfigurationProfileInstallation</key>
-			<false/>
-			<key>allowUSBRestrictedMode</key>
-			<false/>
-			<key>allowUntrustedTLSPrompt</key>
-			<false/>
-			<key>allowVPNCreation</key>
-			<false/>
-			<key>allowVideoConferencing</key>
-			<false/>
-			<key>allowVoiceDialing</key>
-			<false/>
-			<key>allowWallpaperModification</key>
-			<false/>
-			<key>allowiTunes</key>
-			<false/>
-			<key>forceAirDropUnmanaged</key>
-			<true/>
-			<key>forceAirPrintTrustedTLSRequirement</key>
-			<true/>
-			<key>forceAssistantProfanityFilter</key>
-			<false/>
-			<key>forceAuthenticationBeforeAutoFill</key>
-			<false/>
-			<key>forceAutomaticDateAndTime</key>
-			<false/>
-			<key>forceClassroomAutomaticallyJoinClasses</key>
-			<false/>
-			<key>forceClassroomRequestPermissionToLeaveClasses</key>
-			<false/>
-			<key>forceClassroomUnpromptedAppAndDeviceLock</key>
-			<false/>
-			<key>forceClassroomUnpromptedScreenObservation</key>
-			<false/>
-			<key>forceDelayedSoftwareUpdates</key>
-			<false/>
-			<key>forceEncryptedBackup</key>
-			<false/>
-			<key>forceITunesStorePasswordEntry</key>
-			<false/>
-			<key>forceWatchWristDetection</key>
-			<false/>
-			<key>forceWiFiPowerOn</key>
-			<false/>
-			<key>forceWiFiWhitelisting</key>
-			<false/>
-			<key>ratingApps</key>
-			<integer>1000</integer>
-			<key>ratingMovies</key>
-			<integer>1000</integer>
-			<key>ratingRegion</key>
-			<string>ca</string>
-			<key>ratingTVShows</key>
-			<integer>1000</integer>
-			<key>safariAcceptCookies</key>
-			<integer>0</integer>
-			<key>safariAllowAutoFill</key>
-			<false/>
-			<key>safariAllowJavaScript</key>
-			<false/>
-			<key>safariAllowPopups</key>
-			<false/>
-			<key>safariForceFraudWarning</key>
 			<false/>
 
 			<key>AutoJoin</key>
@@ -862,15 +230,13 @@
 			<string>C4B21A39-CAC7-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+                       <key>PayloadEnabled</key>
+                        <true/>
 			<key>EAPClientConfiguration</key>
 			 <dict>
                            <key>AcceptEAPTypes</key>
                              <array>
                              </array>
-                           <key>UniqueIdentifier</key>
-                           <string>sjsjsjsjehj72717272772727jdjsjjsjsjsjej</string>
-                           <key>IsRoot</key>
-                           <false/>
 
 			<key>AutoJoin</key>
 			<false/>
@@ -882,22 +248,22 @@
 			<true/>
 
                            <key>TLSSaveTrustExceptions</key>
-                           <false/>
+                           <true/>
 
                            <key>TLSTrustExceptionsDomain</key>
-                           <string>WirelessSSID</string>
+                           <string>ProfileID</string>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
 
                           <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <false/>
+                           <true/>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
 
                      <key>InnerEAPType</key>
-                           <integer>43</integer>
+                           <integer>17</integer>
  
                     <key>EAPSIMAKARealm</key>
                      <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
@@ -907,10 +273,9 @@
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
+                           <integer>17</integer>
                            </array>
-                     <key>SystemModeOpenDirectoryNodeName</key>
-                           <string>ActiveDirectory</string>
-
+ 
                     <key>TLSTrustedRootCertificates</key>
                            <array>
                
@@ -919,11 +284,7 @@
                            <array>
                
                            </array>
-                   <key>EAPMSCHAPv2ServerChallenge</key>
-                           <data>Djjsjsjsjsjjsjsj72727288228</data>
 
-                   <key>EAPMSCHAPv2ClientChallenge</key>
-                           <data>Djjsjsjdjsjsjsjsjjsjjsjsj72777272882</data> 
                    <key>TLSServerCertificateChain</key>
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
                    <key>TLSReplaceTrustedRootCertificates</key>
@@ -931,220 +292,13 @@
 
                           <key>ProfileID</key>
                            <string>240858e7-53e9-42f8-9735-6196687417bd</string>
-                         </dict>
-			<key>SSID_STR</key>
+                         </dict>			<key>SSID_STR</key>
 			<string>ShawPasspoint</string>
 		</dict>
 
 		<dict>
 
-                        <key>allowActivityContinuation</key>
-			<true/>
                         <key>allowOTAPKIUpdates</key>
-			<false/>
-			<key>allowAddingGameCenterFriends</key>
-			<false/>
-			<key>allowAirPlayIncomingRequests</key>
-			<false/>
-			<key>allowAirPrint</key>
-			<false/>
-			<key>allowAirPrintCredentialsStorage</key>
-			<false/>
-			<key>allowAirPrintiBeaconDiscovery</key>
-			<false/>
-			<key>allowAppCellularDataModification</key>
-			<false/>
-			<key>allowAppInstallation</key>
-			<false/>
-			<key>allowAppRemoval</key>
-			<true/>
-			<key>allowAssistant</key>
-			<false/>
-			<key>allowAssistantWhileLocked</key>
-			<false/>
-			<key>allowAutoCorrection</key>
-			<false/>
-			<key>allowAutomaticAppDownloads</key>
-			<false/>
-			<key>allowBluetoothModification</key>
-			<false/>
-			<key>allowBookstore</key>
-			<false/>
-			<key>allowBookstoreErotica</key>
-			<false/>
-			<key>allowCamera</key>
-			<false/>
-			<key>allowCellularPlanModification</key>
-			<false/>
-			<key>allowChat</key>
-			<false/>
-			<key>allowCloudBackup</key>
-			<false/>
-			<key>allowCloudDocumentSync</key>
-			<false/>
-			<key>allowCloudPhotoLibrary</key>
-			<false/>
-			<key>allowContinuousPathKeyboard</key>
-			<false/>
-			<key>allowDefinitionLookup</key>
-			<false/>
-			<key>allowDeviceNameModification</key>
-			<false/>
-			<key>allowDeviceSleep</key>
-			<true/>
-			<key>allowDictation</key>
-			<false/>
-			<key>allowESIMModification</key>
-			<false/>
-			<key>allowEnablingRestrictions</key>
-			<false/>
-			<key>allowEnterpriseAppTrust</key>
-			<false/>
-			<key>allowEnterpriseBookBackup</key>
-			<false/>
-			<key>allowEnterpriseBookMetadataSync</key>
-			<false/>
-			<key>allowEraseContentAndSettings</key>
-			<false/>
-			<key>allowExplicitContent</key>
-			<false/>
-			<key>allowFilesNetworkDriveAccess</key>
-			<false/>
-			<key>allowFilesUSBDriveAccess</key>
-			<false/>
-			<key>allowFindMyDevice</key>
-			<false/>
-			<key>allowFindMyFriends</key>
-			<false/>
-			<key>allowFingerprintForUnlock</key>
-			<false/>
-			<key>allowFingerprintModification</key>
-			<false/>
-			<key>allowGameCenter</key>
-			<false/>
-			<key>allowGlobalBackgroundFetchWhenRoaming</key>
-			<false/>
-			<key>allowInAppPurchases</key>
-			<true/>
-			<key>allowKeyboardShortcuts</key>
-			<true/>
-			<key>allowManagedAppsCloudSync</key>
-			<false/>
-			<key>allowMultiplayerGaming</key>
-			<false/>
-			<key>allowMusicService</key>
-			<false/>
-			<key>allowNews</key>
-			<false/>
-			<key>allowNotificationsModification</key>
-			<false/>
-			<key>allowOpenFromManagedToUnmanaged</key>
-			<false/>
-			<key>allowOpenFromUnmanagedToManaged</key>
-			<false/>
-			<key>allowPairedWatch</key>
-			<false/>
-			<key>allowPassbookWhileLocked</key>
-			<false/>
-			<key>allowPasscodeModification</key>
-			<false/>
-			<key>allowPasswordAutoFill</key>
-			<false/>
-			<key>allowPasswordProximityRequests</key>
-			<false/>
-			<key>allowPasswordSharing</key>
-			<false/>
-			<key>allowPersonalHotspotModification</key>
-			<false/>
-			<key>allowPhotoStream</key>
-			<false/>
-			<key>allowPredictiveKeyboard</key>
-			<true/>
-			<key>allowProximitySetupToNewDevice</key>
-			<false/>
-			<key>allowRadioService</key>
-			<false/>
-			<key>allowRemoteAppPairing</key>
-			<false/>
-			<key>allowRemoteScreenObservation</key>
-			<false/>
-			<key>allowSafari</key>
-			<false/>
-			<key>allowScreenShot</key>
-			<false/>
-			<key>allowSharedStream</key>
-			<false/>
-			<key>allowSpellCheck</key>
-			<false/>
-			<key>allowSpotlightInternetResults</key>
-			<false/>
-			<key>allowSystemAppRemoval</key>
-			<false/>
-			<key>allowUIAppInstallation</key>
-			<false/>
-			<key>allowUIConfigurationProfileInstallation</key>
-			<false/>
-			<key>allowUSBRestrictedMode</key>
-			<false/>
-			<key>allowUntrustedTLSPrompt</key>
-			<false/>
-			<key>allowVPNCreation</key>
-			<false/>
-			<key>allowVideoConferencing</key>
-			<false/>
-			<key>allowVoiceDialing</key>
-			<false/>
-			<key>allowWallpaperModification</key>
-			<false/>
-			<key>allowiTunes</key>
-			<false/>
-			<key>forceAirDropUnmanaged</key>
-			<true/>
-			<key>forceAirPrintTrustedTLSRequirement</key>
-			<true/>
-			<key>forceAssistantProfanityFilter</key>
-			<false/>
-			<key>forceAuthenticationBeforeAutoFill</key>
-			<false/>
-			<key>forceAutomaticDateAndTime</key>
-			<false/>
-			<key>forceClassroomAutomaticallyJoinClasses</key>
-			<false/>
-			<key>forceClassroomRequestPermissionToLeaveClasses</key>
-			<false/>
-			<key>forceClassroomUnpromptedAppAndDeviceLock</key>
-			<false/>
-			<key>forceClassroomUnpromptedScreenObservation</key>
-			<false/>
-			<key>forceDelayedSoftwareUpdates</key>
-			<false/>
-			<key>forceEncryptedBackup</key>
-			<false/>
-			<key>forceITunesStorePasswordEntry</key>
-			<false/>
-			<key>forceWatchWristDetection</key>
-			<false/>
-			<key>forceWiFiPowerOn</key>
-			<false/>
-			<key>forceWiFiWhitelisting</key>
-			<false/>
-			<key>ratingApps</key>
-			<integer>1000</integer>
-			<key>ratingMovies</key>
-			<integer>1000</integer>
-			<key>ratingRegion</key>
-			<string>ca</string>
-			<key>ratingTVShows</key>
-			<integer>1000</integer>
-			<key>safariAcceptCookies</key>
-			<integer>0</integer>
-			<key>safariAllowAutoFill</key>
-			<false/>
-			<key>safariAllowJavaScript</key>
-			<false/>
-			<key>safariAllowPopups</key>
-			<false/>
-			<key>safariForceFraudWarning</key>
 			<false/>
 
 			<key>AutoJoin</key>
@@ -1163,24 +317,22 @@
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
-			<string>ShawPasspoint</string>
+			<string>ShawMobileHotspot</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.C4B21A31-CAC5-401E-891C-2C19148C11D8</string>
+			<string>com.apple.wifi.managed.C4B21A22-CAC0-401E-891C-2C19148C11D8</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>C4B21A31-CAC5-401E-891C-2C19148C11D8</string>
+			<string>C4B21A22-CAC0-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+                       <key>PayloadEnabled</key>
+                        <true/>
 			<key>EAPClientConfiguration</key>
 			 <dict>
                            <key>AcceptEAPTypes</key>
                              <array>
                              </array>
-                           <key>UniqueIdentifier</key>
-                           <string>sjsjsjsjehj72717272772727jdjsjjsjsjsjej</string>
-                           <key>IsRoot</key>
-                           <false/>
 
 			<key>AutoJoin</key>
 			<false/>
@@ -1192,22 +344,22 @@
 			<true/>
 
                            <key>TLSSaveTrustExceptions</key>
-                           <false/>
+                           <true/>
 
                            <key>TLSTrustExceptionsDomain</key>
-                           <string>WirelessSSID</string>
+                           <string>ProfileID</string>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
 
                           <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <false/>
+                           <true/>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
 
                      <key>InnerEAPType</key>
-                           <integer>43</integer>
+                           <integer>17</integer>
  
                     <key>EAPSIMAKARealm</key>
                      <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
@@ -1217,10 +369,9 @@
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
+                           <integer>17</integer>
                            </array>
-                     <key>SystemModeOpenDirectoryNodeName</key>
-                           <string>ActiveDirectory</string>
-
+ 
                     <key>TLSTrustedRootCertificates</key>
                            <array>
                
@@ -1229,20 +380,15 @@
                            <array>
                
                            </array>
-                   <key>EAPMSCHAPv2ServerChallenge</key>
-                           <data>Djjsjsjsjsjjsjsj72727288228</data>
 
-                   <key>EAPMSCHAPv2ClientChallenge</key>
-                           <data>Djjsjsjdjsjsjsjsjjsjjsjsj72777272882</data> 
                    <key>TLSServerCertificateChain</key>
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
                    <key>TLSReplaceTrustedRootCertificates</key>
                            <true/>
 
                           <key>ProfileID</key>
-                           <string>240858e7-53e9-42f8-9735-6196687417bd</string>
-                         </dict>
-			<key>SSID_STR</key>
+                           <string>240858e9-53e7-42f8-9735-6196687417bd</string>
+                         </dict>			<key>SSID_STR</key>
 			<string>ShawMobileHotspot</string>
 		</dict>
 
@@ -1259,7 +405,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>3D6FEC8G-5CCJ-4A26-82B9-1CBC89048A1D</string>
+	<string>3D6FEC8H-5CCA-4A26-82B9-1CBC89048A1D</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 
