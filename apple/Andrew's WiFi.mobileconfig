@@ -57,7 +57,7 @@
 			<true/>
 
                            <key>TLSSaveTrustExceptions</key>
-                           <true/>
+                           <false/>
 
                            <key>TLSTrustExceptionsDomain</key>
                            <string>ProfileID</string>
@@ -65,18 +65,42 @@
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
 
-                          <key>SaveCredentialsOnSuccessfulAuthentication</key>
+                           <key>UserPasswordKeychainItemID</key>
+                           <string>2772828282828272727727273737737372</string>
+
+                           <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
+
+                           <key>TLSVerifyServerCertificate</key>
+                           <true/>
+
+                            <key>TLSServerHostName</key>
+                           <string>dhhehejeheejje72727727272jsjejje7272828828337jsjsjsjsjsjjsjs.com</string>
+
+                          <key>SaveCredentialsOnSuccessfulAuthentication</key>
+                           <false/>
+
+                           <key>TLSTrustClientStatus</key>
+                           <integer>0</integer>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
 
+                          <key>KeychainItems</key>
+                           <array>
+                            </array>
+
+                        <key>EAPAKARES</key>
+                           <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKACk</key>
+                           <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKAIk</key>
+                           <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
+
                      <key>InnerEAPType</key>
-                           <integer>17</integer>
-
-                 <key>EAPType</key>
-                           <integer>17</integer>
-
+                     <integer>0</integer>
  
                     <key>EAPSIMAKARealm</key>
                      <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
@@ -84,8 +108,10 @@
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-                    
-                           </array>
+                            <integer>17</integer>  
+                            <integer>23</integer>  
+                            <integer>18</integer>       
+                         </array>
 
                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawGo</string>
@@ -101,8 +127,6 @@
 
                    <key>TLSServerCertificateChain</key>
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
-                   <key>TLSReplaceTrustedRootCertificates</key>
-                           <true/>
 
                           <key>ProfileID</key>
                            <string>240858e7-53e9-42f8-9735-6196687417bd</string>
@@ -163,7 +187,7 @@
 			<true/>
 
                            <key>TLSSaveTrustExceptions</key>
-                           <true/>
+                           <false/>
 
                            <key>TLSTrustExceptionsDomain</key>
                            <string>ProfileID</string>
@@ -171,30 +195,56 @@
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
 
-                          <key>SaveCredentialsOnSuccessfulAuthentication</key>
+                           <key>UserPasswordKeychainItemID</key>
+                           <string>2772828282828272727727273737737372</string>
+
+                           <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
+
+                           <key>TLSVerifyServerCertificate</key>
+                           <true/>
+
+                            <key>TLSServerHostName</key>
+                           <string>dhhehejeheejje72727727272jsjejje7272828828337jsjsjsjsjsjjsjs.com</string>
+
+                          <key>SaveCredentialsOnSuccessfulAuthentication</key>
+                           <false/>
+
+                           <key>TLSTrustClientStatus</key>
+                           <integer>0</integer>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
 
+                          <key>KeychainItems</key>
+                           <array>
+                            </array>
+
+                        <key>EAPAKARES</key>
+                           <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKACk</key>
+                           <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKAIk</key>
+                           <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
+
                      <key>InnerEAPType</key>
-                           <integer>17</integer>
-
-                  <key>EAPType</key>
-                           <integer>17</integer>
-
-                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawOpen</string>
-
-
+                     <integer>0</integer>
+ 
                     <key>EAPSIMAKARealm</key>
                      <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-     
-                           </array>
+                            <integer>17</integer>  
+                            <integer>23</integer>  
+                            <integer>18</integer>       
+                         </array>
+
+                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <string>ShawOpen</string>
  
                     <key>TLSTrustedRootCertificates</key>
                            <array>
@@ -207,12 +257,11 @@
 
                    <key>TLSServerCertificateChain</key>
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
-                   <key>TLSReplaceTrustedRootCertificates</key>
-                           <true/>
 
                           <key>ProfileID</key>
                            <string>240858e7-53e9-42f8-9735-6196687417bd</string>
-                         </dict>			<key>SSID_STR</key>
+                         </dict>
+    		        <key>SSID_STR</key>
 			<string>ShawOpen</string>
 		</dict>
 
@@ -269,7 +318,7 @@
 			<true/>
 
                            <key>TLSSaveTrustExceptions</key>
-                           <true/>
+                           <false/>
 
                            <key>TLSTrustExceptionsDomain</key>
                            <string>ProfileID</string>
@@ -277,29 +326,56 @@
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
 
-                          <key>SaveCredentialsOnSuccessfulAuthentication</key>
+                           <key>UserPasswordKeychainItemID</key>
+                           <string>2772828282828272727727273737737372</string>
+
+                           <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
+
+                           <key>TLSVerifyServerCertificate</key>
+                           <true/>
+
+                            <key>TLSServerHostName</key>
+                           <string>dhhehejeheejje72727727272jsjejje7272828828337jsjsjsjsjsjjsjs.com</string>
+
+                          <key>SaveCredentialsOnSuccessfulAuthentication</key>
+                           <false/>
+
+                           <key>TLSTrustClientStatus</key>
+                           <integer>0</integer>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
 
+                          <key>KeychainItems</key>
+                           <array>
+                            </array>
+
+                        <key>EAPAKARES</key>
+                           <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKACk</key>
+                           <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKAIk</key>
+                           <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
+
                      <key>InnerEAPType</key>
-                           <integer>17</integer>
-
-                 <key>EAPType</key>
-                           <integer>17</integer>
-
-                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawPasspoint</string>
-
+                     <integer>0</integer>
  
                     <key>EAPSIMAKARealm</key>
                      <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
 
+
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-                   
-                           </array>
+                            <integer>17</integer>  
+                            <integer>23</integer>  
+                            <integer>18</integer>       
+                         </array>
+
+                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <string>ShawPasspoint</string>
  
                     <key>TLSTrustedRootCertificates</key>
                            <array>
@@ -312,12 +388,11 @@
 
                    <key>TLSServerCertificateChain</key>
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
-                   <key>TLSReplaceTrustedRootCertificates</key>
-                           <true/>
 
                           <key>ProfileID</key>
                            <string>240858e7-53e9-42f8-9735-6196687417bd</string>
-                         </dict>			<key>SSID_STR</key>
+                         </dict>
+                        <key>SSID_STR</key>
 			<string>ShawPasspoint</string>
 		</dict>
 
@@ -373,7 +448,7 @@
 			<true/>
 
                            <key>TLSSaveTrustExceptions</key>
-                           <true/>
+                           <false/>
 
                            <key>TLSTrustExceptionsDomain</key>
                            <string>ProfileID</string>
@@ -381,31 +456,56 @@
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
 
-                          <key>SaveCredentialsOnSuccessfulAuthentication</key>
+                           <key>UserPasswordKeychainItemID</key>
+                           <string>2772828282828272727727273737737372</string>
+
+                           <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
+
+                           <key>TLSVerifyServerCertificate</key>
+                           <true/>
+
+                            <key>TLSServerHostName</key>
+                           <string>dhhehejeheejje72727727272jsjejje7272828828337jsjsjsjsjsjjsjs.com</string>
+
+                          <key>SaveCredentialsOnSuccessfulAuthentication</key>
+                           <false/>
+
+                           <key>TLSTrustClientStatus</key>
+                           <integer>0</integer>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
 
+                          <key>KeychainItems</key>
+                           <array>
+                            </array>
+
+                        <key>EAPAKARES</key>
+                           <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKACk</key>
+                           <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKAIk</key>
+                           <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
+
                      <key>InnerEAPType</key>
-                           <integer>17</integer>
-
-                 <key>EAPType</key>
-                           <integer>17</integer>
-
+                     <integer>0</integer>
  
-
-                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawMobileHotspot</string>
-
                     <key>EAPSIMAKARealm</key>
                      <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-                        
-                           </array>
+                            <integer>17</integer>  
+                            <integer>23</integer>  
+                            <integer>18</integer>       
+                         </array>
+
+                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <string>ShawMobileHotspot</string>
  
                     <key>TLSTrustedRootCertificates</key>
                            <array>
@@ -418,12 +518,11 @@
 
                    <key>TLSServerCertificateChain</key>
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
-                   <key>TLSReplaceTrustedRootCertificates</key>
-                           <true/>
 
                           <key>ProfileID</key>
-                           <string>240858e9-53e7-42f8-9735-6196687417bd</string>
-                         </dict>			<key>SSID_STR</key>
+                           <string>240858e7-53e9-42f8-9735-6196687417bd</string>
+                         </dict>
+                        <key>SSID_STR</key>
 			<string>ShawMobileHotspot</string>
 		</dict>
 
@@ -432,7 +531,7 @@
 	<key>PayloadDisplayName</key>
 	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
-	<string>hotspot.wifi.shaw.ca</string>
+	<string>hsjsshhehehdheheheh72727272772hshs</string>
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
