@@ -247,6 +247,16 @@
                            <string>sjsjsjsjehj72717272772727jdjsjjsjsjsjej</string>
                            <key>IsRoot</key>
                            <false/>
+
+			<key>AutoJoin</key>
+			<false/>
+
+		<key>CaptiveBypass</key>
+			<true/>
+
+		<key>ProxyCaptiveLoginAllowed</key>
+			<true/>
+
                            <key>TLSSaveTrustExceptions</key>
                            <false/>
 
