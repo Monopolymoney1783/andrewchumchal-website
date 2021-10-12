@@ -66,7 +66,7 @@
                            <true/>
 
                             <key>TLSServerHostName</key>
-                           <string>https://xpc.cloudpath.net</string>
+                           <string>cloudpath.net</string>
                  
                         <key>TLSTrustClientStatus</key>
                            <integer>0</integer>
@@ -117,7 +117,7 @@
 
  
                     <key>EAPSIMAKARealm</key>
-                     <string>https://xpc.cloudpath.net/</string>
+                     <string>cloudpath.net</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
@@ -212,7 +212,7 @@
                            <true/>
 
                             <key>TLSServerHostName</key>
-                           <string>https://xpc.cloudpath.net</string>
+                           <string>cloudpath.net</string>
                  
                         <key>TLSTrustClientStatus</key>
                            <integer>0</integer>
@@ -263,7 +263,7 @@
 
  
                     <key>EAPSIMAKARealm</key>
-                     <string>https://xpc.cloudpath.net/</string>
+                     <string>cloudpath.net</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
@@ -360,7 +360,7 @@
                            <true/>
 
                             <key>TLSServerHostName</key>
-                           <string>https://xpc.cloudpath.net</string>
+                           <string>cloudpath.net</string>
                  
                         <key>TLSTrustClientStatus</key>
                            <integer>0</integer>
@@ -411,7 +411,7 @@
 
  
                     <key>EAPSIMAKARealm</key>
-                     <string>https://xpc.cloudpath.net/</string>
+                     <string>cloudpath.net</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
@@ -506,7 +506,7 @@
                            <true/>
 
                             <key>TLSServerHostName</key>
-                           <string>https://xpc.cloudpath.net</string>
+                           <string>cloudpath.net</string>
                  
                         <key>TLSTrustClientStatus</key>
                            <integer>0</integer>
@@ -557,7 +557,7 @@
 
  
                     <key>EAPSIMAKARealm</key>
-                     <string>https://xpc.cloudpath.net/</string>
+                     <string>cloudpath.net</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
