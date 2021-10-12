@@ -57,7 +57,7 @@
 			<true/>
 
                            <key>TLSSaveTrustExceptions</key>
-                           <true/>
+                           <false/>
 
                            <key>TLSTrustExceptionsDomain</key>
                            <string>ProfileID</string>
@@ -66,29 +66,46 @@
                            <false/>
 
                           <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <true/>
+                           <false/>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
+                          <key>TLSVerifyServerCertificate</key>
+                          <true/>
+                          <key>EAPSIMAKAIdentityType</key>
+                          <string>Permanent</string>
+ <key>anonymous</key>
+<true/>
+<key>EAPSIMAKAKi</key>
+<data>hejjshdheh72828288282jsjdjdjsjdjsjs727</data>
+
+<key>EAPSIMAKAOPc</key>
+<data>hsjsjshseh72728272727jsjsjsshshhd828272</data>
+
+
 
                      <key>InnerEAPType</key>
-                           <integer>17</integer>
-
-                 <key>EAPType</key>
-                           <integer>17</integer>
+                           <integer>25</integer>
 
  
                     <key>EAPSIMAKARealm</key>
-                     <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
+                     <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-                    
+                                   <integer>25</integer>
+
                            </array>
 
                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawGo</string>
+                     <string>ShawGo</string> 
+                     <key>EAPSIMAKAEncryptedIdentityEnabled</key>
+                     <true/>
+<key>EAPSIMAKAIMSI</key>
+<string>38 7278197 556 5</string>
+<key>SIMGenerationID</key>
+<string>2828838383838615166jdjdjdjsjjs</string>
  
                     <key>TLSTrustedRootCertificates</key>
                            <array>
@@ -101,8 +118,6 @@
 
                    <key>TLSServerCertificateChain</key>
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
-                   <key>TLSReplaceTrustedRootCertificates</key>
-                           <true/>
 
                           <key>ProfileID</key>
                            <string>240858e7-53e9-42f8-9735-6196687417bd</string>
