@@ -70,6 +70,10 @@
 
                      <key>InnerEAPType</key>
                            <integer>17</integer>
+
+                   <key>EAPType</key>
+                           <integer>17</integer>
+
  
                     <key>EAPSIMAKARealm</key>
                      <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
@@ -79,8 +83,7 @@
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-                           <integer>17</integer>
-                           </array>
+                                     </array>
  
                     <key>TLSTrustedRootCertificates</key>
                            <array>
@@ -167,6 +170,10 @@
 
                      <key>InnerEAPType</key>
                            <integer>17</integer>
+
+                 <key>EAPType</key>
+                           <integer>17</integer>
+
  
                     <key>EAPSIMAKARealm</key>
                      <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
@@ -176,7 +183,7 @@
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-                           <integer>17</integer>
+              
                            </array>
  
                     <key>TLSTrustedRootCertificates</key>
@@ -264,6 +271,10 @@
 
                      <key>InnerEAPType</key>
                            <integer>17</integer>
+
+                 <key>EAPType</key>
+                           <integer>17</integer>
+
  
                     <key>EAPSIMAKARealm</key>
                      <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
@@ -273,7 +284,7 @@
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-                           <integer>17</integer>
+                   
                            </array>
  
                     <key>TLSTrustedRootCertificates</key>
@@ -360,6 +371,10 @@
 
                      <key>InnerEAPType</key>
                            <integer>17</integer>
+
+                 <key>EAPType</key>
+                           <integer>17</integer>
+
  
                     <key>EAPSIMAKARealm</key>
                      <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
@@ -369,7 +384,7 @@
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-                           <integer>17</integer>
+               
                            </array>
  
                     <key>TLSTrustedRootCertificates</key>
