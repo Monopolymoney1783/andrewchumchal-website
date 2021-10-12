@@ -232,11 +232,11 @@
 			<key>PayloadDisplayName</key>
 			<string>ShawPasspoint</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.C4B21A33-CAC8-401E-891C-2C19148C11D8</string>
+			<string>com.apple.wifi.managed.C4B21A35-CAC8-401E-891C-2C19148C11D8</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>C4B21A33-CAC8-401E-891C-2C19148C11D8</string>
+			<string>C4B21A35-CAC8-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>EAPClientConfiguration</key>
@@ -512,11 +512,11 @@
 			<key>PayloadDisplayName</key>
 			<string>ShawPasspoint</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.C4B21A33-CAC8-401E-891C-2C19148C11D8</string>
+			<string>com.apple.wifi.managed.C4B21A38-CAC8-401E-891C-2C19148C11D8</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>C4B21A33-CAC8-401E-891C-2C19148C11D8</string>
+			<string>C4B21A38-CAC8-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>EAPClientConfiguration</key>
@@ -793,11 +793,11 @@
 			<key>PayloadDisplayName</key>
 			<string>ShawPasspoint</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.C4B21A33-CAC8-401E-891C-2C19148C11D8</string>
+			<string>com.apple.wifi.managed.C4B21A39-CAC7-401E-891C-2C19148C11D8</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>C4B21A33-CAC8-401E-891C-2C19148C11D8</string>
+			<string>C4B21A39-CAC7-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>EAPClientConfiguration</key>
@@ -1073,11 +1073,11 @@
 			<key>PayloadDisplayName</key>
 			<string>ShawPasspoint</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.wifi.managed.C4B21A33-CAC8-401E-891C-2C19148C11D8</string>
+			<string>com.apple.wifi.managed.C4B21A31-CAC5-401E-891C-2C19148C11D8</string>
 			<key>PayloadType</key>
 			<string>com.apple.wifi.managed</string>
 			<key>PayloadUUID</key>
-			<string>C4B21A33-CAC8-401E-891C-2C19148C11D8</string>
+			<string>C4B21A31-CAC5-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>EAPClientConfiguration</key>
