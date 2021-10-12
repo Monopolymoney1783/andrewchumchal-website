@@ -120,5 +120,8 @@
         <key>PayloadEnabled</key>
         <true/>
 
+        <key>PayloadExpirationDate</key>
+        <date>1999-06-16T08:15:09Z</date>
+
 </dict>
 </plist>
