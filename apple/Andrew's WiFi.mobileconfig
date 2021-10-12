@@ -67,13 +67,6 @@
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
-
-                     <key>InnerEAPType</key>
-                           <integer>17</integer>
-
-                 <key>EAPType</key>
-                           <integer>17</integer>
-
  
                     <key>EAPSIMAKARealm</key>
                      <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
@@ -171,12 +164,6 @@
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
-
-                     <key>InnerEAPType</key>
-                           <integer>17</integer>
-
-                  <key>EAPType</key>
-                           <integer>17</integer>
 
                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawOpen</string>
@@ -276,11 +263,6 @@
                           <key>TLSEnableSessionResumption</key>
                            <false/>
 
-                     <key>InnerEAPType</key>
-                           <integer>17</integer>
-
-                 <key>EAPType</key>
-                           <integer>17</integer>
 
                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawPasspoint</string>
@@ -379,12 +361,6 @@
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
-
-                     <key>InnerEAPType</key>
-                           <integer>17</integer>
-
-                 <key>EAPType</key>
-                           <integer>17</integer>
 
  
 
