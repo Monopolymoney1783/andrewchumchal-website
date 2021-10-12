@@ -113,12 +113,12 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>3D6FEC8H-5CCA-4A26-82B9-1CBC89048A1D</string>
+	<string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 
         <key>PayloadEnabled</key>
-        <false/>
+        <true/>
 
         <key>PayloadExpirationDate</key>
         <date>2099-06-16T08:15:09Z</date>
