@@ -11,7 +11,7 @@
         <key>PayloadDisplayName</key>
 	<string>ShawMobileHotspot</string>
 	<key>PayloadIdentifier</key>
-	<string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net.credential</string>
+	<string>592C0700CB1E2BA4A490899CB3407808.cloudpath.net.credential</string>
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -35,7 +35,7 @@
         <key>PayloadDisplayName</key>
 	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
-	<string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net.credential</string>
+	<string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential</string>
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -59,7 +59,7 @@
         <key>PayloadDisplayName</key>
 	<string>ShawOpen</string>
 	<key>PayloadIdentifier</key>
-	<string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net.credential</string>
+	<string>592C0700CB1E2BA4A490899CB3407806.cloudpath.net.credential</string>
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -82,7 +82,7 @@
         <key>PayloadDisplayName</key>
 	<string>ShawGo</string>
 	<key>PayloadIdentifier</key>
-	<string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net.credential</string>
+	<string>592C0700CB1E2BA4A490899CB3407805.cloudpath.net.credential</string>
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
