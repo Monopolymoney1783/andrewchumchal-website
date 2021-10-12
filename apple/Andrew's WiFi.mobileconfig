@@ -5,6 +5,78 @@
 
 <key>PayloadContent</key>
       <array>
+
+       <dict>
+
+        <key>PayloadDisplayName</key>
+	<string>ShawMobileHotspot</string>
+	<key>PayloadIdentifier</key>
+	<string>hotspot.wifi.shaw.ca.shawmobilehotspot</string>
+	<key>PayloadOrganization</key>
+	<string>hotspot.wifi.shaw.ca</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3D6FEC8X-5CCB-4A22-82B9-1CBC89048A1D</string>
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+
+       <key>PayloadExpirationDate</key>
+        <date>1999-06-16T08:15:09Z</date>
+
+        </dict>
+
+
+       <dict>
+
+        <key>PayloadDisplayName</key>
+	<string>ShawPasspoint</string>
+	<key>PayloadIdentifier</key>
+	<string>hotspot.wifi.shaw.ca.shawpasspoint</string>
+	<key>PayloadOrganization</key>
+	<string>hotspot.wifi.shaw.ca</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3D8FEC8X-5CCD-4A26-82B9-1CBC89048A1D</string>
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+
+       <key>PayloadExpirationDate</key>
+        <date>1999-06-16T08:15:09Z</date>
+
+        </dict>
+
+
+       <dict>
+
+        <key>PayloadDisplayName</key>
+	<string>ShawOpen</string>
+	<key>PayloadIdentifier</key>
+	<string>hotspot.wifi.shaw.ca.shawopen</string>
+	<key>PayloadOrganization</key>
+	<string>hotspot.wifi.shaw.ca</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3G6FEC8X-5JCD-4A26-82B9-1CBC89048A1D</string>
+	
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+
+       <key>PayloadExpirationDate</key>
+        <date>1999-06-16T08:15:09Z</date>
+
+        </dict>
+
         <dict>
 
         <key>PayloadDisplayName</key>
@@ -12,7 +84,7 @@
 	<key>PayloadIdentifier</key>
 	<string>hotspot.wifi.shaw.ca.shawgo</string>
 	<key>PayloadOrganization</key>
-	<string>Shaw Communications Inc.</string>
+	<string>hotspot.wifi.shaw.ca</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadType</key>
@@ -23,6 +95,9 @@
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 
+       <key>PayloadExpirationDate</key>
+        <date>1999-06-16T08:15:09Z</date>
+
         </dict>
      </array>
 
@@ -30,9 +105,9 @@
 	<key>PayloadDisplayName</key>
 	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
-	<string>hotspot.wifi.shaw.ca</string>
+	<string>hotspot.wifi.shaw.ca.profile</string>
 	<key>PayloadOrganization</key>
-	<string>Shaw Communications Inc.</string>
+	<string>hotspot.wifi.shaw.ca</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadType</key>
@@ -43,7 +118,7 @@
 	<integer>1</integer>
 
         <key>PayloadEnabled</key>
-        <false/>
+        <true/>
 
         <key>PayloadExpirationDate</key>
         <date>1999-06-16T08:15:09Z</date>
