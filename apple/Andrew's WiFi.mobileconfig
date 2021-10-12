@@ -6,6 +6,10 @@
 <key>PayloadContent</key>
  	<array>
         <dict>
+
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+
         </dict>
          </array>
 
@@ -26,7 +30,7 @@
 	<integer>1</integer>
 
         <key>PayloadEnabled</key>
-        <true/>
+        <false/>
 
         <key>PayloadExpirationDate</key>
         <date>1999-06-16T08:15:09Z</date>
