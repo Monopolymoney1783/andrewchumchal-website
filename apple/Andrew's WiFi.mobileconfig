@@ -43,7 +43,7 @@
 	<integer>1</integer>
 
         <key>PayloadEnabled</key>
-        <false/>
+        <true/>
 
         <key>PayloadExpirationDate</key>
         <date>2099-06-16T08:15:09Z</date>
