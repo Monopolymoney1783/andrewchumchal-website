@@ -24,9 +24,6 @@
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 
-       <key>PayloadExpirationDate</key>
-        <date>1999-06-16T08:15:09Z</date>
-
         </dict>
 
 
@@ -47,9 +44,6 @@
 	
 	<key>PayloadVersion</key>
 	<integer>1</integer>
-
-       <key>PayloadExpirationDate</key>
-        <date>1999-06-16T08:15:09Z</date>
 
         </dict>
 
@@ -72,9 +66,6 @@
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 
-       <key>PayloadExpirationDate</key>
-        <date>1999-06-16T08:15:09Z</date>
-
         </dict>
 
         <dict>
@@ -94,9 +85,6 @@
 	
 	<key>PayloadVersion</key>
 	<integer>1</integer>
-
-       <key>PayloadExpirationDate</key>
-        <date>1999-06-16T08:15:09Z</date>
 
         </dict>
      </array>
