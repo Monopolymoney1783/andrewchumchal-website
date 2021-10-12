@@ -11,9 +11,9 @@
         <key>PayloadDisplayName</key>
 	<string>ShawMobileHotspot</string>
 	<key>PayloadIdentifier</key>
-	<string>hotspot.wifi.shaw.ca.shawmobilehotspot</string>
-	<key>PayloadOrganization</key>
 	<string>hotspot.wifi.shaw.ca</string>
+	<key>PayloadOrganization</key>
+	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadType</key>
@@ -35,9 +35,9 @@
         <key>PayloadDisplayName</key>
 	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
-	<string>hotspot.wifi.shaw.ca.shawpasspoint</string>
-	<key>PayloadOrganization</key>
 	<string>hotspot.wifi.shaw.ca</string>
+	<key>PayloadOrganization</key>
+	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadType</key>
@@ -59,9 +59,9 @@
         <key>PayloadDisplayName</key>
 	<string>ShawOpen</string>
 	<key>PayloadIdentifier</key>
-	<string>hotspot.wifi.shaw.ca.shawopen</string>
-	<key>PayloadOrganization</key>
 	<string>hotspot.wifi.shaw.ca</string>
+	<key>PayloadOrganization</key>
+	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadType</key>
@@ -82,9 +82,9 @@
         <key>PayloadDisplayName</key>
 	<string>ShawGo</string>
 	<key>PayloadIdentifier</key>
-	<string>hotspot.wifi.shaw.ca.shawgo</string>
-	<key>PayloadOrganization</key>
 	<string>hotspot.wifi.shaw.ca</string>
+	<key>PayloadOrganization</key>
+	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadType</key>
@@ -105,9 +105,9 @@
 	<key>PayloadDisplayName</key>
 	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
-	<string>hotspot.wifi.shaw.ca.profile</string>
-	<key>PayloadOrganization</key>
 	<string>hotspot.wifi.shaw.ca</string>
+	<key>PayloadOrganization</key>
+	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadType</key>
