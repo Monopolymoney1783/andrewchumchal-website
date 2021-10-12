@@ -85,6 +85,9 @@
                            <array>
                     
                            </array>
+
+                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <string>ShawGo</string>
  
                     <key>TLSTrustedRootCertificates</key>
                            <array>
@@ -174,6 +177,10 @@
 
                   <key>EAPType</key>
                            <integer>17</integer>
+
+                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <string>ShawOpen</string>
+
 
                     <key>EAPSIMAKARealm</key>
                      <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
@@ -274,6 +281,10 @@
 
                  <key>EAPType</key>
                            <integer>17</integer>
+
+                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <string>ShawPasspoint</string>
+
 
  
                     <key>EAPSIMAKARealm</key>
@@ -376,6 +387,10 @@
                            <integer>17</integer>
 
  
+
+                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <string>ShawMobileHotspot</string>
+
                     <key>EAPSIMAKARealm</key>
                      <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
 
