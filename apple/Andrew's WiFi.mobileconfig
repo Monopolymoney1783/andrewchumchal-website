@@ -56,6 +56,34 @@
 		<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
 
+         <key>UserPasswordKeychainItemID</key>
+                           <string>2772828282828272727727273737737372</string>
+
+                           <key>EAPSIMAKAEncryptedIdentityEnabled</key>
+                           <true/>
+
+                           <key>TLSVerifyServerCertificate</key>
+                           <true/>
+
+                            <key>TLSServerHostName</key>
+                           <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
+                 
+                        <key>TLSTrustClientStatus</key>
+                           <integer>0</integer>
+
+                       <key>KeychainItems</key>
+                           <array>
+                            </array>
+
+                        <key>EAPAKARES</key>
+                           <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKACk</key>
+                           <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKAIk</key>
+                           <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
+
                            <key>TLSSaveTrustExceptions</key>
                            <false/>
 
@@ -177,8 +205,36 @@
 		<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
 
-                           <key>TLSSaveTrustExceptions</key>
+         <key>UserPasswordKeychainItemID</key>
+                           <string>2772828282828272727727273737737372</string>
+
+                           <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
+
+                           <key>TLSVerifyServerCertificate</key>
+                           <true/>
+
+                            <key>TLSServerHostName</key>
+                           <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
+                 
+                        <key>TLSTrustClientStatus</key>
+                           <integer>0</integer>
+
+                       <key>KeychainItems</key>
+                           <array>
+                            </array>
+
+                        <key>EAPAKARES</key>
+                           <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKACk</key>
+                           <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKAIk</key>
+                           <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
+
+                           <key>TLSSaveTrustExceptions</key>
+                           <false/>
 
                            <key>TLSTrustExceptionsDomain</key>
                            <string>ProfileID</string>
@@ -187,29 +243,46 @@
                            <false/>
 
                           <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <true/>
+                           <false/>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
+                          <key>TLSVerifyServerCertificate</key>
+                          <true/>
+                          <key>EAPSIMAKAIdentityType</key>
+                          <string>Permanent</string>
+ <key>anonymous</key>
+<true/>
+<key>EAPSIMAKAKi</key>
+<data>hejjshdheh72828288282jsjdjdjsjdjsjs727</data>
+
+<key>EAPSIMAKAOPc</key>
+<data>hsjsjshseh72728272727jsjsjsshshhd828272</data>
+
+
 
                      <key>InnerEAPType</key>
-                           <integer>17</integer>
+                           <integer>25</integer>
 
-                  <key>EAPType</key>
-                           <integer>17</integer>
-
-                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawOpen</string>
-
-
+ 
                     <key>EAPSIMAKARealm</key>
-                     <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
+                     <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-     
+                                   <integer>25</integer>
+
                            </array>
+
+                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <string>ShawGo</string> 
+                     <key>EAPSIMAKAEncryptedIdentityEnabled</key>
+                     <true/>
+<key>EAPSIMAKAIMSI</key>
+<string>38 7278197 556 5</string>
+<key>SIMGenerationID</key>
+<string>2828838383838615166jdjdjdjsjjs</string>
  
                     <key>TLSTrustedRootCertificates</key>
                            <array>
@@ -222,12 +295,12 @@
 
                    <key>TLSServerCertificateChain</key>
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
-                   <key>TLSReplaceTrustedRootCertificates</key>
-                           <true/>
 
                           <key>ProfileID</key>
                            <string>240858e7-53e9-42f8-9735-6196687417bd</string>
-                         </dict>			<key>SSID_STR</key>
+                         </dict>
+		
+                    <key>SSID_STR</key>
 			<string>ShawOpen</string>
 		</dict>
 
@@ -283,8 +356,36 @@
 		<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
 
-                           <key>TLSSaveTrustExceptions</key>
+         <key>UserPasswordKeychainItemID</key>
+                           <string>2772828282828272727727273737737372</string>
+
+                           <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
+
+                           <key>TLSVerifyServerCertificate</key>
+                           <true/>
+
+                            <key>TLSServerHostName</key>
+                           <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
+                 
+                        <key>TLSTrustClientStatus</key>
+                           <integer>0</integer>
+
+                       <key>KeychainItems</key>
+                           <array>
+                            </array>
+
+                        <key>EAPAKARES</key>
+                           <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKACk</key>
+                           <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKAIk</key>
+                           <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
+
+                           <key>TLSSaveTrustExceptions</key>
+                           <false/>
 
                            <key>TLSTrustExceptionsDomain</key>
                            <string>ProfileID</string>
@@ -293,28 +394,46 @@
                            <false/>
 
                           <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <true/>
+                           <false/>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
+                          <key>TLSVerifyServerCertificate</key>
+                          <true/>
+                          <key>EAPSIMAKAIdentityType</key>
+                          <string>Permanent</string>
+ <key>anonymous</key>
+<true/>
+<key>EAPSIMAKAKi</key>
+<data>hejjshdheh72828288282jsjdjdjsjdjsjs727</data>
+
+<key>EAPSIMAKAOPc</key>
+<data>hsjsjshseh72728272727jsjsjsshshhd828272</data>
+
+
 
                      <key>InnerEAPType</key>
-                           <integer>17</integer>
-
-                 <key>EAPType</key>
-                           <integer>17</integer>
-
-                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawPasspoint</string>
+                           <integer>25</integer>
 
  
                     <key>EAPSIMAKARealm</key>
-                     <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
+                     <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
+
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-                   
+                                   <integer>25</integer>
+
                            </array>
+
+                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <string>ShawGo</string> 
+                     <key>EAPSIMAKAEncryptedIdentityEnabled</key>
+                     <true/>
+<key>EAPSIMAKAIMSI</key>
+<string>38 7278197 556 5</string>
+<key>SIMGenerationID</key>
+<string>2828838383838615166jdjdjdjsjjs</string>
  
                     <key>TLSTrustedRootCertificates</key>
                            <array>
@@ -327,12 +446,11 @@
 
                    <key>TLSServerCertificateChain</key>
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
-                   <key>TLSReplaceTrustedRootCertificates</key>
-                           <true/>
 
                           <key>ProfileID</key>
                            <string>240858e7-53e9-42f8-9735-6196687417bd</string>
-                         </dict>			<key>SSID_STR</key>
+                         </dict>
+		<key>SSID_STR</key>
 			<string>ShawPasspoint</string>
 		</dict>
 
@@ -387,8 +505,36 @@
 		<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
 
-                           <key>TLSSaveTrustExceptions</key>
+         <key>UserPasswordKeychainItemID</key>
+                           <string>2772828282828272727727273737737372</string>
+
+                           <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
+
+                           <key>TLSVerifyServerCertificate</key>
+                           <true/>
+
+                            <key>TLSServerHostName</key>
+                           <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
+                 
+                        <key>TLSTrustClientStatus</key>
+                           <integer>0</integer>
+
+                       <key>KeychainItems</key>
+                           <array>
+                            </array>
+
+                        <key>EAPAKARES</key>
+                           <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKACk</key>
+                           <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
+
+                        <key>EAPAKAIk</key>
+                           <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
+
+                           <key>TLSSaveTrustExceptions</key>
+                           <false/>
 
                            <key>TLSTrustExceptionsDomain</key>
                            <string>ProfileID</string>
@@ -397,30 +543,46 @@
                            <false/>
 
                           <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <true/>
+                           <false/>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
+                          <key>TLSVerifyServerCertificate</key>
+                          <true/>
+                          <key>EAPSIMAKAIdentityType</key>
+                          <string>Permanent</string>
+ <key>anonymous</key>
+<true/>
+<key>EAPSIMAKAKi</key>
+<data>hejjshdheh72828288282jsjdjdjsjdjsjs727</data>
+
+<key>EAPSIMAKAOPc</key>
+<data>hsjsjshseh72728272727jsjsjsshshhd828272</data>
+
+
 
                      <key>InnerEAPType</key>
-                           <integer>17</integer>
-
-                 <key>EAPType</key>
-                           <integer>17</integer>
+                           <integer>25</integer>
 
  
-
-                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawMobileHotspot</string>
-
                     <key>EAPSIMAKARealm</key>
-                     <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
+                     <string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
-                        
+                                   <integer>25</integer>
+
                            </array>
+
+                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <string>ShawGo</string> 
+                     <key>EAPSIMAKAEncryptedIdentityEnabled</key>
+                     <true/>
+<key>EAPSIMAKAIMSI</key>
+<string>38 7278197 556 5</string>
+<key>SIMGenerationID</key>
+<string>2828838383838615166jdjdjdjsjjs</string>
  
                     <key>TLSTrustedRootCertificates</key>
                            <array>
@@ -433,12 +595,11 @@
 
                    <key>TLSServerCertificateChain</key>
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
-                   <key>TLSReplaceTrustedRootCertificates</key>
-                           <true/>
 
                           <key>ProfileID</key>
-                           <string>240858e9-53e7-42f8-9735-6196687417bd</string>
-                         </dict>			<key>SSID_STR</key>
+                           <string>240858e7-53e9-42f8-9735-6196687417bd</string>
+                         </dict>
+                        <key>SSID_STR</key>
 			<string>ShawMobileHotspot</string>
 		</dict>
 
@@ -447,7 +608,7 @@
 	<key>PayloadDisplayName</key>
 	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
-	<string>hotspot.wifi.shaw.ca</string>
+	<string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net.credentials</string>
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -455,7 +616,9 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>3D6FEC8H-5CCA-4A26-82B9-1CBC89048A1D</string>
+
+
+	<string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 
