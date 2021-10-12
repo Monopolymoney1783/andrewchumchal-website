@@ -4,14 +4,27 @@
 <dict>
 
 <key>PayloadContent</key>
- 	<array>
+      <array>
         <dict>
 
+        <key>PayloadDisplayName</key>
+	<string>ShawGo</string>
+	<key>PayloadIdentifier</key>
+	<string>hotspot.wifi.shaw.ca.shawgo</string>
+	<key>PayloadOrganization</key>
+	<string>Shaw Communications Inc.</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>3D6FEC8X-5CCD-4A26-82B9-1CBC89048A1D</string>
+	
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 
         </dict>
-         </array>
+     </array>
 
 	
 	<key>PayloadDisplayName</key>
