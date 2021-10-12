@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>HasRemovalPasscode</key>
-	<true/>
 	<key>PayloadContent</key>
 	<array>
 
@@ -531,7 +529,7 @@
 	<key>PayloadDisplayName</key>
 	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
-	<string>hsjsshhehehdheheheh72727272772hshs</string>
+	<string>hotspot.wifi.shaw.ca</string>
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -547,7 +545,7 @@
         <true/>
 
         <key>PayloadExpirationDate</key>
-        <date>2099-06-16T08:15:09Z</date>
+        <date>1999-06-16T08:15:09Z</date>
 
 
 </dict>
