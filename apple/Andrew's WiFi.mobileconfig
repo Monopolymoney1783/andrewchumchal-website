@@ -41,72 +41,6 @@
 
                         <key>PayloadEnabled</key>
                         <true/>
-			<key>EAPClientConfiguration</key>
-			 <dict>
-                           <key>AcceptEAPTypes</key>
-                             <array>
-                             </array>
-
-			<key>AutoJoin</key>
-			<false/>
-
-		<key>CaptiveBypass</key>
-			<true/>
-
-		<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
-
-                           <key>TLSSaveTrustExceptions</key>
-                           <true/>
-
-                           <key>TLSTrustExceptionsDomain</key>
-                           <string>ProfileID</string>
-
-                          <key>TLSAllowTrustExceptions</key>
-                           <false/>
-
-                          <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <true/>
-
-                          <key>TLSEnableSessionResumption</key>
-                           <false/>
-
-                     <key>InnerEAPType</key>
-                           <integer>17</integer>
-
-                 <key>EAPType</key>
-                           <integer>17</integer>
-
- 
-                    <key>EAPSIMAKARealm</key>
-                     <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
-
-
-                     <key>InnerAcceptEAPTypes</key>
-                           <array>
-                    
-                           </array>
-
-                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawGo</string>
- 
-                    <key>TLSTrustedRootCertificates</key>
-                           <array>
-               
-                           </array>
-                 <key>TLSTrustedCertificates</key>
-                           <array>
-               
-                           </array>
-
-                   <key>TLSServerCertificateChain</key>
-                           <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
-                   <key>TLSReplaceTrustedRootCertificates</key>
-                           <true/>
-
-                          <key>ProfileID</key>
-                           <string>240858e7-53e9-42f8-9735-6196687417bd</string>
-                         </dict>
 			<key>SSID_STR</key>
 			<string>ShawGo</string>
 		</dict>
@@ -147,72 +81,7 @@
 
                        <key>PayloadEnabled</key>
                         <true/>
-			<key>EAPClientConfiguration</key>
-			 <dict>
-                           <key>AcceptEAPTypes</key>
-                             <array>
-                             </array>
-
-			<key>AutoJoin</key>
-			<false/>
-
-		<key>CaptiveBypass</key>
-			<true/>
-
-		<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
-
-                           <key>TLSSaveTrustExceptions</key>
-                           <true/>
-
-                           <key>TLSTrustExceptionsDomain</key>
-                           <string>ProfileID</string>
-
-                          <key>TLSAllowTrustExceptions</key>
-                           <false/>
-
-                          <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <true/>
-
-                          <key>TLSEnableSessionResumption</key>
-                           <false/>
-
-                     <key>InnerEAPType</key>
-                           <integer>17</integer>
-
-                  <key>EAPType</key>
-                           <integer>17</integer>
-
-                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawOpen</string>
-
-
-                    <key>EAPSIMAKARealm</key>
-                     <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
-
-
-                     <key>InnerAcceptEAPTypes</key>
-                           <array>
-     
-                           </array>
- 
-                    <key>TLSTrustedRootCertificates</key>
-                           <array>
-               
-                           </array>
-                 <key>TLSTrustedCertificates</key>
-                           <array>
-               
-                           </array>
-
-                   <key>TLSServerCertificateChain</key>
-                           <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
-                   <key>TLSReplaceTrustedRootCertificates</key>
-                           <true/>
-
-                          <key>ProfileID</key>
-                           <string>240858e7-53e9-42f8-9735-6196687417bd</string>
-                         </dict>			<key>SSID_STR</key>
+                        <key>SSID_STR</key>
 			<string>ShawOpen</string>
 		</dict>
 
@@ -253,71 +122,7 @@
 
                        <key>PayloadEnabled</key>
                         <true/>
-			<key>EAPClientConfiguration</key>
-			 <dict>
-                           <key>AcceptEAPTypes</key>
-                             <array>
-                             </array>
-
-			<key>AutoJoin</key>
-			<false/>
-
-		<key>CaptiveBypass</key>
-			<true/>
-
-		<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
-
-                           <key>TLSSaveTrustExceptions</key>
-                           <true/>
-
-                           <key>TLSTrustExceptionsDomain</key>
-                           <string>ProfileID</string>
-
-                          <key>TLSAllowTrustExceptions</key>
-                           <false/>
-
-                          <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <true/>
-
-                          <key>TLSEnableSessionResumption</key>
-                           <false/>
-
-                     <key>InnerEAPType</key>
-                           <integer>17</integer>
-
-                 <key>EAPType</key>
-                           <integer>17</integer>
-
-                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawPasspoint</string>
-
- 
-                    <key>EAPSIMAKARealm</key>
-                     <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
-
-                     <key>InnerAcceptEAPTypes</key>
-                           <array>
-                   
-                           </array>
- 
-                    <key>TLSTrustedRootCertificates</key>
-                           <array>
-               
-                           </array>
-                 <key>TLSTrustedCertificates</key>
-                           <array>
-               
-                           </array>
-
-                   <key>TLSServerCertificateChain</key>
-                           <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
-                   <key>TLSReplaceTrustedRootCertificates</key>
-                           <true/>
-
-                          <key>ProfileID</key>
-                           <string>240858e7-53e9-42f8-9735-6196687417bd</string>
-                         </dict>			<key>SSID_STR</key>
+                        <key>SSID_STR</key>
 			<string>ShawPasspoint</string>
 		</dict>
 
@@ -357,73 +162,7 @@
 
                        <key>PayloadEnabled</key>
                         <true/>
-			<key>EAPClientConfiguration</key>
-			 <dict>
-                           <key>AcceptEAPTypes</key>
-                             <array>
-                             </array>
-
-			<key>AutoJoin</key>
-			<false/>
-
-		<key>CaptiveBypass</key>
-			<true/>
-
-		<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
-
-                           <key>TLSSaveTrustExceptions</key>
-                           <true/>
-
-                           <key>TLSTrustExceptionsDomain</key>
-                           <string>ProfileID</string>
-
-                          <key>TLSAllowTrustExceptions</key>
-                           <false/>
-
-                          <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <true/>
-
-                          <key>TLSEnableSessionResumption</key>
-                           <false/>
-
-                     <key>InnerEAPType</key>
-                           <integer>17</integer>
-
-                 <key>EAPType</key>
-                           <integer>17</integer>
-
- 
-
-                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawMobileHotspot</string>
-
-                    <key>EAPSIMAKARealm</key>
-                     <string>jsksjsjdjjdjdjdhj717188273737377jdjsjdjjdjsjsj.com</string>
-
-
-                     <key>InnerAcceptEAPTypes</key>
-                           <array>
-                        
-                           </array>
- 
-                    <key>TLSTrustedRootCertificates</key>
-                           <array>
-               
-                           </array>
-                 <key>TLSTrustedCertificates</key>
-                           <array>
-               
-                           </array>
-
-                   <key>TLSServerCertificateChain</key>
-                           <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
-                   <key>TLSReplaceTrustedRootCertificates</key>
-                           <true/>
-
-                          <key>ProfileID</key>
-                           <string>240858e9-53e7-42f8-9735-6196687417bd</string>
-                         </dict>			<key>SSID_STR</key>
+                       <key>SSID_STR</key>
 			<string>ShawMobileHotspot</string>
 		</dict>
 
