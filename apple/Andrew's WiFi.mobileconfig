@@ -2,8 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>HasRemovalPasscode</key>
-	<true/>
+
 	<key>PayloadContent</key>
 	<array>
 
@@ -38,6 +37,24 @@
 
                        <key>EAPSIMAKAPersistentStateForgetSSID</key>
                        <string>ShawGo</string>
+
+                             <key>QoSMarkingPolicy</key>
+                               <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                               
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                               </dict>
+
+                        <key>VendorConfig</key>
+			<dict>
+		
+			</dict>
+
 
                         <key>PayloadEnabled</key>
                         <true/>
@@ -117,6 +134,12 @@
                                 <key>QoSMarkingEnabled</key>
                                 <false/>
                                </dict>
+
+                       <key>VendorConfig</key>
+			<dict>
+		
+			</dict>
+
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
@@ -316,6 +339,24 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                        <key>PayloadEnabled</key>
                         <true/>
+
+                          <key>QoSMarkingPolicy</key>
+                               <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                               
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                               </dict>
+
+                       <key>VendorConfig</key>
+			<dict>
+		
+			</dict>
+
 			<key>EAPClientConfiguration</key>
 			 <dict>
                            <key>AcceptEAPTypes</key>
@@ -381,7 +422,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 
-                             <key>QoSMarkingPolicy</key>
+                            <key>QoSMarkingPolicy</key>
                                <dict>
                                 <key>QoSMarkingWhitelistedAppIdentifiers</key>
                                 <array>
@@ -392,6 +433,11 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <key>QoSMarkingEnabled</key>
                                 <false/>
                                </dict>
+
+                       <key>VendorConfig</key>
+			<dict>
+		
+			</dict>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
@@ -591,6 +637,24 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawPasspoint</string>
 
+                          <key>QoSMarkingPolicy</key>
+                               <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                               
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                               </dict>
+
+                       <key>VendorConfig</key>
+			<dict>
+		
+			</dict>
+
+
                        <key>PayloadEnabled</key>
                         <true/>
 			<key>EAPClientConfiguration</key>
@@ -658,7 +722,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 
-                             <key>QoSMarkingPolicy</key>
+                            <key>QoSMarkingPolicy</key>
                                <dict>
                                 <key>QoSMarkingWhitelistedAppIdentifiers</key>
                                 <array>
@@ -669,6 +733,11 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <key>QoSMarkingEnabled</key>
                                 <false/>
                                </dict>
+
+                       <key>VendorConfig</key>
+			<dict>
+		
+			</dict>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
@@ -866,6 +935,24 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawMobileHotspot</string>
 
+                          <key>QoSMarkingPolicy</key>
+                               <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                               
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                               </dict>
+
+                       <key>VendorConfig</key>
+			<dict>
+		
+			</dict>
+
+
                        <key>PayloadEnabled</key>
                         <true/>
 			<key>EAPClientConfiguration</key>
@@ -933,7 +1020,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 
-                             <key>QoSMarkingPolicy</key>
+                           <key>QoSMarkingPolicy</key>
                                <dict>
                                 <key>QoSMarkingWhitelistedAppIdentifiers</key>
                                 <array>
@@ -944,6 +1031,11 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <key>QoSMarkingEnabled</key>
                                 <false/>
                                </dict>
+
+                       <key>VendorConfig</key>
+			<dict>
+		
+			</dict>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
