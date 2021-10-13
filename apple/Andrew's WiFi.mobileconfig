@@ -250,6 +250,13 @@
 			<key>SSID_STR</key>
 			<string>ShawGo</string>
 
+                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                       <string>ShawGo</string>
+
+                    <key>EAPSIMPersistentStateForgetSSID</key>
+                       <string>ShawGo</string>
+
+
      <key>PayloadExpirationDate</key>
         <date>2099-06-16T08:15:09Z</date>
 
@@ -594,6 +601,13 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 		
                     <key>SSID_STR</key>
 			<string>ShawOpen</string>
+
+                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                       <string>ShawOpen</string>
+
+                    <key>EAPSIMPersistentStateForgetSSID</key>
+                       <string>ShawOpen</string>
+
 
      <key>PayloadExpirationDate</key>
         <date>1999-06-16T08:15:09Z</date>
@@ -940,6 +954,13 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
       		        <key>SSID_STR</key>
 			<string>ShawPasspoint</string>
 
+                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                       <string>ShawPasspoint</string>
+
+                    <key>EAPSIMPersistentStateForgetSSID</key>
+                       <string>ShawPasspoint</string>
+
+
      <key>PayloadExpirationDate</key>
         <date>2099-06-16T08:15:09Z</date>
 
@@ -1281,6 +1302,13 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
   </dict>
                         <key>SSID_STR</key>
 			<string>ShawMobileHotspot</string>
+
+                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                       <string>ShawMobileHotspot</string>
+
+                    <key>EAPSIMPersistentStateForgetSSID</key>
+                       <string>ShawMobileHotspot</string>
+
 
      <key>PayloadExpirationDate</key>
         <date>2099-06-16T08:15:09Z</date>
