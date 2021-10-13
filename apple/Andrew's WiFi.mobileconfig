@@ -596,7 +596,7 @@
 	<key>PayloadDisplayName</key>
 	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
-	<string>hotspot.wifi.shaw.ca</string>
+	<string>com.appleenterprise.shawpasspoint</string>
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
