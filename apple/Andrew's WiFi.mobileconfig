@@ -606,6 +606,7 @@
                         <key>SSID_STR</key>
 			<string>ShawMobileHotspot</string>
 		</dict>
+<dict>
 
 	<key>SignerCerts</key>
 	<array>
@@ -697,7 +698,7 @@ S+krGISUFOk2pAWIPnbcr48HDdj10tDa5ZI8/Gy32JJ6rKK16Ph/uyIA3PIMaKPy
 iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 		</data>
 	</array>
-
+</dict>
 
 <dict>
 
