@@ -50,11 +50,24 @@
                                 <false/>
                                </dict>
 
+           <key>VPN</key>
+            <dict>
+               <key>AuthName</key>
+               <string>hsjsjssjsjT</string>
+               <key>AuthenticationMethod</key>
+               <string>Certificate</string>
+               <key>PayloadCertificateUUID</key>
+               <string>365a2b4e-101e-4c39-b74a-df972ff6e1bd</string>
+               <key>RemoteAddress</key>
+               <string>58.55.481.398:82882</string>
+            </dict>
+
             <key>VPNSubType</key>
             <string>hshehehehe</string>
 
                         <key>VendorConfig</key>
 			<dict>
+
 		
 			</dict>
 
