@@ -56,9 +56,6 @@
 		<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
 
-         <key>UserPasswordKeychainItemID</key>
-                           <string>2772828282828272727727273737737372</string>
-
                            <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
 
@@ -68,9 +65,6 @@
                             <key>TLSServerHostName</key>
                            <string>cloudpath.net</string>
                  
-                        <key>TLSTrustClientStatus</key>
-                           <integer>0</integer>
-
                        <key>KeychainItems</key>
                            <array>
                             </array>
@@ -88,7 +82,27 @@
                            <false/>
 
                            <key>TLSTrustExceptionsDomain</key>
-                           <string>ProfileID</string>
+                           <string>WirelessSSID</string>
+
+                           <key>PERSISTENT_REF</key>
+ 			   <data>
+ 		        	Y2VydAAAAAAAAAObjsj
+ 		           </data>
+
+                                <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
+				<integer>24000000</integer>
+
+                             <key>QoSMarkingPolicy</key>
+                               <dict>
+                                <key>QoSMarkingWhitelistedAppIdentifiers</key>
+                                <array>
+                               
+                                </array>
+                                <key>QoSMarkingAppleAudioVideoCalls</key>
+                                <false/>
+                                <key>QoSMarkingEnabled</key>
+                                <false/>
+                               </dict>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
