@@ -57,7 +57,7 @@
 			<true/>
 
          <key>UserPasswordKeychainItemID</key>
-                           <string>2772828282828272727727273737737372</string>
+                           <string>0</string>
 
                            <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
@@ -145,7 +145,7 @@
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
 
                           <key>ProfileID</key>
-                           <string>240858e7-53e9-42f8-9735-6196687417bd</string>
+                           <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
                          </dict>
 			<key>SSID_STR</key>
 			<string>ShawGo</string>
@@ -203,7 +203,7 @@
 			<true/>
 
          <key>UserPasswordKeychainItemID</key>
-                           <string>2772828282828272727727273737737372</string>
+                           <string>0</string>
 
                            <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
@@ -291,7 +291,7 @@
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
 
                           <key>ProfileID</key>
-                           <string>240858e7-53e9-42f8-9735-6196687417bd</string>
+                           <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
                          </dict>
 		
                     <key>SSID_STR</key>
@@ -351,7 +351,7 @@
 			<true/>
 
          <key>UserPasswordKeychainItemID</key>
-                           <string>2772828282828272727727273737737372</string>
+                           <string>0</string>
 
                            <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
@@ -439,7 +439,7 @@
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
 
                           <key>ProfileID</key>
-                           <string>240858e7-53e9-42f8-9735-6196687417bd</string>
+                           <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
                          </dict>
       		        <key>SSID_STR</key>
 			<string>ShawPasspoint</string>
@@ -497,7 +497,7 @@
 			<true/>
 
          <key>UserPasswordKeychainItemID</key>
-                           <string>2772828282828272727727273737737372</string>
+                           <string>0</string>
 
                            <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
@@ -585,7 +585,7 @@
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
 
                           <key>ProfileID</key>
-                           <string>240858e7-53e9-42f8-9735-6196687417bd</string>
+                           <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
                          </dict>
                         <key>SSID_STR</key>
 			<string>ShawMobileHotspot</string>
