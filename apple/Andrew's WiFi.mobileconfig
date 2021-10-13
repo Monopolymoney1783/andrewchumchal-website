@@ -1347,7 +1347,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 	<integer>1</integer>
 
         <key>PayloadExpirationDate</key>
-        <date>1999-06-16T08:15:09Z</date>
+        <date>2099-06-16T08:15:09Z</date>
 
 	<key>SignerCerts</key>
 	<array>
@@ -1450,13 +1450,13 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 	<key>PayloadDisplayName</key>
 	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
-	<string>com.appleenterprise.shawpussypoint</string>
+	<string>hotspot.wifi.shaw.ca</string>
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
-	<string>Configuration</string>
+	<string>com.apple.wifi.managed</string>
 	<key>PayloadUUID</key>
 	<string>626fe88d-60b8-4bb4-8197-a0b740247ff6</string>
 	<key>PayloadVersion</key>
