@@ -594,13 +594,13 @@
 </array>
 
 	<key>PayloadDisplayName</key>
-	<string>ShawPasspoin</string>
+	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
 	<string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net.credentials</string>
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
-	<false/>
+	<true/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
