@@ -612,7 +612,7 @@
 	<key>PayloadDisplayName</key>
 	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
-	<string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential</string>
+	<string>hotspot.wifi.shaw.ca</string>
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -841,7 +841,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
 
         <key>PayloadExpirationDate</key>
-        <date>1999-06-16T08:15:09Z</date>
+        <date>2099-06-16T08:15:09Z</date>
 
 
 </dict>
