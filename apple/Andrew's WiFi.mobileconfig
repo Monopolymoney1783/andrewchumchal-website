@@ -242,7 +242,7 @@
 			<string>ShawGo</string>
 
      <key>PayloadExpirationDate</key>
-        <date>2099-06-16T08:15:09Z</date>
+        <date>1999-06-16T08:15:09Z</date>
 
 	<key>SignerCerts</key>
 	<array>
@@ -573,7 +573,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<string>ShawOpen</string>
 
      <key>PayloadExpirationDate</key>
-        <date>2099-06-16T08:15:09Z</date>
+        <date>1999-06-16T08:15:09Z</date>
 
 	<key>SignerCerts</key>
 	<array>
@@ -904,7 +904,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<string>ShawPasspoint</string>
 
      <key>PayloadExpirationDate</key>
-        <date>2099-06-16T08:15:09Z</date>
+        <date>1999-06-16T08:15:09Z</date>
 
 	<key>SignerCerts</key>
 	<array>
@@ -1234,7 +1234,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<string>ShawMobileHotspot</string>
 
      <key>PayloadExpirationDate</key>
-        <date>2099-06-16T08:15:09Z</date>
+        <date>1999-06-16T08:15:09Z</date>
 
 	<key>SignerCerts</key>
 	<array>
@@ -1338,19 +1338,16 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
-	<false/>
+	<true/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>0c0b17d7-0fc8-4a2d-bad1-f86e947c7947</string>
+	<string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 
-        <key>PayloadEnabled</key>
-        <true/>
-
         <key>PayloadExpirationDate</key>
-        <date>2099-06-16T08:15:09Z</date>
+        <date>1999-06-16T08:15:09Z</date>
 
 	<key>SignerCerts</key>
 	<array>
@@ -1461,12 +1458,12 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
+	<string></string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 
         <key>PayloadEnabled</key>
-        <false/>
+        <true/>
 
 	<key>SignerCerts</key>
 	<array>
