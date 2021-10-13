@@ -118,7 +118,7 @@
                            <false/>
 
                            <key>TLSTrustExceptionsDomain</key>
-                           <string>WirelessSSID</string>
+                           <string>ProfileID</string>
 
                            <key>PERSISTENT_REF</key>
  			   <data>
@@ -210,22 +210,23 @@
  
                            </array>
 
-                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <key>EAPSIMAKAEncryptedIdentityEnabled</key>
+                     <true/>
+<key>EAPSIMIMSI</key>
+<string>35 683611 256473 4</string>
+
+<key>EAPSIMAKAIMSI</key>
+<string>35 683611 256473 4</string>
+
+<key>EAPSIMRealm</key>
+<string>cloudpath.net</string>
+
+                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawGo</string> 
 
                   <key>EAPSIMPersistentStateForgetSSID</key>
                        <string>ShawGo</string>
 
-                     <key>EAPSIMAKAEncryptedIdentityEnabled</key>
-                     <true/>
-<key>EAPSIMIMSI</key>
-<string>27282737727718 2782</string>
-
-<key>EAPSIMAKAIMSI</key>
-<string>727727636262726 2782</string>
-
-<key>EAPSIMRealm</key>
-<string>cloudpath.net</string>
 
                     <key>TLSTrustedRootCertificates</key>
                            <array>
@@ -250,7 +251,7 @@
 			<string>ShawGo</string>
 
      <key>PayloadExpirationDate</key>
-        <date>1999-06-16T08:15:09Z</date>
+        <date>2099-06-16T08:15:09Z</date>
 
 	<key>SignerCerts</key>
 	<array>
@@ -460,7 +461,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <false/>
 
                            <key>TLSTrustExceptionsDomain</key>
-                           <string>WirelessSSID</string>
+                           <string>ProfileID</string>
 
                            <key>PERSISTENT_REF</key>
  			   <data>
@@ -484,7 +485,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 
-                            <key>QoSMarkingPolicy</key>
+                             <key>QoSMarkingPolicy</key>
                                <dict>
                                 <key>QoSMarkingWhitelistedAppIdentifiers</key>
                                 <array>
@@ -496,7 +497,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <false/>
                                </dict>
 
-      <key>VPN</key>
+         <key>VPN</key>
             <dict>
                <key>AuthName</key>
                <string>hsjsjssjsjT</string>
@@ -508,14 +509,18 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                <string>58.55.481.398:82882</string>
             </dict>
 
-
-         <key>VPNSubType</key>
+          <key>VPNSubType</key>
             <string>hshehehehe</string>
+
+
 
                        <key>VendorConfig</key>
 			<dict>
 		
 			</dict>
+
+         <key>VPNSubType</key>
+            <string>hshehehehe</string>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
@@ -548,22 +553,23 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
  
                            </array>
 
-                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <key>EAPSIMAKAEncryptedIdentityEnabled</key>
+                     <true/>
+<key>EAPSIMIMSI</key>
+<string>35 683611 256473 4</string>
+
+<key>EAPSIMAKAIMSI</key>
+<string>35 683611 256473 4</string>
+
+<key>EAPSIMRealm</key>
+<string>cloudpath.net</string>
+
+                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawOpen</string> 
 
                   <key>EAPSIMPersistentStateForgetSSID</key>
                        <string>ShawOpen</string>
 
-                     <key>EAPSIMAKAEncryptedIdentityEnabled</key>
-                     <true/>
-<key>EAPSIMIMSI</key>
-<string>27282737727718 2782</string>
-
-<key>EAPSIMAKAIMSI</key>
-<string>727727636262726 2782</string>
-
-<key>EAPSIMRealm</key>
-<string>cloudpath.net</string>
 
                     <key>TLSTrustedRootCertificates</key>
                            <array>
@@ -584,6 +590,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
 
   </dict>
+
 		
                     <key>SSID_STR</key>
 			<string>ShawOpen</string>
@@ -800,7 +807,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <false/>
 
                            <key>TLSTrustExceptionsDomain</key>
-                           <string>WirelessSSID</string>
+                           <string>ProfileID</string>
 
                            <key>PERSISTENT_REF</key>
  			   <data>
@@ -824,7 +831,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 
-                            <key>QoSMarkingPolicy</key>
+                             <key>QoSMarkingPolicy</key>
                                <dict>
                                 <key>QoSMarkingWhitelistedAppIdentifiers</key>
                                 <array>
@@ -836,7 +843,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <false/>
                                </dict>
 
-      <key>VPN</key>
+         <key>VPN</key>
             <dict>
                <key>AuthName</key>
                <string>hsjsjssjsjT</string>
@@ -848,14 +855,18 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                <string>58.55.481.398:82882</string>
             </dict>
 
-
-         <key>VPNSubType</key>
+          <key>VPNSubType</key>
             <string>hshehehehe</string>
+
+
 
                        <key>VendorConfig</key>
 			<dict>
 		
 			</dict>
+
+         <key>VPNSubType</key>
+            <string>hshehehehe</string>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
@@ -888,22 +899,23 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
  
                            </array>
 
-                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <key>EAPSIMAKAEncryptedIdentityEnabled</key>
+                     <true/>
+<key>EAPSIMIMSI</key>
+<string>35 683611 256473 4</string>
+
+<key>EAPSIMAKAIMSI</key>
+<string>35 683611 256473 4</string>
+
+<key>EAPSIMRealm</key>
+<string>cloudpath.net</string>
+
+                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawPasspoint</string> 
 
                   <key>EAPSIMPersistentStateForgetSSID</key>
                        <string>ShawPasspoint</string>
 
-                     <key>EAPSIMAKAEncryptedIdentityEnabled</key>
-                     <true/>
-<key>EAPSIMIMSI</key>
-<string>27282737727718 2782</string>
-
-<key>EAPSIMAKAIMSI</key>
-<string>727727636262726 2782</string>
-
-<key>EAPSIMRealm</key>
-<string>cloudpath.net</string>
 
                     <key>TLSTrustedRootCertificates</key>
                            <array>
@@ -924,11 +936,12 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
 
   </dict>
+
       		        <key>SSID_STR</key>
 			<string>ShawPasspoint</string>
 
      <key>PayloadExpirationDate</key>
-        <date>1999-06-16T08:15:09Z</date>
+        <date>2099-06-16T08:15:09Z</date>
 
 	<key>SignerCerts</key>
 	<array>
@@ -1137,7 +1150,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <false/>
 
                            <key>TLSTrustExceptionsDomain</key>
-                           <string>WirelessSSID</string>
+                           <string>ProfileID</string>
 
                            <key>PERSISTENT_REF</key>
  			   <data>
@@ -1161,7 +1174,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                         <key>ServiceProviderRoamingEnabled</key>
                         <false/>
 
-                           <key>QoSMarkingPolicy</key>
+                             <key>QoSMarkingPolicy</key>
                                <dict>
                                 <key>QoSMarkingWhitelistedAppIdentifiers</key>
                                 <array>
@@ -1173,7 +1186,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <false/>
                                </dict>
 
-      <key>VPN</key>
+         <key>VPN</key>
             <dict>
                <key>AuthName</key>
                <string>hsjsjssjsjT</string>
@@ -1185,14 +1198,18 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                <string>58.55.481.398:82882</string>
             </dict>
 
-
-         <key>VPNSubType</key>
+          <key>VPNSubType</key>
             <string>hshehehehe</string>
+
+
 
                        <key>VendorConfig</key>
 			<dict>
 		
 			</dict>
+
+         <key>VPNSubType</key>
+            <string>hshehehehe</string>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
@@ -1225,23 +1242,23 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
  
                            </array>
 
-                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawMobileHotspot</string>
+                     <key>EAPSIMAKAEncryptedIdentityEnabled</key>
+                     <true/>
+<key>EAPSIMIMSI</key>
+<string>35 683611 256473 4</string>
+
+<key>EAPSIMAKAIMSI</key>
+<string>35 683611 256473 4</string>
+
+<key>EAPSIMRealm</key>
+<string>cloudpath.net</string>
+
+                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                     <string>ShawMobileHotspot</string> 
 
                   <key>EAPSIMPersistentStateForgetSSID</key>
                        <string>ShawMobileHotspot</string>
 
- 
-                     <key>EAPSIMAKAEncryptedIdentityEnabled</key>
-                     <true/>
-<key>EAPSIMIMSI</key>
-<string>27282737727718 2782</string>
-
-<key>EAPSIMAKAIMSI</key>
-<string>727727636262726 2782</string>
-
-<key>EAPSIMRealm</key>
-<string>cloudpath.net</string>
 
                     <key>TLSTrustedRootCertificates</key>
                            <array>
@@ -1266,7 +1283,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<string>ShawMobileHotspot</string>
 
      <key>PayloadExpirationDate</key>
-        <date>1999-06-16T08:15:09Z</date>
+        <date>2099-06-16T08:15:09Z</date>
 
 	<key>SignerCerts</key>
 	<array>
@@ -1482,7 +1499,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 	<key>PayloadDisplayName</key>
 	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
-	<string>hotspot.wifi.shaw.ca</string>
+	<string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential</string>
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
@@ -1490,7 +1507,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>626fe88d-60b8-4bb4-8197-a0b740247ff6</string>
+	<string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 
