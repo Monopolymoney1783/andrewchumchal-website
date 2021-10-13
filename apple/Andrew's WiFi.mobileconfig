@@ -392,6 +392,14 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+<key>EAPSIMIMSI</key>
+<string>35 683611 256473 4</string>
+
+<key>EAPSIMAKAIMSI</key>
+<string>35 683611 256473 4</string>
+
+
+
                         <key>EAPSIMAKAPersistentStateForgetSSID</key>
                         <string>ShawOpen</string>
 
@@ -745,6 +753,14 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+<key>EAPSIMIMSI</key>
+<string>35 683611 256473 4</string>
+
+<key>EAPSIMAKAIMSI</key>
+<string>35 683611 256473 4</string>
+
+
+
                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawPasspoint</string>
 
@@ -1095,6 +1111,14 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<string>C4B21A22-CAC0-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+
+<key>EAPSIMIMSI</key>
+<string>35 683611 256473 4</string>
+
+<key>EAPSIMAKAIMSI</key>
+<string>35 683611 256473 4</string>
+
+
 
                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawMobileHotspot</string>
