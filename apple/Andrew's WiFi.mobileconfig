@@ -144,9 +144,13 @@
                    <key>TLSServerCertificateChain</key>
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
 
-                          <key>ProfileID</key>
-                           <string>240858e7-53e9-42f8-9735-6196687417bd</string>
-                         </dict>
+                            <key>ProfileID</key>
+                           <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
+
+                        <key>UniqueIdentifier</key>
+                           <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
+
+  </dict>
 			<key>SSID_STR</key>
 			<string>ShawGo</string>
 		</dict>
@@ -290,9 +294,13 @@
                    <key>TLSServerCertificateChain</key>
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
 
-                          <key>ProfileID</key>
-                           <string>240858e7-53e9-42f8-9735-6196687417bd</string>
-                         </dict>
+                            <key>ProfileID</key>
+                           <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
+
+                        <key>UniqueIdentifier</key>
+                           <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
+
+</dict>
 		
                     <key>SSID_STR</key>
 			<string>ShawOpen</string>
@@ -438,9 +446,13 @@
                    <key>TLSServerCertificateChain</key>
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
 
-                          <key>ProfileID</key>
-                           <string>240858e7-53e9-42f8-9735-6196687417bd</string>
-                         </dict>
+                           <key>ProfileID</key>
+                           <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
+
+                        <key>UniqueIdentifier</key>
+                           <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
+
+ </dict>
       		        <key>SSID_STR</key>
 			<string>ShawPasspoint</string>
 		</dict>
@@ -585,11 +597,38 @@
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
 
                           <key>ProfileID</key>
-                           <string>240858e7-53e9-42f8-9735-6196687417bd</string>
+                           <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
+
+                        <key>UniqueIdentifier</key>
+                           <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
+
                          </dict>
                         <key>SSID_STR</key>
 			<string>ShawMobileHotspot</string>
 		</dict>
+<dict>
+
+	<key>PayloadDisplayName</key>
+	<string>ShawPasspoint</string>
+	<key>PayloadIdentifier</key>
+	<string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential</string>
+	<key>PayloadOrganization</key>
+	<string>Shaw Communications Inc.</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+
+        <key>PayloadEnabled</key>
+        <true/>
+
+        <key>PayloadExpirationDate</key>
+        <date>2099-06-16T08:15:09Z</date>
+
 
 </array>
 
@@ -600,13 +639,11 @@
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
-	<true/>
+	<false/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-
-
-	<string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
+	<string>0c0b17d7-0fc8-4a2d-bad1-f86e947c7947</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 
@@ -614,7 +651,7 @@
         <false/>
 
         <key>PayloadExpirationDate</key>
-        <date>2099-06-16T08:15:09Z</date>
+        <date>1999-06-16T08:15:09Z</date>
 
 
 </dict>
