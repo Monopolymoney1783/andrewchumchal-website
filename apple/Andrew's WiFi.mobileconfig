@@ -35,6 +35,14 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
+<key>EAPSIMIMSI</key>
+<string>35 683611 256473 4</string>
+
+<key>EAPSIMAKAIMSI</key>
+<string>35 683611 256473 4</string>
+
+
+
                        <key>EAPSIMAKAPersistentStateForgetSSID</key>
                        <string>ShawGo</string>
 
