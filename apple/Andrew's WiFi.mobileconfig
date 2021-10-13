@@ -622,6 +622,9 @@
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 
+<key>PayloadScope</key>
+<string>System</string>
+
         <key>PayloadEnabled</key>
         <false/>
 
