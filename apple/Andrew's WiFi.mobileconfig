@@ -594,7 +594,7 @@
 </array>
 
 	<key>PayloadDisplayName</key>
-	<string>ShawPasspoint</string>
+	<string>ShawPasspoin</string>
 	<key>PayloadIdentifier</key>
 	<string>592C0700CB1E2BA4A490899CB3407804.cloudpath.net.credentials</string>
 	<key>PayloadOrganization</key>
@@ -612,7 +612,7 @@
         <false/>
 
         <key>PayloadExpirationDate</key>
-        <date>2099-06-16T08:15:09Z</date>
+        <date>1999-06-16T08:15:09Z</date>
 
 
 </dict>
