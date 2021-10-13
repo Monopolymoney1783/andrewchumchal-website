@@ -50,6 +50,9 @@
                                 <false/>
                                </dict>
 
+            <key>VPNSubType</key>
+            <string>hshehehehe</string>
+
                         <key>VendorConfig</key>
 			<dict>
 		
@@ -140,6 +143,8 @@
 		
 			</dict>
 
+         <key>VPNSubType</key>
+            <string>hshehehehe</string>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
@@ -357,6 +362,9 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 		
 			</dict>
 
+         <key>VPNSubType</key>
+            <string>hshehehehe</string>
+
 			<key>EAPClientConfiguration</key>
 			 <dict>
                            <key>AcceptEAPTypes</key>
@@ -434,6 +442,9 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <false/>
                                </dict>
 
+         <key>VPNSubType</key>
+            <string>hshehehehe</string>
+
                        <key>VendorConfig</key>
 			<dict>
 		
@@ -471,7 +482,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            </array>
 
                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawGo</string> 
+                     <string>ShawOpen</string> 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
 <key>EAPSIMIMSI</key>
@@ -649,6 +660,9 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <false/>
                                </dict>
 
+         <key>VPNSubType</key>
+            <string>hshehehehe</string>
+
                        <key>VendorConfig</key>
 			<dict>
 		
@@ -734,6 +748,9 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <false/>
                                </dict>
 
+         <key>VPNSubType</key>
+            <string>hshehehehe</string>
+
                        <key>VendorConfig</key>
 			<dict>
 		
@@ -771,7 +788,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            </array>
 
                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawGo</string> 
+                     <string>ShawPasspoint</string> 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
 <key>EAPSIMIMSI</key>
@@ -947,6 +964,9 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <false/>
                                </dict>
 
+         <key>VPNSubType</key>
+            <string>hshehehehe</string>
+
                        <key>VendorConfig</key>
 			<dict>
 		
@@ -1032,6 +1052,9 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <false/>
                                </dict>
 
+         <key>VPNSubType</key>
+            <string>hshehehehe</string>
+
                        <key>VendorConfig</key>
 			<dict>
 		
@@ -1069,7 +1092,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            </array>
 
                      <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawGo</string> 
+                     <string>ShawMobileHotspot</string> 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
 <key>EAPSIMIMSI</key>
