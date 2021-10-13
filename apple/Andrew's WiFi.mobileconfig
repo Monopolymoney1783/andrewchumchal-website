@@ -600,7 +600,7 @@
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
-	<false/>
+	<true/>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
@@ -614,7 +614,7 @@
         <false/>
 
         <key>PayloadExpirationDate</key>
-        <date>1999-06-16T08:15:09Z</date>
+        <date>2099-06-16T08:15:09Z</date>
 
 
 </dict>
