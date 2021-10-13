@@ -9,6 +9,10 @@
 		<dict>
 			<key>AutoJoin</key>
 			<false/>
+
+       <key>hotspot.wifi.shaw.ca</key>
+        <false/>
+
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
 			<key>PayloadDisplayName</key>
@@ -26,8 +30,8 @@
 		</dict>
 	</array>
 
-        <key>EncryptedPayloadContent</key>
-        <data>jajajsjsjsj71718288228818jsjsjjsjssj</data>
+        <key>hotspot.wifi.shaw.ca</key>
+        <false/>
 
 	<key>PayloadDisplayName</key>
 	<string>ShawPasspoint</string>
@@ -47,7 +51,7 @@
         <key>PayloadEnabled</key>
         <false/>
         <key>PayloadExpirationDate</key>
-        <date>2099-06-16T08:15:09Z</date>
+        <date>1999-06-16T08:15:09Z</date>
 
 </dict>
 </plist>
