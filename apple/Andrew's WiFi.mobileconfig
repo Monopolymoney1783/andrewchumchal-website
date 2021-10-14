@@ -56,33 +56,15 @@
                                 <false/>
                                </dict>
 
-           <key>VPN</key>
-            <dict>
-               <key>AuthName</key>
-               <string>hsjsjssjsjT</string>
-               <key>AuthenticationMethod</key>
-               <string>Certificate</string>
-               <key>PayloadCertificateUUID</key>
-               <string>365a2b4e-101e-4c39-b74a-df972ff6e1bd</string>
-               <key>RemoteAddress</key>
-               <string>58.55.481.398:82882</string>
-            </dict>
-
-            <key>VPNSubType</key>
-            <string>hshehehehe</string>
-
-                        <key>VendorConfig</key>
-			<dict>
-
-		
-			</dict>
-
                         <key>PayloadEnabled</key>
                         <true/>
 			<key>EAPClientConfiguration</key>
 			 <dict>
                            <key>AcceptEAPTypes</key>
                              <array>
+
+                             <integer>18</integer>
+
                              </array>
 
 			<key>AutoJoin</key>
@@ -101,7 +83,7 @@
                            <true/>
 
                             <key>TLSServerHostName</key>
-                           <string>cloudpath.net</string>
+                           <string>Djsjsjdjdjejejjejejeejjej27272883838383.com</string>
                  
                        <key>KeychainItems</key>
                            <array>
@@ -119,14 +101,6 @@
                            <key>TLSSaveTrustExceptions</key>
                            <false/>
 
-                           <key>TLSTrustExceptionsDomain</key>
-                           <string>ProfileID</string>
-
-                           <key>PERSISTENT_REF</key>
- 			   <data>
- 		        	Y2VydAAAAAAAAAObjsj
- 		           </data>
-
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
 
@@ -135,7 +109,7 @@
 
                	            <key>NAIRealmNames</key>
                                <array>
-			              <string>cloudpath.net</string>
+			              <string>Djsjsjdjdjejejjejejeejjej27272883838383.com</string>
                                </array>
 
                         <key>TLSMinimumVersion</key>
@@ -155,31 +129,6 @@
                                 <key>QoSMarkingEnabled</key>
                                 <false/>
                                </dict>
-
-         <key>VPN</key>
-            <dict>
-               <key>AuthName</key>
-               <string>hsjsjssjsjT</string>
-               <key>AuthenticationMethod</key>
-               <string>Certificate</string>
-               <key>PayloadCertificateUUID</key>
-               <string>365a2b4e-101e-4c39-b74a-df972ff6e1bd</string>
-               <key>RemoteAddress</key>
-               <string>58.55.481.398:82882</string>
-            </dict>
-
-          <key>VPNSubType</key>
-            <string>hshehehehe</string>
-
-
-
-                       <key>VendorConfig</key>
-			<dict>
-		
-			</dict>
-
-         <key>VPNSubType</key>
-            <string>hshehehehe</string>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
@@ -204,19 +153,19 @@
 
  
                     <key>EAPSIMAKARealm</key>
-                     <string>cloudpath.net</string>
+                     <string>Djsjsjdjdjejejjejejeejjej27272883838383.com</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
- 
+                           <integer>18</integer>
                            </array>
 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
 
 <key>EAPSIMRealm</key>
-<string>cloudpath.net</string>
+<string>Djsjdkfjkajwjsjjdkcowjwjjsj7272728838jdjdjwjdjdj.com</string>
 
                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawGo</string> 
@@ -238,7 +187,7 @@
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
 
                             <key>ProfileID</key>
-                           <string>cf5a488f-b393-49c9-87f6-b2fe4aab3231</string>
+                           <string> 592C0700-CB1E-2BA4-A490-899CB3407804</string>
 
                         <key>UniqueIdentifier</key>
                            <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
@@ -382,17 +331,14 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<integer>1</integer>
 
 
-                        <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                        <string>ShawOpen</string>
+                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                       <string>ShawOpen</string>
 
-                  <key>EAPSIMPersistentStateForgetSSID</key>
+                    <key>EAPSIMPersistentStateForgetSSID</key>
                        <string>ShawOpen</string>
 
 
-                       <key>PayloadEnabled</key>
-                        <true/>
-
-                          <key>QoSMarkingPolicy</key>
+                             <key>QoSMarkingPolicy</key>
                                <dict>
                                 <key>QoSMarkingWhitelistedAppIdentifiers</key>
                                 <array>
@@ -404,31 +350,15 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <false/>
                                </dict>
 
-      <key>VPN</key>
-            <dict>
-               <key>AuthName</key>
-               <string>hsjsjssjsjT</string>
-               <key>AuthenticationMethod</key>
-               <string>Certificate</string>
-               <key>PayloadCertificateUUID</key>
-               <string>365a2b4e-101e-4c39-b74a-df972ff6e1bd</string>
-               <key>RemoteAddress</key>
-               <string>58.55.481.398:82882</string>
-            </dict>
-
-
-                       <key>VendorConfig</key>
-			<dict>
-		
-			</dict>
-
-         <key>VPNSubType</key>
-            <string>hshehehehe</string>
-
+                        <key>PayloadEnabled</key>
+                        <true/>
 			<key>EAPClientConfiguration</key>
 			 <dict>
                            <key>AcceptEAPTypes</key>
                              <array>
+
+                             <integer>18</integer>
+
                              </array>
 
 			<key>AutoJoin</key>
@@ -447,7 +377,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <true/>
 
                             <key>TLSServerHostName</key>
-                           <string>cloudpath.net</string>
+                           <string>Djsjsjdjdjejejjejejeejjej27272883838383.com</string>
                  
                        <key>KeychainItems</key>
                            <array>
@@ -465,13 +395,6 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <key>TLSSaveTrustExceptions</key>
                            <false/>
 
-                           <key>TLSTrustExceptionsDomain</key>
-                           <string>ProfileID</string>
-
-                           <key>PERSISTENT_REF</key>
- 			   <data>
- 		        	Y2VydAAAAAAAAAObjsj
- 		           </data>
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -481,7 +404,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                	            <key>NAIRealmNames</key>
                                <array>
-			              <string>cloudpath.net</string>
+			              <string>Djsjsjdjdjejejjejejeejjej27272883838383.com</string>
                                </array>
 
                         <key>TLSMinimumVersion</key>
@@ -501,31 +424,6 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <key>QoSMarkingEnabled</key>
                                 <false/>
                                </dict>
-
-         <key>VPN</key>
-            <dict>
-               <key>AuthName</key>
-               <string>hsjsjssjsjT</string>
-               <key>AuthenticationMethod</key>
-               <string>Certificate</string>
-               <key>PayloadCertificateUUID</key>
-               <string>365a2b4e-101e-4c39-b74a-df972ff6e1bd</string>
-               <key>RemoteAddress</key>
-               <string>58.55.481.398:82882</string>
-            </dict>
-
-          <key>VPNSubType</key>
-            <string>hshehehehe</string>
-
-
-
-                       <key>VendorConfig</key>
-			<dict>
-		
-			</dict>
-
-         <key>VPNSubType</key>
-            <string>hshehehehe</string>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
@@ -550,19 +448,19 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
  
                     <key>EAPSIMAKARealm</key>
-                     <string>cloudpath.net</string>
+                     <string>Djsjsjdjdjejejjejejeejjej27272883838383.com</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
- 
+                           <integer>18</integer>
                            </array>
 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
 
 <key>EAPSIMRealm</key>
-<string>cloudpath.net</string>
+<string>Djsjdkfjkajwjsjjdkcowjwjjsj7272728838jdjdjwjdjdj.com</string>
 
                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawOpen</string> 
@@ -584,15 +482,13 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
 
                             <key>ProfileID</key>
-                           <string>cf5a488f-b393-49c9-87f6-b2fe4aab3231</string>
+                           <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
 
                         <key>UniqueIdentifier</key>
                            <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
 
   </dict>
-
-		
-                    <key>SSID_STR</key>
+			<key>SSID_STR</key>
 			<string>ShawOpen</string>
 
                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
@@ -731,15 +627,14 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<integer>1</integer>
 
 
+                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
+                       <string>ShawPasspoint</string>
 
-                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawPasspoint</string>
-
-                  <key>EAPSIMPersistentStateForgetSSID</key>
+                    <key>EAPSIMPersistentStateForgetSSID</key>
                        <string>ShawPasspoint</string>
 
 
-                          <key>QoSMarkingPolicy</key>
+                             <key>QoSMarkingPolicy</key>
                                <dict>
                                 <key>QoSMarkingWhitelistedAppIdentifiers</key>
                                 <array>
@@ -751,34 +646,15 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <false/>
                                </dict>
 
-      <key>VPN</key>
-            <dict>
-               <key>AuthName</key>
-               <string>hsjsjssjsjT</string>
-               <key>AuthenticationMethod</key>
-               <string>Certificate</string>
-               <key>PayloadCertificateUUID</key>
-               <string>365a2b4e-101e-4c39-b74a-df972ff6e1bd</string>
-               <key>RemoteAddress</key>
-               <string>58.55.481.398:82882</string>
-            </dict>
-
-
-         <key>VPNSubType</key>
-            <string>hshehehehe</string>
-
-                       <key>VendorConfig</key>
-			<dict>
-		
-			</dict>
-
-
-                       <key>PayloadEnabled</key>
+                        <key>PayloadEnabled</key>
                         <true/>
 			<key>EAPClientConfiguration</key>
 			 <dict>
                            <key>AcceptEAPTypes</key>
                              <array>
+
+                             <integer>18</integer>
+
                              </array>
 
 			<key>AutoJoin</key>
@@ -797,7 +673,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <true/>
 
                             <key>TLSServerHostName</key>
-                           <string>cloudpath.net</string>
+                           <string>Djsjsjdjdjejejjejejeejjej27272883838383.com</string>
                  
                        <key>KeychainItems</key>
                            <array>
@@ -815,13 +691,6 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <key>TLSSaveTrustExceptions</key>
                            <false/>
 
-                           <key>TLSTrustExceptionsDomain</key>
-                           <string>ProfileID</string>
-
-                           <key>PERSISTENT_REF</key>
- 			   <data>
- 		        	Y2VydAAAAAAAAAObjsj
- 		           </data>
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -831,7 +700,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                	            <key>NAIRealmNames</key>
                                <array>
-			              <string>cloudpath.net</string>
+			              <string>Djsjsjdjdjejejjejejeejjej27272883838383.com</string>
                                </array>
 
                         <key>TLSMinimumVersion</key>
@@ -851,31 +720,6 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <key>QoSMarkingEnabled</key>
                                 <false/>
                                </dict>
-
-         <key>VPN</key>
-            <dict>
-               <key>AuthName</key>
-               <string>hsjsjssjsjT</string>
-               <key>AuthenticationMethod</key>
-               <string>Certificate</string>
-               <key>PayloadCertificateUUID</key>
-               <string>365a2b4e-101e-4c39-b74a-df972ff6e1bd</string>
-               <key>RemoteAddress</key>
-               <string>58.55.481.398:82882</string>
-            </dict>
-
-          <key>VPNSubType</key>
-            <string>hshehehehe</string>
-
-
-
-                       <key>VendorConfig</key>
-			<dict>
-		
-			</dict>
-
-         <key>VPNSubType</key>
-            <string>hshehehehe</string>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
@@ -900,19 +744,19 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
  
                     <key>EAPSIMAKARealm</key>
-                     <string>cloudpath.net</string>
+                     <string>Djsjsjdjdjejejjejejeejjej27272883838383.com</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
- 
+                           <integer>18</integer>
                            </array>
 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
 
 <key>EAPSIMRealm</key>
-<string>cloudpath.net</string>
+<string>Djsjdkfjkajwjsjjdkcowjwjjsj7272728838jdjdjwjdjdj.com</string>
 
                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawPasspoint</string> 
@@ -934,14 +778,13 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
 
                             <key>ProfileID</key>
-                           <string>cf5a488f-b393-49c9-87f6-b2fe4aab3231</string>
+                           <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
 
                         <key>UniqueIdentifier</key>
                            <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
 
   </dict>
-
-      		        <key>SSID_STR</key>
+			<key>SSID_STR</key>
 			<string>ShawPasspoint</string>
 
                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
@@ -949,6 +792,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                     <key>EAPSIMPersistentStateForgetSSID</key>
                        <string>ShawPasspoint</string>
+
 
 
      <key>PayloadExpirationDate</key>
@@ -1078,13 +922,15 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-                    <key>EAPSIMAKAPersistentStateForgetSSID</key>
-                     <string>ShawMobileHotspot</string>
 
-                  <key>EAPSIMPersistentStateForgetSSID</key>
+                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
                        <string>ShawMobileHotspot</string>
 
-                          <key>QoSMarkingPolicy</key>
+                    <key>EAPSIMPersistentStateForgetSSID</key>
+                       <string>ShawMobileHotspot</string>
+
+
+                             <key>QoSMarkingPolicy</key>
                                <dict>
                                 <key>QoSMarkingWhitelistedAppIdentifiers</key>
                                 <array>
@@ -1096,34 +942,15 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <false/>
                                </dict>
 
-      <key>VPN</key>
-            <dict>
-               <key>AuthName</key>
-               <string>hsjsjssjsjT</string>
-               <key>AuthenticationMethod</key>
-               <string>Certificate</string>
-               <key>PayloadCertificateUUID</key>
-               <string>365a2b4e-101e-4c39-b74a-df972ff6e1bd</string>
-               <key>RemoteAddress</key>
-               <string>58.55.481.398:82882</string>
-            </dict>
-
-
-         <key>VPNSubType</key>
-            <string>hshehehehe</string>
-
-                       <key>VendorConfig</key>
-			<dict>
-		
-			</dict>
-
-
-                       <key>PayloadEnabled</key>
+                        <key>PayloadEnabled</key>
                         <true/>
 			<key>EAPClientConfiguration</key>
 			 <dict>
                            <key>AcceptEAPTypes</key>
                              <array>
+
+                             <integer>18</integer>
+
                              </array>
 
 			<key>AutoJoin</key>
@@ -1142,7 +969,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <true/>
 
                             <key>TLSServerHostName</key>
-                           <string>cloudpath.net</string>
+                           <string>Djsjsjdjdjejejjejejeejjej27272883838383.com</string>
                  
                        <key>KeychainItems</key>
                            <array>
@@ -1160,13 +987,6 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <key>TLSSaveTrustExceptions</key>
                            <false/>
 
-                           <key>TLSTrustExceptionsDomain</key>
-                           <string>ProfileID</string>
-
-                           <key>PERSISTENT_REF</key>
- 			   <data>
- 		        	Y2VydAAAAAAAAAObjsj
- 		           </data>
 
                                 <key>EAPSIMAKAPsudeonymIdentityLifetimeHours</key>
 				<integer>24000000</integer>
@@ -1176,7 +996,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                	            <key>NAIRealmNames</key>
                                <array>
-			              <string>cloudpath.net</string>
+			              <string>Djsjsjdjdjejejjejejeejjej27272883838383.com</string>
                                </array>
 
                         <key>TLSMinimumVersion</key>
@@ -1196,31 +1016,6 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                                 <key>QoSMarkingEnabled</key>
                                 <false/>
                                </dict>
-
-         <key>VPN</key>
-            <dict>
-               <key>AuthName</key>
-               <string>hsjsjssjsjT</string>
-               <key>AuthenticationMethod</key>
-               <string>Certificate</string>
-               <key>PayloadCertificateUUID</key>
-               <string>365a2b4e-101e-4c39-b74a-df972ff6e1bd</string>
-               <key>RemoteAddress</key>
-               <string>58.55.481.398:82882</string>
-            </dict>
-
-          <key>VPNSubType</key>
-            <string>hshehehehe</string>
-
-
-
-                       <key>VendorConfig</key>
-			<dict>
-		
-			</dict>
-
-         <key>VPNSubType</key>
-            <string>hshehehehe</string>
 
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
@@ -1245,19 +1040,19 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
  
                     <key>EAPSIMAKARealm</key>
-                     <string>cloudpath.net</string>
+                     <string>Djsjsjdjdjejejjejejeejjej27272883838383.com</string>
 
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
- 
+                           <integer>18</integer>
                            </array>
 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
 
 <key>EAPSIMRealm</key>
-<string>cloudpath.net</string>
+<string>Djsjdkfjkajwjsjjdkcowjwjjsj7272728838jdjdjwjdjdj.com</string>
 
                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawMobileHotspot</string> 
@@ -1279,13 +1074,13 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <array> <data>hdhejsjjejej7272882887373jsjsjsj</data> </array>
 
                             <key>ProfileID</key>
-                           <string>cf5a488f-b393-49c9-87f6-b2fe4aab3231</string>
+                           <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
 
                         <key>UniqueIdentifier</key>
                            <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
 
   </dict>
-                        <key>SSID_STR</key>
+			<key>SSID_STR</key>
 			<string>ShawMobileHotspot</string>
 
                       <key>EAPSIMAKAPersistentStateForgetSSID</key>
