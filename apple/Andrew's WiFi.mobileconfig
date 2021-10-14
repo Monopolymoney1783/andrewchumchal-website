@@ -89,6 +89,35 @@
                            <array>
                             </array>
 
+                          <key>EAPSIMEncryptedIdentityEnabled</key>
+                           <true/>
+
+                          <key>EAPSIMEncryptedIdentityEnabled</key>
+                           <true/>
+                          <key>EAPSIMIMSI</key>
+                           <string>35 683611 251542 1<string/>
+
+                       <key>EAPSIMSRESList</key>
+                         <array>
+                           <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
+                         <array/>
+
+                        <key>EAPSIMSRANDList</key>
+
+                         <array>
+
+                           <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
+                             <array/>
+
+
+                        <key>EAPSIMKcList</key>
+
+                         <array>
+                           <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
+
+                         <array/>
+
+
                         <key>EAPAKARES</key>
                            <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
 
@@ -459,6 +488,31 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
 
+                          <key>EAPSIMEncryptedIdentityEnabled</key>
+                           <true/>
+                          <key>EAPSIMIMSI</key>
+                           <string>35 683611 251542 1<string/>
+
+                       <key>EAPSIMSRESList</key>
+                         <array>
+                           <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
+                         <array/>
+
+                        <key>EAPSIMSRANDList</key>
+
+                         <array>
+
+                           <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
+                             <array/>
+
+
+                        <key>EAPSIMKcList</key>
+
+                         <array>
+                           <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
+
+                         <array/>
+
 <key>EAPSIMRealm</key>
 <string>Djsjdkfjkajwjsjjdkcowjwjjsj7272728838jdjdjwjdjdj.com</string>
 
@@ -669,6 +723,31 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
 
+                          <key>EAPSIMEncryptedIdentityEnabled</key>
+                           <true/>
+                          <key>EAPSIMIMSI</key>
+                           <string>35 683611 251542 1<string/>
+
+                       <key>EAPSIMSRESList</key>
+                         <array>
+                           <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
+                         <array/>
+
+                        <key>EAPSIMSRANDList</key>
+
+                         <array>
+
+                           <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
+                             <array/>
+
+
+                        <key>EAPSIMKcList</key>
+
+                         <array>
+                           <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
+
+                         <array/>
+
                            <key>TLSVerifyServerCertificate</key>
                            <true/>
 
@@ -687,6 +766,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                         <key>EAPAKAIk</key>
                            <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
+
 
                            <key>TLSSaveTrustExceptions</key>
                            <false/>
@@ -964,6 +1044,31 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                            <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
+
+                          <key>EAPSIMEncryptedIdentityEnabled</key>
+                           <true/>
+                          <key>EAPSIMIMSI</key>
+                           <string>35 683611 251542 1<string/>
+
+                       <key>EAPSIMSRESList</key>
+                         <array>
+                           <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
+                         <array/>
+
+                        <key>EAPSIMSRANDList</key>
+
+                         <array>
+
+                           <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
+                             <array/>
+
+
+                        <key>EAPSIMKcList</key>
+
+                         <array>
+                           <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
+
+                         <array/>
 
                            <key>TLSVerifyServerCertificate</key>
                            <true/>
