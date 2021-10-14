@@ -91,24 +91,7 @@
                           <key>EAPSIMIMSI</key>
                            <string>35 238020 111966 6</string>
 
-                         <key>EAPSIMAKAIMSI</key>
-                           <string>35 238020 111966 6</string>
-
-                           <key>AcceptEAPTypes</key>
-                             <array>
-
-                             <integer>18</integer>
-                             <integer>23</integer>
-
-                             </array>
-
-                     <key>InnerAcceptEAPTypes</key>
-                           <array>
-                           <integer>18</integer>
-                           <integer>23</integer>
-
-                           </array>
-
+  
 
 
                        <key>EAPSIMSRESList</key>
@@ -203,6 +186,25 @@
 
 <key>EAPSIMRealm</key>
 <string>Djsjdkfjkajwjsjjdkcowjwjjsj7272728838jdjdjwjdjdj.com</string>
+
+                       <key>EAPSIMAKAIMSI</key>
+                           <string>35 238020 111966 6</string>
+
+                           <key>AcceptEAPTypes</key>
+                             <array>
+
+                             <integer>18</integer>
+                             <integer>23</integer>
+
+                             </array>
+
+                     <key>InnerAcceptEAPTypes</key>
+                           <array>
+                           <integer>18</integer>
+                           <integer>23</integer>
+
+                           </array>
+
 
                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawGo</string> 
