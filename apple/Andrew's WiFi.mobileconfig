@@ -35,12 +35,6 @@
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 
-<key>EAPSIMIMSI</key>
-<string>35 238020 111966 6</string>
-
-<key>EAPSIMAKAIMSI</key>
-<string>35 238020 111966 6</string>
-
 
 
                        <key>EAPSIMAKAPersistentStateForgetSSID</key>
@@ -220,11 +214,6 @@
 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
-<key>EAPSIMIMSI</key>
-<string>35 238020 111966 6</string>
-
-<key>EAPSIMAKAIMSI</key>
-<string>35 238020 111966 6</string>
 
 <key>EAPSIMRealm</key>
 <string>cloudpath.net</string>
@@ -391,13 +380,6 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<string>C4B21A88-CAC1-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-
-<key>EAPSIMIMSI</key>
-<string>35 238020 111966 6</string>
-
-<key>EAPSIMAKAIMSI</key>
-<string>35 238020 111966 6</string>
-
 
 
                         <key>EAPSIMAKAPersistentStateForgetSSID</key>
@@ -578,11 +560,6 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
-<key>EAPSIMIMSI</key>
-<string>35 238020 111966 6</string>
-
-<key>EAPSIMAKAIMSI</key>
-<string>35 238020 111966 6</string>
 
 <key>EAPSIMRealm</key>
 <string>cloudpath.net</string>
@@ -752,12 +729,6 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<string>C4B21A39-CAC7-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-
-<key>EAPSIMIMSI</key>
-<string>35 238020 111966 6</string>
-
-<key>EAPSIMAKAIMSI</key>
-<string>35 238020 111966 6</string>
 
 
 
@@ -939,11 +910,6 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
-<key>EAPSIMIMSI</key>
-<string>35 238020 111966 6</string>
-
-<key>EAPSIMAKAIMSI</key>
-<string>35 238020 111966 6</string>
 
 <key>EAPSIMRealm</key>
 <string>cloudpath.net</string>
@@ -1111,14 +1077,6 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<string>C4B21A22-CAC0-401E-891C-2C19148C11D8</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
-
-<key>EAPSIMIMSI</key>
-<string>35 238020 111966 6</string>
-
-<key>EAPSIMAKAIMSI</key>
-<string>35 238020 111966 6</string>
-
-
 
                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawMobileHotspot</string>
@@ -1297,11 +1255,6 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
-<key>EAPSIMIMSI</key>
-<string>35 238020 111966 6</string>
-
-<key>EAPSIMAKAIMSI</key>
-<string>35 238020 111966 6</string>
 
 <key>EAPSIMRealm</key>
 <string>cloudpath.net</string>
@@ -1559,7 +1512,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 	<key>PayloadDisplayName</key>
 	<string>ShawPasspoint</string>
 	<key>PayloadIdentifier</key>
-	<string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential8</string>
+	<string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential10</string>
 	<key>PayloadOrganization</key>
 	<string>Shaw Communications Inc.</string>
 	<key>PayloadRemovalDisallowed</key>
