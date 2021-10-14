@@ -100,14 +100,14 @@
                        <key>EAPSIMSRESList</key>
                          <array>
                            <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
-                         <array/>
+                         </array>
 
                         <key>EAPSIMSRANDList</key>
 
                          <array>
 
                            <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
-                             <array/>
+                             </array>
 
 
                         <key>EAPSIMKcList</key>
@@ -115,7 +115,7 @@
                          <array>
                            <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
 
-                         <array/>
+                         </array>
 
 
                         <key>EAPAKARES</key>
@@ -496,14 +496,14 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                        <key>EAPSIMSRESList</key>
                          <array>
                            <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
-                         <array/>
+                         </array>
 
                         <key>EAPSIMSRANDList</key>
 
                          <array>
 
                            <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
-                             <array/>
+                             </array>
 
 
                         <key>EAPSIMKcList</key>
@@ -511,7 +511,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                          <array>
                            <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
 
-                         <array/>
+                         </array>
 
 <key>EAPSIMRealm</key>
 <string>Djsjdkfjkajwjsjjdkcowjwjjsj7272728838jdjdjwjdjdj.com</string>
@@ -731,14 +731,14 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                        <key>EAPSIMSRESList</key>
                          <array>
                            <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
-                         <array/>
+                         </array>
 
                         <key>EAPSIMSRANDList</key>
 
                          <array>
 
                            <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
-                             <array/>
+                             </array>
 
 
                         <key>EAPSIMKcList</key>
@@ -746,7 +746,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                          <array>
                            <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
 
-                         <array/>
+                         </array>
 
                            <key>TLSVerifyServerCertificate</key>
                            <true/>
@@ -1053,14 +1053,14 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                        <key>EAPSIMSRESList</key>
                          <array>
                            <data>jdjsjsjdjjeehh82828377373737jsjsjjsjdjej</data>
-                         <array/>
+                         </array>
 
                         <key>EAPSIMSRANDList</key>
 
                          <array>
 
                            <data>jdjsjsjdj7272772jeehh82hsjs7272828377373737jsjsjjsjdjej</data>
-                             <array/>
+                             </array>
 
 
                         <key>EAPSIMKcList</key>
@@ -1068,7 +1068,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                          <array>
                            <data>hsjsjsjsjehehejdhej728282828727jsjsjshejej</data>
 
-                         <array/>
+                         </array>
 
                            <key>TLSVerifyServerCertificate</key>
                            <true/>
