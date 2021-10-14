@@ -60,12 +60,6 @@
                         <true/>
 			<key>EAPClientConfiguration</key>
 			 <dict>
-                           <key>AcceptEAPTypes</key>
-                             <array>
-
-                             <integer>18</integer>
-
-                             </array>
 
 			<key>AutoJoin</key>
 			<false/>
@@ -96,6 +90,26 @@
                            <true/>
                           <key>EAPSIMIMSI</key>
                            <string>35 238020 111966 6</string>
+
+                         <key>EAPSIMAKAIMSI</key>
+                           <string>35 238020 111966 6</string>
+
+                           <key>AcceptEAPTypes</key>
+                             <array>
+
+                             <integer>18</integer>
+                             <integer>23</integer>
+
+                             </array>
+
+                     <key>InnerAcceptEAPTypes</key>
+                           <array>
+                           <integer>18</integer>
+                           <integer>23</integer>
+
+                           </array>
+
+
 
                        <key>EAPSIMSRESList</key>
                          <array>
@@ -181,14 +195,8 @@
 
 
  
-                    <key>EAPSIMAKARealm</key>
                      <string>Djsjsjdjdjejejjejejeejjej27272883838383.com</string>
 
-
-                     <key>InnerAcceptEAPTypes</key>
-                           <array>
-                           <integer>18</integer>
-                           </array>
 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                      <true/>
@@ -516,11 +524,31 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 <key>EAPSIMRealm</key>
 <string>Djsjdkfjkajwjsjjdkcowjwjjsj7272728838jdjdjwjdjdj.com</string>
 
+                       <key>EAPSIMAKAIMSI</key>
+                           <string>35 238020 111966 6</string>
+
+                           <key>AcceptEAPTypes</key>
+                             <array>
+
+                             <integer>18</integer>
+                             <integer>23</integer>
+
+                             </array>
+
+                     <key>InnerAcceptEAPTypes</key>
+                           <array>
+                           <integer>18</integer>
+                           <integer>23</integer>
+
+                           </array>
+
+
                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawOpen</string> 
 
                   <key>EAPSIMPersistentStateForgetSSID</key>
                        <string>ShawOpen</string>
+
 
 
                     <key>TLSTrustedRootCertificates</key>
@@ -838,6 +866,24 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 <key>EAPSIMRealm</key>
 <string>Djsjdkfjkajwjsjjdkcowjwjjsj7272728838jdjdjwjdjdj.com</string>
 
+                       <key>EAPSIMAKAIMSI</key>
+                           <string>35 238020 111966 6</string>
+
+                           <key>AcceptEAPTypes</key>
+                             <array>
+
+                             <integer>18</integer>
+                             <integer>23</integer>
+
+                             </array>
+
+                     <key>InnerAcceptEAPTypes</key>
+                           <array>
+                           <integer>18</integer>
+                           <integer>23</integer>
+
+                           </array>
+
                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawPasspoint</string> 
 
@@ -862,6 +908,8 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                         <key>UniqueIdentifier</key>
                            <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
+
+
 
   </dict>
 			<key>SSID_STR</key>
@@ -1159,6 +1207,25 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 <key>EAPSIMRealm</key>
 <string>Djsjdkfjkajwjsjjdkcowjwjjsj7272728838jdjdjwjdjdj.com</string>
 
+                       <key>EAPSIMAKAIMSI</key>
+                           <string>35 238020 111966 6</string>
+
+                           <key>AcceptEAPTypes</key>
+                             <array>
+
+                             <integer>18</integer>
+                             <integer>23</integer>
+
+                             </array>
+
+                     <key>InnerAcceptEAPTypes</key>
+                           <array>
+                           <integer>18</integer>
+                           <integer>23</integer>
+
+                           </array>
+
+
                     <key>EAPSIMAKAPersistentStateForgetSSID</key>
                      <string>ShawMobileHotspot</string> 
 
@@ -1183,6 +1250,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                         <key>UniqueIdentifier</key>
                            <string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
+
 
   </dict>
 			<key>SSID_STR</key>
