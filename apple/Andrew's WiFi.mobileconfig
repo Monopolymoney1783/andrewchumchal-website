@@ -1524,6 +1524,10 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 
+<?xml version="1.0" encoding="UTF-8"?>
+	<key>com.apple.developer.networking.HotspotConfiguration</key>
+	<false/>
+
         <key>PayloadEnabled</key>
         <true/>
 
