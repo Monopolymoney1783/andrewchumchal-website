@@ -40,7 +40,7 @@
 	<key>PayloadIdentifier</key>
 	<string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential</string>
 	<key>PayloadOrganization</key>
-	<string>Shaw Communications Inc.</string>
+	<string></string>
 	<key>PayloadRemovalDisallowed</key>
 	<true/>
 	<key>PayloadType</key>
