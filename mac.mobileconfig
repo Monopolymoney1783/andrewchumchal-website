@@ -18,17 +18,29 @@
                 <key>syncLocalPassword</key>
                 <false/>
                 <key>useSiteAutoDiscovery</key>
-                <false/>
+                <true/>
 
                 <key>credentialBundleIdACL</key>
                 <array>
-                </array>
+
+<string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential</string>
+
+                </array> 
+               <key>cacheName</key>
+                <string>domainRealmMapping</string>
+
+                <key>cacheName</key>
+                <string>jsjsjsjdjsjjsjsjsjsj</string>
+                <key>pwChangeURL<key>
+                <string>https://www.hsjsjsjdjsjsj.hsusjsjdjsjjsjsjsjj7182828822828.com</string>
 
 
                 <key>includeManagedAppsInBundleIdACL</key>
-                <false/>
+                <true/>
           <key>monitorCredentialsCache</key>
-                <false/> 
+                <true/>
+          <key>requireTLSForLDAP</key>
+                <true/>
          <key>certificateUUID</key>
                 <string>b76a4130-9c0c-433a-a051-1e85f211c72a</string>
 
@@ -40,10 +52,6 @@
                <string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential</string>
 
 <string>592C0700CB1E2BA4A490899CB3407807</string>
-
-<string>com.apple.mobilesafari</string>
-
-               <string>hotspot.wifi.shaw.ca</string>
 
 <string>ca.shaw.ios.selfserve</string>	
  	<string>ca.shaw.homewifi</string>
