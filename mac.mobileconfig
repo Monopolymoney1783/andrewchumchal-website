@@ -30,10 +30,19 @@
 	<string>mac</string>
 	<key>PayloadOrganization</key>
 	<string>Djsjsjjdj</string>
-	<key>jajajjsjds</key>
+	<key>PayloadRemovalDisallowed</key>
 	<true/>
+
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	
+
 	<key>PayloadUUID</key>
 	<string>592C0767-CB1E-2BH6-A455-899CB3407866</string>
+
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+
 
 </dict>
 </plist>
