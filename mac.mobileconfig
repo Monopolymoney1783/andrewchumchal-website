@@ -10,7 +10,7 @@
                 <key>allowAutomaticLogin</key>
                 <false/>
                 <key>isDefaultRealm</key>
-                <false/>
+                <true/>
                 <key>pwNotificationDays</key>
                 <integer>15</integer>
                 <key>requireUserPresence</key>
@@ -19,6 +19,18 @@
                 <false/>
                 <key>useSiteAutoDiscovery</key>
                 <false/>
+
+                <key>credentialBundleIdACL</key>
+                <array>
+                </array>
+
+                <key>includeManagedAppsInBundleIdACL</key>
+                <false/>
+          <key>monitorCredentialsCache</key>
+                <false/> 
+         <key>certificateUUID</key>
+                <string>b76a4130-9c0c-433a-a051-1e85f211c72a</string>
+
             </dict>
             <key>ExtensionIdentifier</key>
             <string>com.apple.AppSSOKerberos.KerberosExtension</string>
