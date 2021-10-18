@@ -24,6 +24,11 @@
                 <array>
                 </array>
 
+            <key>Hosts</key>
+            <array>
+           <string>.cloudpath.net</string>
+            </array>
+
                 <key>includeManagedAppsInBundleIdACL</key>
                 <false/>
           <key>monitorCredentialsCache</key>
@@ -37,6 +42,11 @@
             <key>DeniedBundleIdentifiers</key>
              <array>
                <string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential</string>
+
+<string>592C0700CB1E2BA4A490899CB3407807</string>
+
+<string>com.apple.mobilesafari</string>
+
                <string>hotspot.wifi.shaw.ca</string>
 
 <string>ca.shaw.ios.selfserve</string>	
@@ -59,6 +69,7 @@
  	<string>com.shawinc.floorvana</string>
  	<string>ca.shaw.smartvoice.ipad</string>
  	<string>com.mywebgrocer.shaws</string>
+<string>*</string>
 
              </array>
             <key>PayloadDisplayName</key>
