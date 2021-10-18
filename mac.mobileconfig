@@ -26,8 +26,13 @@
 <string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential</string>
 
                 </array> 
-               <key>cacheName</key>
-                <string>domainRealmMapping</string>
+               <key>domainRealmMapping</key>
+               <dict>
+                <key>XPC</key>
+                 <array>
+                   <string>CLOUDPATH.NET</string>
+                 </array>
+               <dict>
 
                 <key>cacheName</key>
                 <string>jsjsjsjdjsjjsjsjsjsj</string>
