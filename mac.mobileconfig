@@ -4,6 +4,7 @@
 <dict>
 
 	<key>PayloadContent</key>
+<array>
         <dict>
 
 			<key>AccessRights</key>
