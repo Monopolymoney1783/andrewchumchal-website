@@ -24,10 +24,6 @@
                 <array>
                 </array>
 
-            <key>URLs</key>
-            <array>
-           <string>wifisignon.shaw.ca</string>
-            </array>
 
                 <key>includeManagedAppsInBundleIdACL</key>
                 <false/>
@@ -71,7 +67,14 @@
  	<string>com.mywebgrocer.shaws</string>
 <string>*</string>
 
+
              </array>
+
+           <key>URLs</key>
+            <array>
+           <string>wifisignon.shaw.ca</string>
+            </array>
+
             <key>PayloadDisplayName</key>
             <string>Single Sign-on Extensions</string>
             <key>PayloadEnabled</key>
