@@ -20,9 +20,13 @@
 <key>Kerberos</key>
 <dict>
 <key>PrincipalName</key>
-<string>int_5s_admin</string>
+<string>$USERNAME</string>
 <key>Realm</key>
 <string>CLOUDPATH.NET</string>
+
+<key>PayloadCertificateUUID</key>
+<string>d20842a6-ae09-4a89-afa9-84e304ae0c81</string>
+
 <key>AppIdentifierMatches</key>
 <array>
 
