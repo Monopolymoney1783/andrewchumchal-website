@@ -6,60 +6,34 @@
 	<key>PayloadContent</key>
 <array>
         <dict>
-
-			<key>AccessRights</key>
-			<integer>1</integer>
-
-	<key>PayloadDisplayName</key>
-	<string>ShawPasspoint</string>
+<key>PayloadDisplayName</key>
+	<string>jsksjsjsjsjjs</string>
 	<key>PayloadIdentifier</key>
-	<string>djjsjsjdhdjejwjqjwjbdbfnfjejqhshhs.djdjjejwhssh</string>
+	<string>mac</string>
 	<key>PayloadOrganization</key>
-	<string>Shaw Communications Inc.</string>
-	<key>PayloadRemovalDisallowed</key>
-	<true/>
+	<string>H</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>592C0707-CB1E-2BA4-A490-899CB3407804</string>
+	<string>565G7888-CB1E-2BA4-A490-899CB3407804</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
-
-        <key>PayloadEnabled</key>
-        <false/>
-
-        <key>PayloadExpirationDate</key>
-        <date>2099-06-16T08:15:09Z</date>
 
 </dict>
 
 
 </array>
 
-			<key>AccessRights</key>
-			<integer>1</integer>
-
 	<key>PayloadDisplayName</key>
-	<string>ShawPasspoint</string>
+	<string>mac</string>
 	<key>PayloadIdentifier</key>
-	<string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential</string>
+	<string>mac</string>
 	<key>PayloadOrganization</key>
-	<string>Shaw Communications Inc.</string>
-	<key>PayloadRemovalDisallowed</key>
-	<false/>
-	<key>PayloadType</key>
-	<string>Configuration</string>
+	<string>Djsjsjjdj</string>
+	<key>jajajjsjds</key>
+	<true/>
 	<key>PayloadUUID</key>
-	<string>592C0700-CB1E-2BA4-A490-899CB3407804</string>
-	<key>PayloadVersion</key>
-	<integer>1</integer>
-
-        <key>PayloadEnabled</key>
-        <false/>
-
-        <key>PayloadExpirationDate</key>
-        <date>2099-06-16T08:15:09Z</date>
-
+	<string>592C0767-CB1E-2BH6-A455-899CB3407866</string>
 
 </dict>
 </plist>
