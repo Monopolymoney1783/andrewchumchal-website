@@ -1,74 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple/DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-<key>PayloadContent</key>
-<array>
-<dict>
-<key>PayloadDisplayName</key>
-<string>mycompany SSO Settings</string>
-<key>PayloadType</key>
-<string>com.apple.sso</string>
-<key>PayloadVersion</key>
-<integer>1</integer>
-<key>PayloadUUID</key>
-<string>933063A4-DEBC-4CC3-B3A8-EC37C1610D6E</string>
-<key>PayloadIdentifier</key>
-<string>com.mycompany.l4-dc.sso</string>
-<key>Name</key>
-<string>L4-DC Domain</string>
-<key>Kerberos</key>
-<dict>
-<key>PrincipalName</key>
-<string>int_5s_admin</string>
-<key>Realm</key>
-<string>l4sjjsjsjj7282828282772jjsjsjejeje728288228jsjejejsj7282882282jsjsjsc.com</string>
-<key>URLPrefixMatches</key>
-<array>
-<string>http://ix-2k12r2-727828827272728jsjsjsweb.l4-dc.com/</string>
-</array>
-<key>AppIdentifierMatches</key>
-<array>
-
-	<string>ca.shaw.ios.selfserve</string>	
-	<string>ca.shaw.homewifi</string>
-	<string>ca.shaw.freerangetv</string>
-	<string>ca.shaw.shawexowifi</string>
-	<string>ca.shaw.shawgogateway</string>	
-	<string>com.shawacademy.app</string>
-	<string>com.telus.mywifi</string>
-	<string>com.choosit.smoove</string>
-	<string>com.ca.shawmobile.devicecare</string>
-	<string>ca.shaw.smartvoice.iphone</string>	
-	<string>com.xcodium.transponders</string>
-	<string>org.reactjs.native.shaw.iprelay</string>
-	<string>com.shawinc.shawnow</string>
-	<string>com.targetawards.shawcts</string>	
-	<string>com.ca.freedommobile.devicecare</string>
-	<string>com.ShawFitness.app</string>	
-	<string>ca.gshaw.iDefibrillate</string>
-	<string>com.shawinc.floorvana</string>
-	<string>ca.shaw.smartvoice.ipad</string>
-	<string>com.mywebgrocer.shaws</string>
-
-<string>com.apple.mobilesafari</string>
-</array>
-</dict>
-</dict>
-</array>
-<key>PayloadOrganization</key>
-<string>mycompany</string>
-<key>PayloadDisplayName</key>
-<string>SSO for mycompany</string>
-<key>PayloadVersion</key>
-<integer>1</integer>
-<key>PayloadUUID</key>
-<string>70752C93-582B-4B82-AA18-BCE31C39BD75</string>
-<key>PayloadIdentifier</key>
-<string>com.mycompany.l4-dc.sso.profile</string>
-<key>PayloadDescription</key>
-<string>mycompany SSO Configuration profile</string>
-<key>PayloadType</key>
-<string>Configuration</string>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>ExtensionData</key>
+            <dict>
+                <key>allowAutomaticLogin</key>
+                <false/>
+                <key>isDefaultRealm</key>
+                <false/>
+                <key>pwNotificationDays</key>
+                <integer>15</integer>
+                <key>requireUserPresence</key>
+                <false/>
+                <key>syncLocalPassword</key>
+                <false/>
+                <key>useSiteAutoDiscovery</key>
+                <false/>
+            </dict>
+            <key>ExtensionIdentifier</key>
+            <string>ca.shaw.shawexowifi</string>
+            <key>Hosts</key>
+            <array>
+                <string>jsssjsjsjuauahwh727288282.jajajsjsjjssjjs.com</string>
+            </array>
+            <key>PayloadDisplayName</key>
+            <string>Single Sign-on Extensions</string>
+            <key>PayloadEnabled</key>
+            <true/>
+            <key>PayloadIdentifier</key>
+            <string>com.apple.mdm.test.local.af517dc0-7353-0137-3524-3a008d11ab01.alacarte.single-sign-on-extension.79757090-7354-0137-3525-3a008d11ab01</string>
+            <key>PayloadType</key>
+            <string>com.apple.extensiblesso</string>
+            <key>PayloadUUID</key>
+            <string>79757090-7354-0137-3525-3a008d11ab01</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>Realm</key>
+            <string>nsjdheddhh7288282822737jsjjdjdndbdbdb7277272722.COM</string>
+            <key>TeamIdentifier</key>
+            <string>apple</string>
+            <key>Type</key>
+            <string>Credential</string>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>Kerberos SSO</string>
+    <key>PayloadIdentifier</key>
+    <string>com.apple.mdm.RJLmpb.local.af517dc0-7353-0137-3524-3a008d11ab01.alacarte</string>
+    <key>PayloadOrganization</key>
+    <string>Apple</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false/>
+    <key>PayloadScope</key>
+    <string>System</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>af517dc0-7353-0137-3524-3a008d11ab01</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
 </dict>
 </plist>
