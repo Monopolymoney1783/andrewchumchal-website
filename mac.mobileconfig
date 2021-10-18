@@ -21,10 +21,37 @@
                 <false/>
             </dict>
             <key>ExtensionIdentifier</key>
-            <string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential</string>
+            <string>com.apple.AppSSOKerberos.KerberosExtension</string>
+            <key>DeniedBundleIdentifiers</key>
+             <array>
+               <string>592C0700CB1E2BA4A490899CB3407807.cloudpath.net.credential</string>
+               <string>hotspot.wifi.shaw.ca</string>
+
+<string>ca.shaw.ios.selfserve</string>	
+ 	<string>ca.shaw.homewifi</string>
+ 	<string>ca.shaw.freerangetv</string>
+ 	<string>ca.shaw.shawexowifi</string>
+ 	<string>ca.shaw.shawgogateway</string>	
+ 	<string>com.shawacademy.app</string>
+ 	<string>com.telus.mywifi</string>
+ 	<string>com.choosit.smoove</string>
+ 	<string>com.ca.shawmobile.devicecare</string>
+ 	<string>ca.shaw.smartvoice.iphone</string>	
+ 	<string>com.xcodium.transponders</string>
+ 	<string>org.reactjs.native.shaw.iprelay</string>
+ 	<string>com.shawinc.shawnow</string>
+ 	<string>com.targetawards.shawcts</string>	
+ 	<string>com.ca.freedommobile.devicecare</string>
+ 	<string>com.ShawFitness.app</string>	
+ 	<string>ca.gshaw.iDefibrillate</string>
+ 	<string>com.shawinc.floorvana</string>
+ 	<string>ca.shaw.smartvoice.ipad</string>
+ 	<string>com.mywebgrocer.shaws</string>
+
+             </array>
             <key>Hosts</key>
             <array>
-                <string>jsssjsjsjuauahwh727288282.jajajsjsjjssjjs.com</string>
+                <string>cloudpath.net</string>
             </array>
             <key>PayloadDisplayName</key>
             <string>Single Sign-on Extensions</string>
@@ -39,7 +66,7 @@
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>Realm</key>
-            <string>nsjdheddhh7288282822737jsjjdjdndbdbdb7277272722.COM</string>
+            <string>cloudpath.net</string>
             <key>TeamIdentifier</key>
             <string>apple</string>
             <key>Type</key>
