@@ -77,11 +77,11 @@
             <key>PayloadEnabled</key>
             <true/>
             <key>PayloadIdentifier</key>
-            <string>com.apple.mdm.test.local.af517dc0-7353-0137-3524-3a008d11ab01.alacarte.single-sign-on-extension.79757090-7354-0137-3525-3a008d11ab01</string>
+            <string>com.apple.mdm.test.local.af517dc7-7353-0137-3524-3a008d11ab01.alacarte.single-sign-on-extension.79757097-7354-0137-3525-3a008d11ab01</string>
             <key>PayloadType</key>
             <string>com.apple.extensiblesso</string>
             <key>PayloadUUID</key>
-            <string>79757090-7354-0137-3525-3a008d11ab01</string>
+            <string>79757097-7354-0137-3525-3a008d11ab01</string>
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>Realm</key>
@@ -95,7 +95,7 @@
     <key>PayloadDisplayName</key>
     <string>Kerberos SSO</string>
     <key>PayloadIdentifier</key>
-    <string>com.apple.mdm.RJLmpb.local.af517dc0-7353-0137-3524-3a008d11ab01.alacarte</string>
+    <string>com.apple.mdm.RJLmpb.local.af517dc7-7353-0137-3524-3a008d11ab01.alacarte</string>
     <key>PayloadOrganization</key>
     <string>Apple</string>
     <key>PayloadRemovalDisallowed</key>
@@ -105,7 +105,7 @@
     <key>PayloadType</key>
     <string>Configuration</string>
     <key>PayloadUUID</key>
-    <string>af517dc0-7353-0137-3524-3a008d11ab01</string>
+    <string>af517dc7-7353-0137-3524-3a008d11ab01</string>
     <key>PayloadVersion</key>
     <integer>1</integer>
 </dict>
