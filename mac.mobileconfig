@@ -49,10 +49,6 @@
  	<string>com.mywebgrocer.shaws</string>
 
              </array>
-            <key>Hosts</key>
-            <array>
-                <string>cloudpath.net</string>
-            </array>
             <key>PayloadDisplayName</key>
             <string>Single Sign-on Extensions</string>
             <key>PayloadEnabled</key>
