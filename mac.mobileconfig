@@ -24,9 +24,9 @@
                 <array>
                 </array>
 
-            <key>Hosts</key>
+            <key>URLs</key>
             <array>
-           <string>.cloudpath.net</string>
+           <string>wifisignon.shaw.ca</string>
             </array>
 
                 <key>includeManagedAppsInBundleIdACL</key>
@@ -85,11 +85,11 @@
             <key>PayloadVersion</key>
             <integer>1</integer>
             <key>Realm</key>
-            <string>cloudpath.net</string>
+            <string>CLOUDPATH.NET</string>
             <key>TeamIdentifier</key>
             <string>apple</string>
             <key>Type</key>
-            <string>Credential</string>
+            <string>Redirect</string>
         </dict>
     </array>
     <key>PayloadDisplayName</key>
