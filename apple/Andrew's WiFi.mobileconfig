@@ -18,7 +18,7 @@
 			<false/>
 
 		<key>ProxyCaptiveLoginAllowed</key>
-			<false/>
+			<true/>
                         <key>EncryptionType</key>
                          <string>None</string>
 
@@ -74,7 +74,7 @@
 			<false/>
 
 		<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 
 
 
@@ -169,7 +169,7 @@
                            <false/>
 
                           <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <false/>
+                           <true/>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
@@ -382,7 +382,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<false/>
 
 		<key>ProxyCaptiveLoginAllowed</key>
-			<false/>
+			<true/>
 
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
@@ -442,7 +442,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<false/>
 
 		<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 
 		<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
@@ -507,8 +507,8 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                           <key>TLSAllowTrustExceptions</key>
                            <false/>
 
-                          <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <false/>
+                            <key>SaveCredentialsOnSuccessfulAuthentication</key>
+                           <true/>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
@@ -764,7 +764,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<false/>
 
 		<key>ProxyCaptiveLoginAllowed</key>
-			<false/>
+			<true/>
 
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
@@ -832,7 +832,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<false/>
 
 		<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 
 		<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
@@ -922,7 +922,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <false/>
 
                           <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <false/>
+                           <true/>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
@@ -1155,7 +1155,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
 
 		<key>ProxyCaptiveLoginAllowed</key>
-			<false/>
+			<true/>
 
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
@@ -1224,7 +1224,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<false/>
 
 		<key>CaptiveBypass</key>
-			<true/>
+			<false/>
 
 		<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
@@ -1312,7 +1312,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                            <false/>
 
                           <key>SaveCredentialsOnSuccessfulAuthentication</key>
-                           <false/>
+                           <true/>
 
                           <key>TLSEnableSessionResumption</key>
                            <false/>
