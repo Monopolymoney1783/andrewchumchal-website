@@ -58,14 +58,25 @@
 
                         <key>PayloadEnabled</key>
                         <true/>
+
+                     <key>SetupModes</key>
+			<string>Loginwindow</string>
+
+      <key>SystemModeCredentialsSource</key>
+			<string>Jejejejejejjejejrjh727283</string>
+
 			<key>EAPClientConfiguration</key>
 			 <dict>
+             <key>SystemModeCredentialsSource</key>
+			<string>Jejejejejejjejejrjh727283</string>
 
 			<key>AutoJoin</key>
 			<false/>
 
 		<key>CaptiveBypass</key>
 			<true/>
+
+
 
 		<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
@@ -89,7 +100,7 @@
                           <key>EAPSIMEncryptedIdentityEnabled</key>
                            <true/>
                           <key>EAPSIMIMSI</key>
-                           <string>35 683611 251542 1</string>
+                           <string>32818828484865516673</string>
 
 
                        <key>EAPSIMSRESList</key>
@@ -187,20 +198,38 @@
 <string>Djsjdkfjkajwjsjjdkcowjwjjsj7272728838jdjdjwjdjdj.com</string>
 
                        <key>EAPSIMAKAIMSI</key>
-                           <string>35 683611 251542 1</string>
+                           <string>359198171771772773331</string>
 
                            <key>AcceptEAPTypes</key>
                              <array>
 
-                             <integer>18</integer>
-                             <integer>23</integer>
+                              <integer>13</integer>
+
+                           <integer>17</integer>
+
+                           <integer>21</integer>
+
+                           <integer>18</integer>
+                           <integer>23</integer>
+
+                          <integer>25</integer>
+                          <integer>43</integer>
 
                              </array>
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
+                         <integer>13</integer>
+
+                           <integer>17</integer>
+
+                           <integer>21</integer>
+
                            <integer>18</integer>
                            <integer>23</integer>
+
+                          <integer>25</integer>
+                          <integer>43</integer>
 
                            </array>
 
@@ -390,8 +419,18 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                         <key>PayloadEnabled</key>
                         <true/>
+
+                       <key>SetupModes</key>
+			<string>Loginwindow</string>
+
+      <key>SystemModeCredentialsSource</key>
+			<string>Jejejejejejjejejrjh727283</string>
+
 			<key>EAPClientConfiguration</key>
 			 <dict>
+             <key>SystemModeCredentialsSource</key>
+			<string>Jejejejejejjejejrjh727283</string>
+
                            <key>AcceptEAPTypes</key>
                              <array>
 
@@ -407,6 +446,8 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
 		<key>ProxyCaptiveLoginAllowed</key>
 			<true/>
+
+
 
                            <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
@@ -491,7 +532,17 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
+                                                  <integer>13</integer>
+
+                           <integer>17</integer>
+
+                           <integer>21</integer>
+
                            <integer>18</integer>
+                           <integer>23</integer>
+
+                          <integer>25</integer>
+                          <integer>43</integer>
                            </array>
 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
@@ -500,7 +551,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                           <key>EAPSIMEncryptedIdentityEnabled</key>
                            <true/>
                           <key>EAPSIMIMSI</key>
-                           <string>35 683611 251542 1</string>
+                           <string>31919828373282888481</string>
 
                        <key>EAPSIMSRESList</key>
                          <array>
@@ -526,20 +577,39 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 <string>Djsjdkfjkajwjsjjdkcowjwjjsj7272728838jdjdjwjdjdj.com</string>
 
                        <key>EAPSIMAKAIMSI</key>
-                           <string>35 683611 251542 1</string>
+                           <string>35728282782837</string>
 
                            <key>AcceptEAPTypes</key>
                              <array>
 
-                             <integer>18</integer>
-                             <integer>23</integer>
+                        <integer>13</integer>
+
+                           <integer>17</integer>
+
+                           <integer>21</integer>
+
+                           <integer>18</integer>
+                           <integer>23</integer>
+
+                          <integer>25</integer>
+                          <integer>43</integer>
 
                              </array>
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
+
+                          <integer>13</integer>
+
+                           <integer>17</integer>
+
+                           <integer>21</integer>
+
                            <integer>18</integer>
                            <integer>23</integer>
+
+                          <integer>25</integer>
+                          <integer>43</integer>
 
                            </array>
 
@@ -731,12 +801,30 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                         <key>PayloadEnabled</key>
                         <true/>
+                     <key>SetupModes</key>
+			<string>Loginwindow</string>
+
+      <key>SystemModeCredentialsSource</key>
+			<string>Jejejejejejjejejrjh727283</string>
+
 			<key>EAPClientConfiguration</key>
 			 <dict>
+             <key>SystemModeCredentialsSource</key>
+			<string>Jejejejejejjejejrjh727283</string>
                            <key>AcceptEAPTypes</key>
                              <array>
 
-                             <integer>18</integer>
+                                                     <integer>13</integer>
+
+                           <integer>17</integer>
+
+                           <integer>21</integer>
+
+                           <integer>18</integer>
+                           <integer>23</integer>
+
+                          <integer>25</integer>
+                          <integer>43</integer>
 
                              </array>
 
@@ -755,7 +843,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
                           <key>EAPSIMEncryptedIdentityEnabled</key>
                            <true/>
                           <key>EAPSIMIMSI</key>
-                           <string>35 683611 251542 1</string>
+                           <string>27727373727178828</string>
 
                        <key>EAPSIMSRESList</key>
                          <array>
@@ -858,7 +946,17 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
+                            <integer>13</integer>
+
+                           <integer>17</integer>
+
+                           <integer>21</integer>
+
                            <integer>18</integer>
+                           <integer>23</integer>
+
+                          <integer>25</integer>
+                          <integer>43</integer>
                            </array>
 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
@@ -868,20 +966,41 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 <string>Djsjdkfjkajwjsjjdkcowjwjjsj7272728838jdjdjwjdjdj.com</string>
 
                        <key>EAPSIMAKAIMSI</key>
-                           <string>35 683611 251542 1</string>
+                           <string>188182848482177173</string>
 
                            <key>AcceptEAPTypes</key>
                              <array>
 
-                             <integer>18</integer>
-                             <integer>23</integer>
+                              <integer>13</integer>
+
+                           <integer>17</integer>
+
+                           <integer>21</integer>
+
+                           <integer>18</integer>
+                           <integer>23</integer>
+
+                          <integer>25</integer>
+                          <integer>43</integer>
+
 
                              </array>
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
+                                  <integer>13</integer>
+
+                           <integer>17</integer>
+
+                           <integer>21</integer>
+
                            <integer>18</integer>
                            <integer>23</integer>
+
+                          <integer>25</integer>
+                          <integer>43</integer>
+
+               
 
                            </array>
 
@@ -1073,12 +1192,31 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                         <key>PayloadEnabled</key>
                         <true/>
+                     <key>SetupModes</key>
+			<string>Loginwindow</string>
+
+      <key>SystemModeCredentialsSource</key>
+			<string>Jejejejejejjejejrjh727283</string>
+
 			<key>EAPClientConfiguration</key>
 			 <dict>
+             <key>SystemModeCredentialsSource</key>
+			<string>Jejejejejejjejejrjh727283</string>
                            <key>AcceptEAPTypes</key>
                              <array>
 
-                             <integer>18</integer>
+                          <integer>13</integer>
+
+                           <integer>17</integer>
+
+                           <integer>21</integer>
+
+                           <integer>18</integer>
+                           <integer>23</integer>
+
+                          <integer>25</integer>
+                          <integer>43</integer>
+
 
                              </array>
 
@@ -1096,8 +1234,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                           <key>EAPSIMEncryptedIdentityEnabled</key>
                            <true/>
-                          <key>EAPSIMIMSI</key>
-                           <string>35 683611 251542 1</string>
+
 
                        <key>EAPSIMSRESList</key>
                          <array>
@@ -1199,7 +1336,17 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
+                           <integer>13</integer>
+
+                           <integer>17</integer>
+
+                           <integer>21</integer>
+
                            <integer>18</integer>
+                           <integer>23</integer>
+
+                          <integer>25</integer>
+                          <integer>43</integer>
                            </array>
 
                      <key>EAPSIMAKAEncryptedIdentityEnabled</key>
@@ -1209,20 +1356,39 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 <string>Djsjdkfjkajwjsjjdkcowjwjjsj7272728838jdjdjwjdjdj.com</string>
 
                        <key>EAPSIMAKAIMSI</key>
-                           <string>35 683611 251542 1</string>
+                           <string>8182828281888181228487431</string>
 
                            <key>AcceptEAPTypes</key>
                              <array>
 
-                             <integer>18</integer>
-                             <integer>23</integer>
+             <integer>13</integer>
+
+                           <integer>17</integer>
+
+                           <integer>21</integer>
+
+                           <integer>18</integer>
+                           <integer>23</integer>
+
+                          <integer>25</integer>
+                          <integer>43</integer>
 
                              </array>
 
                      <key>InnerAcceptEAPTypes</key>
                            <array>
+                  <integer>13</integer>
+
+                           <integer>17</integer>
+
+                           <integer>21</integer>
+
                            <integer>18</integer>
                            <integer>23</integer>
+
+                          <integer>25</integer>
+                          <integer>43</integer>
+
 
                            </array>
 
