@@ -18,7 +18,7 @@
 			<false/>
 
 		<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
+			<false/>
                         <key>EncryptionType</key>
                          <string>None</string>
 
@@ -79,7 +79,7 @@
 
 
 		<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
+			<false/>
 
                            <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
@@ -382,7 +382,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<false/>
 
 		<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
+			<false/>
 
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
@@ -445,7 +445,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<false/>
 
 		<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
+			<false/>
 
 
 
@@ -764,7 +764,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<false/>
 
 		<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
+			<false/>
 
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
@@ -835,7 +835,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<false/>
 
 		<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
+			<false/>
 
                            <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
@@ -1155,7 +1155,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 
 
 		<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
+			<false/>
 
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
@@ -1227,7 +1227,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<false/>
 
 		<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
+			<false/>
 
                            <key>EAPSIMAKAEncryptedIdentityEnabled</key>
                            <true/>
