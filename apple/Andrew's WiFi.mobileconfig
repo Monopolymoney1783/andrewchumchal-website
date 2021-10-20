@@ -18,7 +18,7 @@
 			<false/>
 
 		<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
+			<false/>
                         <key>EncryptionType</key>
                          <string>None</string>
 
@@ -382,7 +382,7 @@ iQMKtvxy/trWgooiOUwzL9Mj1p7S2RHMD/qSGGJ1MFvGaazy40NE/R9sjpQ=
 			<false/>
 
 		<key>ProxyCaptiveLoginAllowed</key>
-			<true/>
+			<false/>
 
 			<key>PayloadDescription</key>
 			<string>Configures Wi-Fi settings</string>
