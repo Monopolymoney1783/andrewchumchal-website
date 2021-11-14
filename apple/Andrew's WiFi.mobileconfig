@@ -34,7 +34,7 @@
                         <false/>
 			</dict>
 			<key>ProxyCaptiveLoginAllowed</key>
-			<true>
+			<true/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>TLSTrustedServerNames</key>
@@ -141,7 +141,7 @@
                         <false/>
 			</dict>
 			<key>ProxyCaptiveLoginAllowed</key>
-			<true>
+			<true/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>TLSTrustedServerNames</key>
@@ -248,7 +248,7 @@
                         <false/>
 			</dict>
 			<key>ProxyCaptiveLoginAllowed</key>
-			<true>
+			<true/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>TLSTrustedServerNames</key>
@@ -300,7 +300,7 @@
                         <false/>
 			</dict>
 			<key>ProxyCaptiveLoginAllowed</key>
-			<true>
+			<true/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>TLSTrustedServerNames</key>
