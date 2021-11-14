@@ -26,10 +26,15 @@
                                <array>
 			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
                                </array>
+			<key>QoSMarkingPolicy</key>
+			<dict>
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+			</dict>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<true>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>TLSTrustedServerNames</key>
@@ -128,10 +133,15 @@
                                <array>
 			              <string>fmjfndnnamakiuyshbwnbbgnjcj3747818.com</string>
                                </array>
+			<key>QoSMarkingPolicy</key>
+			<dict>
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+			</dict>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<true>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>TLSTrustedServerNames</key>
@@ -230,10 +240,15 @@
                         <string>true</string>
 
 
+			<key>QoSMarkingPolicy</key>
+			<dict>
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+			</dict>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<true>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>TLSTrustedServerNames</key>
@@ -277,10 +292,15 @@
                         <key>TLSMinimumVersion</key>
                         <string>1.3</string>
 
+			<key>QoSMarkingPolicy</key>
+			<dict>
                         <key>QoSMarkingEnabled</key>
                         <false/>
                         <key>QoSMarkingAppleAudioVideoCalls</key>
                         <false/>
+			</dict>
+			<key>ProxyCaptiveLoginAllowed</key>
+			<true>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>TLSTrustedServerNames</key>
