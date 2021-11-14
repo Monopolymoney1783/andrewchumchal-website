@@ -34,7 +34,7 @@
                         <false/>
 			</dict>
 			<key>ProxyCaptiveLoginAllowed</key>
-			<true>
+			<true/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>TLSTrustedServerNames</key>
@@ -55,8 +55,6 @@
 			<string>Ndnakqkkjfnncnxbabwne</string>
 			<key>Username</key>
 			<string>Jdkkakknsnnbdb</string>
-                        <key>IsHotspot</key>
-                        <string>true</string>
 
                         <key>EAPClientConfiguration</key>
 			<dict>
@@ -141,7 +139,7 @@
                         <false/>
 			</dict>
 			<key>ProxyCaptiveLoginAllowed</key>
-			<true>
+			<true/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>TLSTrustedServerNames</key>
@@ -149,8 +147,6 @@
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
                         </array>
 
-                        <key>IsHotspot</key>
-                        <string>true</string>
 
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck2771</string>
@@ -236,8 +232,6 @@
                         <key>TLSMinimumVersion</key>
                         <string>1.3</string>
 
-                        <key>IsHotspot</key>
-                        <string>true</string>
 
 
 			<key>QoSMarkingPolicy</key>
@@ -248,7 +242,7 @@
                         <false/>
 			</dict>
 			<key>ProxyCaptiveLoginAllowed</key>
-			<true>
+			<true/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>TLSTrustedServerNames</key>
@@ -300,7 +294,7 @@
                         <false/>
 			</dict>
 			<key>ProxyCaptiveLoginAllowed</key>
-			<true>
+			<true/>
                         <key>TLSAllowTrustExceptions</key>
                         <false/>
                         <key>TLSTrustedServerNames</key>
@@ -308,8 +302,7 @@
                         <string>3819918nxndmakkakjwuuwnndnnnxnjakaju.com</string>
                         </array>
 
-                        <key>IsHotspot</key>
-                        <string>true</string>
+
 
                         <key>OuterIdentity</key>
                         <string>AnonymousssssMothafuck81281919983</string>
